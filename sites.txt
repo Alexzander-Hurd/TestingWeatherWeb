@@ -1,0 +1,6002 @@
+3: Southampton Airport,se
+5: London City Airport,se
+6: Lydd,se
+7: Cranfield,ee
+8: Belfast City Airport,ni
+14: Carlisle Airport,nw
+22: Humberside Airport,yh
+25: Leeds Bradford Airport,yh
+26: Liverpool John Lennon Airport,nw
+33: Scatsta,os
+34: Sheffield Airport,yh
+37: Teesside International Airport,ne
+98: Warton,nw
+349: Dungeness B,se
+996: Loch Rannoch,ta
+3002: Baltasound,os
+3005: Lerwick (S. Screen),os
+3006: Sella Ness,os
+3008: Fair Isle,os
+3010: Sule Skerry,os
+3014: Foula,os
+3017: Kirkwall Airport,os
+3023: South Uist Range,he
+3026: Stornoway Airport,he
+3031: Loch Glascarnoch,he
+3034: Aultbea,he
+3037: Skye/Lusa,he
+3039: Bealach Na Ba,he
+3041: Aonach Mor Summit,he
+3044: Altnaharra Saws,he
+3047: Tulloch Bridge,he
+3062: Tain Range,he
+3063: Aviemore,he
+3065: Cairn Gorm Summit,he
+3066: Kinloss,gr
+3068: Lossiemouth,gr
+3072: Cairnwell,ta
+3075: Wick John O Groats Airport,he
+3080: Aboyne,gr
+3081: Braemar,gr
+3088: Inverbervie,gr
+3091: Aberdeen Airport,gr
+3094: Rosehearty Samos,gr
+3100: Tiree,st
+3105: Islay Airport,st
+3111: Campbeltown Airport,st
+3132: West Freugh,dg
+3134: Glasgow/Bishopton,st
+3136: Prestwick Rnas,st
+3139: Saughall,st
+3144: Strathallan,ta
+3148: Glen Ogle,ta
+3152: Salsburgh,st
+3153: Dundrennan,dg
+3155: Drumalbin,st
+3158: Charterhall,dg
+3162: Eskdalemuir,dg
+3166: Edinburgh/Gogarbank,dg
+3171: Leuchars,ta
+3204: Ronaldsway,nw
+3210: St. Bees Head,nw
+3212: Keswick,nw
+3214: Walney Island,nw
+3220: Carlisle,nw
+3224: Spadeadam,nw
+3225: Shap,nw
+3226: Warcop,nw
+3227: Great Dun Fell 2,nw
+3230: Redesdale Camp,ne
+3238: Albemarle,ne
+3240: Boulmer,ne
+3257: Leeming,yh
+3261: Dishforth Airfield,yh
+3262: Tynemouth,ne
+3265: Topcliffe,yh
+3266: Linton On Ouse,yh
+3275: Loftus (Samos),ne
+3281: Fylingdales,yh
+3292: Bridlington Mrsc,yh
+3302: Valley,wl
+3305: Capel Curig,wl
+3308: Snowdon Summit,wl
+3313: Rhyl,wl
+3316: Crosby,nw
+3318: Blackpoolsquires Gate,nw
+3321: Hawarden,wl
+3330: Thornecliffe Leek,wm
+3344: Bingley Samos,yh
+3348: Woodford,nw
+3351: Rostherne No 2,nw
+3354: Watnall,em
+3355: Church Fenton,yh
+3373: Scampton,em
+3377: Waddington,em
+3379: Cranwell,em
+3382: Leconfield Sar,yh
+3385: Donna Nook,em
+3391: Coningsby,em
+3392: Wainfleet,em
+3405: Aberdaron,wl
+3407: Llanbedr Airfield,wl
+3409: Bala,wl
+3410: Lake Vyrnwy Saws,wl
+3414: Shawbury,wm
+3453: Cottesmore,em
+3462: Wittering,ee
+3469: Holbeach,em
+3482: Marham,ee
+3488: Weybourne,ee
+3495: Coltishall,ee
+3496: Hemsby,ee
+3502: Aberporth,wl
+3503: Trawsgoed,wl
+3507: Sennybridge,wl
+3520: Shobdon Saws,wm
+3522: Credenhill,wm
+3529: Throckmorton,wm
+3535: Coleshill,wm
+3544: Church Lawford,wm
+3560: Bedford,ee
+3590: Wattisham,ee
+3604: Milford Haven C.B.,wl
+3605: Pembrey Sands,wl
+3609: Mumbles Head,wl
+3647: Little Rissington (Esaws),sw
+3649: Brize Norton,se
+3658: Benson,se
+3660: Raf High Wycombe,se
+3670: Northwood,ee
+3672: Northolt,se
+3680: Rothamsted,ee
+3684: Andrewsfield,ee
+3693: Shoeburyness,ee
+3696: Walton-On-Naze (Codet2),ee
+3707: Chivenor,sw
+3710: Liscombe,sw
+3716: St-Athan,wl
+3740: Lyneham,sw
+3743: Larkhill,sw
+3746: Boscombe Down,sw
+3749: Middle Wallop,se
+3761: Odiham,se
+3768: Farnborough,se
+3769: Charlwood,se
+3772: Heathrow,se
+3781: Kenley,se
+3784: Gravesend-Broadness,se
+3796: Langdon Bay,se
+3797: Manston,se
+3803: Scilly St Marys,sw
+3808: Camborne,sw
+3809: Culdrose,sw
+3815: Lizard Lighthouse,sw
+3817: Newquay Cornwall Airport,sw
+3823: Cardinham,sw
+3827: Mount Batten,sw
+3839: Exeter Airport,sw
+3840: Dunkeswell Aerodrome,sw
+3844: Exeter Airport,sw
+3853: Yeovilton,sw
+3857: Isle Of Portland,sw
+3862: Bournemouth Airport,sw
+3865: Southampton W.C.,se
+3866: St Catherines Pt.,se
+3872: Thorney Island,se
+3874: Solent Mrsc,se
+3876: Shoreham,se
+3882: Herstmonceux West End,se
+3894: Guernsey,sw
+3895: Jersey,sw
+3903: St Angelo,ni
+3904: Castlederg,ni
+3907: Magilligan,ni
+3908: Ballykelly,ni
+3911: Lough Fea,ni
+3914: Portrush,ni
+3915: Portglenone Samos,ni
+3916: Ballypatrick Forest,ni
+3917: Belfast International Airport,ni
+3923: Glenanne,ni
+3928: Larne,ni
+3930: Almondsbury,sw
+3952: Roches Point,
+3953: Valentia Observatory,
+3976: Belmullet,
+3980: Malin Head,
+99003: Cassley,he
+99005: Dalwhinnie,he
+99006: Dunstaffnage,st
+99008: East Malling,se
+99010: Fyvie Castle,gr
+99014: Katesbridge,ni
+99015: Killowen,ni
+99016: Kinbrace,he
+99025: Sutton Bonington,em
+99049: Durham,ne
+99057: Woburn,ee
+99058: Rothamsted No2,ee
+99060: Stonyhurst,nw
+99062: Winterbourne,wm
+99063: Rochdale,nw
+99068: Winterbourne,wm
+99078: Monks Wood,ee
+99080: Wisley,se
+99081: North Wyke,sw
+99086: Helens Bay,ni
+99092: Kinlochewe,he
+99093: Keele,wm
+99095: Kew Gardens,se
+99102: Eton Dorney,se
+99107: Sheffield Cdl,yh
+99115: Northamptonmoulton Park,em
+99116: High Mowthorpe,yh
+99118: Santon Downham,ee
+99121: Altnahinch Filters,ni
+99123: Cambridgeniab,ee
+99124: Brooms Barn,ee
+99127: Writtle,ee
+99130: Murlough,ni
+99131: Banagher  Caugh Hill,ni
+99132: Drumnadrochit,he
+99139: Hampstead,se
+99142: Scarborough,yh
+99159: Swanage,sw
+99203: Londonolympic Park South,se
+99204: London  Olympic Park North,se
+99557: Malham Tarn,yh
+300689: Howwood,st
+301168: Cannington,sw
+301739: Shotts,st
+301777: Langbank,st
+301886: Oban Airport,st
+310002: Birmingham,wm
+310003: Bradford,yh
+310004: Bristol,sw
+310006: Coventry,wm
+310007: Derby,em
+310009: Glasgow,st
+310011: Leicester,em
+310012: Liverpool,nw
+310013: Manchester,nw
+310015: Nottingham,em
+310016: Plymouth,sw
+310019: Stoke-On-Trent,wm
+310020: Sunderland,ne
+310022: Barnsley,yh
+310023: Barrow-In-Furness,nw
+310024: Basildon,ee
+310025: Basingstoke,se
+310026: Bath,sw
+310029: Blackburn,nw
+310030: Blackpool,nw
+310031: Bognor Regis,se
+310034: Bournemouth,sw
+310035: Bracknell,se
+310037: Brighton,se
+310039: Burton Upon Trent,wm
+310042: Cambridge,ee
+310045: Chatham,se
+310046: Chelmsford,ee
+310047: Cheltenham,sw
+310048: Chester,nw
+310049: Chesterfield,em
+310053: Colchester,ee
+310054: Corby,em
+310055: Crawley,se
+310056: Crewe,nw
+310059: Doncaster,yh
+310060: Douglas (Isle Of Man),nw
+310061: Dover,se
+310063: Dundee,ta
+310064: Dunfermline,ta
+310066: Eastbourne,se
+310069: Exeter,sw
+310071: Folkestone,se
+310073: Gillingham (Kent),se
+310074: Gloucester,sw
+310076: Gravesend,se
+310077: Great Yarmouth,ee
+310078: Greenock,st
+310079: Grimsby,yh
+310080: Guildford,se
+310084: Harlow,ee
+310086: Hartlepool,ne
+310087: Hastings,se
+310089: Hemel Hempstead,ee
+310090: High Wycombe,se
+310091: Hove,se
+310093: Hull,yh
+310094: Ipswich,ee
+310097: Kilmarnock,st
+310102: Lincoln,em
+310103: Livingston,dg
+310104: Lowestoft,ee
+310105: Luton,ee
+310106: Maidstone,se
+310108: Margate,se
+310109: Middlesbrough,ne
+310113: Newport,wl
+310114: Northampton,em
+310115: Norwich,ee
+310116: Nuneaton,wm
+310118: Oxford,se
+310119: Paisley,st
+310120: Peterborough,ee
+310121: Poole,sw
+310122: Portsmouth,se
+310123: Preston,nw
+310124: Reading,se
+310126: Rochdale,nw
+310129: Rugby,wm
+310130: Runcorn,nw
+310132: Scunthorpe,yh
+310133: Shrewsbury,wm
+310137: Southend-On-Sea,ee
+310139: St. Albans,ee
+310141: Stafford,wm
+310149: Swansea,wl
+310150: Swindon,sw
+310153: Torquay,sw
+310154: Tunbridge Wells,se
+310158: Warrington,nw
+310167: Worcester,wm
+310169: York,yh
+310170: Aberdeen,gr
+310176: Avonmouth,sw
+310181: Bideford,sw
+310182: Bude,sw
+310184: Campbeltown,st
+310191: Cowes,se
+310193: Elgin,gr
+310195: Felixstowe,ee
+310197: Fraserburgh,gr
+310200: Holyhead,wl
+310202: Ilfracombe,sw
+310216: Newquay,sw
+310217: Pembroke,wl
+310218: Penzance,sw
+310219: Perth,ta
+310221: Porthmadog,wl
+310223: Rhyl,wl
+310224: Rye,se
+310228: Skegness,em
+310230: St. Andrews,ta
+310233: St. Ives,sw
+310236: Tenby,wl
+310239: Ullapool,he
+310240: Whitstable,se
+320002: Inverness,he
+320003: Salisbury,sw
+320281: Andover,se
+320282: Aylesbury,se
+320283: Banbury,se
+320284: Barnstaple,sw
+320286: Berwick-Upon-Tweed,ne
+320293: Easington,yh
+320301: Lancaster,nw
+320305: Pershore,wm
+320309: Skipton,yh
+320313: Whitby,yh
+320319: Mallaig,he
+320322: Stranraer,dg
+321942: Aberfeldy,ta
+321943: Abingdon,se
+321971: Appledore,sw
+321976: Arbroath,ta
+321979: Ardrossan,st
+321983: Armagh,ni
+322002: Ballycastle,ni
+322011: Barry,wl
+322018: Battle,se
+322040: Blyth,ne
+322041: Bodmin,sw
+322047: Boston,em
+322049: Bottesford,em
+322052: Bowling,st
+322053: Braemar,gr
+322056: Brecon,wl
+322063: Bridport,sw
+322064: Brightlingsea,ee
+322065: Brixham,sw
+322071: Buckie,gr
+322073: Builth Wells,wl
+322075: Burghead,gr
+322076: Burntisland,ta
+322089: Canterbury,se
+322099: Charlestown,gr
+322116: Coleraine,ni
+322124: Corpach,he
+322125: Cromarty,he
+322134: Dartmouth,sw
+322148: Douglas (South Lanarkshire),st
+322172: Enniskillen,ni
+322179: Exmouth,sw
+322183: Fakenham,ee
+322185: Falmouth,sw
+322192: Finnart,ta
+322193: Fishguard,wl
+322194: Fleetwood,nw
+322201: Fowey,sw
+322216: Garston,ee
+322230: Girvan,st
+322234: Goole,yh
+322235: Gourock,st
+322236: Grangemouth,ta
+322237: Granton,dg
+322276: Harwich,ee
+322278: Haslingden,nw
+322281: Hayes,se
+322290: Heysham,nw
+322294: Hoddesdon,ee
+322308: Hunterston,st
+322315: Immingham,yh
+322319: Invergordon,he
+322322: Irvine,st
+322324: Isle Of Grain,se
+322372: Kendal,nw
+322378: Killingholme,em
+322380: King's Lynn,ee
+322381: Kingsnorth,se
+322383: Kirkcaldy,ta
+322440: Leith,dg
+322446: Letchworth,ee
+322462: Littlehampton,se
+322466: Llanddulas,wl
+322467: Lochaline,he
+322472: Londonderry (Derry),ni
+322488: Macduff,gr
+322494: Maldon,ee
+322523: Mistley,ee
+322537: Montrose,ta
+322543: Mostyn,wl
+322544: Motherwell,st
+322568: Neath Abbey,wl
+322572: New Holland,yh
+322574: Newhaven,se
+322581: Nottingham,em
+322595: Old Kilpatrick,st
+322597: Omagh,ni
+322613: Padstow,sw
+322621: Par,sw
+322635: Penrith,nw
+322636: Penryn,sw
+322641: Peterhead,gr
+322659: Port Glasgow,st
+322661: Port Talbot,wl
+322666: Portland,sw
+322675: Portree,he
+322689: Ramsey (Cambridgeshire),ee
+322690: Ramsgate,se
+322718: Rosyth,ta
+322720: Rothesay,st
+322752: Scalloway,os
+322753: Scarborough,yh
+322757: Scrabster,he
+322758: Seaham,ne
+322763: Sharpness,sw
+322767: Shotton,wl
+322774: Silloth,nw
+322818: Stonehouse,sw
+322842: Tarbert,st
+322847: Teesport,ne
+322848: Teignmouth,sw
+322856: Thirsk,yh
+322858: Tilbury,ee
+322880: Truro,sw
+322937: Warrenpoint,ni
+322939: Watchet,sw
+322942: Wells,sw
+322943: Welshpool,wl
+322944: Wemyss Bay,st
+322947: Weymouth,sw
+322948: Whitehaven,nw
+322951: Wisbech,ee
+322953: Workington,nw
+322954: Wrexham,wl
+322958: Yiewsley,se
+324048: Alnwick,ne
+324049: Bishop Auckland,ne
+324050: Bury St. Edmunds,ee
+324051: Buxton,em
+324052: Cheadle (Staffordshire),wm
+324053: Docking,ee
+324054: Dorchester,sw
+324055: Dorking,se
+324056: Gainsborough,em
+324057: Hetton,yh
+324058: Hereford,wm
+324059: Hertford,ee
+324060: Horsham,se
+324061: Huntingdon,ee
+324062: Melton Mowbray,em
+324063: Newbury,se
+324064: Newton Stewart,dg
+324065: Salcombe,sw
+324066: Sanquhar,dg
+324067: Sedbergh,nw
+324068: Selsey,se
+324069: Southwold,ee
+324070: Spalding,em
+324071: Sudbury,wm
+324072: Taunton,sw
+324073: Tavistock,sw
+324074: Thetford,ee
+324075: Windsor,se
+324076: Durness,he
+324077: Aberaeron,wl
+324078: Abersoch,wl
+324079: Carmarthen,wl
+324080: Colwyn Bay,wl
+324081: Merthyr Tydfil,wl
+324082: Newtown (Powys),wl
+324149: Aldershot,se
+324150: Ashford,se
+324151: Barnet,se
+324152: Croydon,se
+324153: Kingston Upon Thames,se
+324154: Maidenhead,se
+324155: Reigate,se
+324156: Uckfield,se
+324157: Hawick,dg
+324158: Alfreton,em
+324159: Alloa,ta
+324160: Alton Towers Leisure Park,wm
+324161: Amersham,se
+324162: Ampthill,ee
+324163: Bakewell,em
+324164: Barking,se
+324165: Betws-Y-Coed,wl
+324166: Biggleswade,ee
+324167: Bridgnorth,wm
+324168: Bromsgrove,wm
+324169: Buckingham,se
+324170: Cannock,wm
+324171: Castleford,yh
+324172: Church Stretton,wm
+324173: Cirencester,sw
+324174: Coldstream,dg
+324175: Daventry,em
+324176: Devizes,sw
+324178: Dunbar,dg
+324179: Dunblane,ta
+324181: Ellesmere Port,nw
+324182: Eyemouth,dg
+324183: Falkirk,ta
+324184: Farnham,se
+324185: Fort Augustus,he
+324186: Fort William,he
+324187: Galashiels,dg
+324188: Glencoe,he
+324189: Glenrothes,ta
+324190: Grantown-On-Spey,he
+324191: Halifax,yh
+324192: Harrogate,yh
+324193: Henley On Thames,se
+324194: Hinckley,em
+324196: Hungerford,se
+324197: Kelso,dg
+324198: Kettering,em
+324199: Leatherhead,se
+324200: Lockerbie,dg
+324201: Ludlow,wm
+324202: Macclesfield,nw
+324203: Machynlleth,wl
+324204: Mansfield,em
+324205: Market Harborough,em
+324206: Marlborough,sw
+324207: Moffat,dg
+324208: Newark,em
+324209: North Berwick,dg
+324210: Oakham,em
+324211: Peebles,dg
+324212: Pontefract,yh
+324214: Rampton,em
+324215: Retford,em
+324216: Ross-On-Wye,wm
+324217: Rotherham,yh
+324219: Solihull,wm
+324220: Stenhousemuir,ta
+324221: Stirling,ta
+324222: Stratford-Upon-Avon,wm
+324223: Sutton Coldfield,wm
+324224: Telford,wm
+324225: Tewkesbury,sw
+324226: Thurso,he
+324227: Towcester,em
+324228: Uttoxeter,wm
+324229: Wakefield,yh
+324230: Walsall,wm
+324231: Warminster,sw
+324232: Warwick,wm
+324233: Wellingborough,em
+324234: West Bromwich,wm
+324235: Widnes,nw
+324236: Wigan,nw
+324237: Winslow,se
+324238: Woburn,ee
+324239: Woking,se
+324240: Wolverhampton,wm
+324241: Worksop,em
+324242: Darwen,nw
+324243: Clitheroe,nw
+324244: Great Harwood,nw
+324245: Oldham,nw
+324246: Bolton,nw
+324247: Haslemere,se
+324248: Petersfield,se
+324249: Ely (Cambridgeshire),ee
+324250: Swaffham,ee
+324251: Cromer,ee
+324252: Diss,ee
+324253: Haverhill,ee
+324254: Ruthin,wl
+324255: Formby,nw
+324256: Ingleton Youth Hostel,yh
+324257: Three Chimneys,se
+324258: Brough (Cumbria),nw
+324259: Greenhead Youth Hostel,ne
+324260: Rochester (Northumberland),ne
+324261: Eskdalemuir,dg
+324262: Llandovery,wl
+324263: Bala,wl
+324264: Abergavenny,wl
+324265: Hay-On-Wye,wl
+324266: Tiverton,sw
+324267: Chard,sw
+324268: Malmesbury,sw
+324269: Stow-On-The-Wold,sw
+324270: Ansty,sw
+324272: Launceston,sw
+324273: Okehampton,sw
+324276: Lynmouth,sw
+324278: Sleaford,em
+324279: Louth,em
+324280: Pickering,yh
+324281: Askrigg,yh
+324306: Arinagour Isle Of Coll,st
+324374: Hadleigh Farm,ee
+324377: Wembley Stadium,se
+324378: Lee Valley White Water Centre,ee
+324379: Weymouth And Portland,sw
+324382: The Royal Artillery Barracks,se
+324383: All England Tennis Club Wimbledon,se
+324386: Horseguards Parade,se
+324387: Hyde Park,se
+350001: A' Bhuidheanach Bheag,ta
+350002: Abbey Dore Court Garden,wm
+350003: Abbey Hulton,wm
+350004: Abbeydale,yh
+350005: Abbots Bromley,wm
+350006: Abbotsbury Sub-Tropical Gardens,sw
+350007: Abercarn,wl
+350008: Aberconwy House,wl
+350009: Aberdare,wl
+350010: Aberdeen Airport,gr
+350011: Aberdeen F.C.(Pittodrie),gr
+350012: Aberdeen Youth Hostel,gr
+350013: Aberdour,ta
+350014: Aberdovey,wl
+350015: Aberfoyle,ta
+350017: Abergele,wl
+350018: Aberglasney Gardens,wl
+350019: Aberlour,gr
+350020: Abertillery,wl
+350021: Aberystwyth,wl
+350022: Aboyne,gr
+350023: Accrington,nw
+350024: A'Chailleach (Fannaich Region),he
+350025: A'Chailleach (Monadh Liath Region),he
+350026: Achamore Gardens,st
+350027: Achininver Youth Hostel,he
+350028: Achmelvich Youth Hostel,he
+350029: A'Chralaig,he
+350030: Ackers Trust Ski Centre,wm
+350031: Acle,ee
+350032: Acock's Green,wm
+350033: Acomb Youth Hostel,ne
+350034: Acorn Bank Garden,nw
+350035: Adderley Green,wm
+350036: Addlestone,se
+350037: Adel,yh
+350038: Adlington,nw
+350039: Adventure Island,ee
+350040: Adventure Wonderland,sw
+350041: Adwick Le Street,yh
+350042: Ae Mountain Bike Trail Centre,dg
+350043: Afan Forest,wl
+350044: A'Ghlas-Bheinn,he
+350045: Ainsdale,nw
+350046: Aintree,nw
+350047: Aintree Racecourse,nw
+350048: Airdrie,st
+350049: Alcester,wm
+350050: Aldeburgh,ee
+350051: Alder Forest,nw
+350052: Alderley Edge,nw
+350053: Alderman's Green,wm
+350054: Alderney Airport,sw
+350055: Aldridge,wm
+350056: Alexandria,st
+350057: Alford (Aberdeenshire),gr
+350058: Alford (Lincolnshire),em
+350059: Alford Ski Centre,gr
+350060: Litlington,se
+350061: Alice Holt,se
+350063: Allerton (Merseyside),nw
+350064: Allerton (West Yorkshire),yh
+350065: Allesley,wm
+350066: Almondbury,yh
+350067: Alness,he
+350068: Alpine Snowsports Farnborough,se
+350069: Alsager,nw
+350070: Alston,nw
+350071: Alston Youth Hostel,nw
+350072: Alt,nw
+350073: Althorp House,em
+350074: Alton,se
+350075: Altrincham,nw
+350076: Alum Rock,wm
+350077: Alva,ta
+350078: Alverstoke,se
+350079: Alwoodley,yh
+350080: Alyth,ta
+350081: Am Basteir,he
+350082: Am Bodach,he
+350083: Am Faochagach,he
+350084: Amble,ne
+350085: Amblecote,wm
+350086: Ambleside,nw
+350087: Ambleside Youth Hostel,nw
+350088: Amesbury,sw
+350089: A'Mhaighdean,he
+350090: A'Mharconaich,he
+350091: Amlwch,wl
+350092: Ammanford,wl
+350093: Ampney St. Peter,sw
+350094: An Caisteal,ta
+350095: An Cala Garden,st
+350096: An Coileachan,he
+350097: An Gearanach,he
+350098: An Riabhachan,he
+350099: An Sgarsoch,gr
+350100: An Socach (Glen Ey),gr
+350101: An Socach (Highland),he
+350102: An Socach (Loch Mullardoch),he
+350103: An Stuc,ta
+350104: Ancoats,nw
+350105: Ancrum Outdoor Education Centre,ta
+350106: Gosport & Stokes Bay Golf Club,se
+350107: Anglesey Abbey,ee
+350108: Annan,dg
+350109: Anne Hathaway's Cottage,wm
+350110: Annfield Plain,ne
+350111: Anniesland,st
+350112: Anstruther,ta
+350113: Antony House,sw
+350114: Antrim,ni
+350115: Antrim Castle Gardens,ni
+350116: Aonach Air Chrith,he
+350117: Aonach Beag (1238m),he
+350118: Aonach Beag (Highland),he
+350119: Aonach Mor,he
+350120: Aonach Meadhoin,he
+350121: Apperley Bridge,yh
+350122: Appleby-In-Westmorland,nw
+350123: Appley,sw
+350124: Arbourthorne,yh
+350125: Arbuthnott House,gr
+350126: Ardanaiseig Gardens,st
+350127: Ardchattan Gardens,st
+350128: Ardencraig Gardens,st
+350129: Ardgarten Youth Hostel,st
+350130: Ardkinglas Woodland Garden,st
+350131: Ardlussa,st
+350132: Ardress House (Nt),ni
+350133: Ardsley,yh
+350134: Ardtornish,he
+350135: Arduaine Gardens,st
+350136: Ardwell House,dg
+350137: Arisaig,he
+350138: Arley Hall,nw
+350139: Arlington Court,sw
+350140: Armadale,dg
+350141: Armadale Pier,he
+350142: Armagh Youth Hostel,ni
+350143: Armathwaite,nw
+350144: Armley,yh
+350145: Armthorpe,yh
+350146: Arnold,em
+350147: Arno's Vale,sw
+350148: Arnside,nw
+350149: Arnside Youth Hostel,nw
+350150: Arsenal F.C.,se
+350151: Arundel,se
+350152: Arundel Youth Hostel,se
+350153: Ascot Racecourse,se
+350154: Ascott,se
+350155: Ashbourne,em
+350156: Ashburton,sw
+350157: Ashby De La Zouch,em
+350158: Ashcott,sw
+350159: Ashington,ne
+350160: Ashley Down,sw
+350161: Ashton-In-Makerfield,nw
+350162: Ashton-Under-Lyne,nw
+350163: Askern,yh
+350164: Aspatria,nw
+350165: Aspley,em
+350166: Aspull,nw
+350167: Astley Bridge,nw
+350168: Aston,wm
+350169: Aston Villa F.C.,wm
+350170: Atherstone,wm
+350171: Atherton,nw
+350172: Attercliffe,yh
+350173: Atterton,em
+350174: Attleborough,ee
+350175: Auchinleck,st
+350176: Auchterarder,ta
+350177: Auchtermuchty,ta
+350178: Audenshaw,nw
+350179: Augher,ni
+350180: Aughnacloy,ni
+350181: Auskerry Sound,os
+350182: Austhorpe,yh
+350183: Avebury,sw
+350184: Avebury Manor & Garden,sw
+350185: Aviemore,he
+350186: Aviemore Youth Hostel,he
+350187: Avon Ski Centre,sw
+350188: Awliscombe,sw
+350189: Axminster,sw
+350190: Aylsham,ee
+350191: Ayr,st
+350192: Ayr Bay,st
+350193: Ayr Racecourse,st
+350194: Ayr Youth Hostel,st
+350195: Aysgarth Falls Youth Hostel,yh
+350196: Babbacombe Bay,sw
+350197: Bacton,ee
+350198: Bacup,nw
+350199: Badby Youth Hostel,em
+350200: Badsey,wm
+350201: Bagendon,sw
+350202: Bagshot,se
+350203: Bagslate Moor,nw
+350204: Baguley,nw
+350205: Baildon,yh
+350206: Baillieston,st
+350207: Bainton,yh
+350208: Bakewell Youth Hostel,em
+350210: Balblair Trails,he
+350211: Baldersdale Youth Hostel,ne
+350212: Baldock,ee
+350213: Ball Green,wm
+350214: Ballaheannagh,nw
+350215: Ballantrae Bay,st
+350216: Ballater,gr
+350217: Ballater Ski Slope,gr
+350218: Ballinluig,ta
+350219: Ballochroy,st
+350220: Ballyclare,ni
+350221: Ballygrant,st
+350222: Ballymena,ni
+350223: Ballymoney,ni
+350224: Ballynahinch,ni
+350225: Balnain Bike Park,he
+350226: Balornock,st
+350227: Bamber Bridge,nw
+350228: Bamford,nw
+350229: Banbridge,ni
+350230: Banchory,gr
+350231: Banff,gr
+350232: Bangor (Gwynedd),wl
+350233: Bangor (North Down),ni
+350234: Bangor Castle,ni
+350235: Bangor Youth Hostel,wl
+350236: Bangor-On-Dee Racecourse,wl
+350237: Bank Top,yh
+350238: Bankfoot,ta
+350239: Bannockburn,ta
+350240: Banstead,se
+350241: Bardney,em
+350242: Bardsley,nw
+350243: Bargany Gardens,st
+350244: Bargoed,wl
+350245: Barguillean Garden,st
+350246: Barley,ee
+350247: Barlow Moor,nw
+350248: Barmouth,wl
+350249: Barnard Castle,ne
+350250: Barne Barton,sw
+350251: Barnoldswick,nw
+350252: Barnsdale Gardens (Oakham),em
+350253: Barnsley Fc,yh
+350254: Barnton,dg
+350255: Barra (Traigh Mhòr) Airport,he
+350256: Barrhead,st
+350257: Barrington Court,sw
+350258: Barry Island Pleasure Park,wl
+350259: Bartlow,ee
+350260: Barton Upon Irwell,nw
+350261: Barton-Upon-Humber,yh
+350262: Basford,wm
+350263: Bassett,se
+350264: Bassingbourn Snowsports Centre,ee
+350265: Bateman's,se
+350266: Bath Racecourse,sw
+350267: Bath Youth Hostel,sw
+350268: Bathgate,dg
+350269: Batley,yh
+350270: Batsford Arboretum,sw
+350271: Battlefield,st
+350272: Bawtry,yh
+350273: Beaconsfield,se
+350274: Beaminster,sw
+350275: Bearsden,st
+350276: Bearsden Ski Centre,st
+350277: Bearwood,sw
+350278: Beauchief,yh
+350279: Beauly,he
+350280: Beauly Firth,he
+350281: Beaumaris,wl
+350282: Beaumont Leys,em
+350283: Bebington,nw
+350284: Beccles,ee
+350285: Beccles Heliport,ee
+350286: Beckton,se
+350287: Bedale,yh
+350288: Beddgelert,wl
+350289: Bedford,ee
+350290: Bedgebury,se
+350291: Bedgebury National Pinetum,se
+350292: Bedhampton,se
+350293: Bedlington,ne
+350294: Bedminster,sw
+350295: Bedwas,wl
+350296: Bedworth,wm
+350297: Beech Lane,wm
+350298: Beer Youth Hostel,sw
+350299: Beeston (Nottinghamshire),em
+350300: Beeston (West Yorkshire),yh
+350301: Beetley,ee
+350302: Beighton,yh
+350303: Beinn A' Chaorainn (Aberdeenshire),gr
+350304: Beinn A' Chaorainn (Highland),he
+350305: Beinn A' Chlachair,he
+350306: Beinn A' Chlaidheimh,he
+350307: Beinn A' Chleibh,st
+350308: Beinn A' Chochuil,st
+350309: Beinn A' Chreachain,ta
+350310: Beinn A' Chroin,ta
+350311: Beinn Achaladair,st
+350312: Beinn An Dothaidh,st
+350313: Beinn Bheoil,he
+350314: Beinn Bhreac,gr
+350315: Beinn Bhrotain,gr
+350316: Beinn Bhuidhe,st
+350317: Beinn Chabhair,ta
+350318: Beinn Dearg (Highland),he
+350319: Beinn Dearg (Perth & Kinross),ta
+350320: Beinn Dorain,st
+350321: Beinn Dubhchraig,ta
+350322: Beinn Eibhinn,he
+350323: Beinn Eunaich,st
+350324: Beinn Fhada,he
+350325: Beinn Fhionnlaidh (Argyll & Bute),st
+350326: Beinn Fhionnlaidh (Highland),he
+350327: Beinn Ghlas,ta
+350328: Beinn Heasgarnich,ta
+350329: Beinn Ime,st
+350330: Beinn Iutharn Mhor,ta
+350331: Beinn Liath Mhor,he
+350332: Beinn Liath Mhor Fannaich,he
+350333: Beinn Mhanach,ta
+350334: Beinn Mheadhoin,gr
+350335: Beinn Na Lap,he
+350336: Beinn Nan Aighenan,st
+350337: Beinn Narnain,st
+350338: Beinn Sgritheall,he
+350339: Beinn Sgulaird,st
+350340: Beinn Tarsuinn,he
+350341: Beinn Teallach,he
+350342: Beinn Tulaichean,ta
+350343: Beinn Udlamain,ta
+350344: Beith,st
+350345: Belchamp Otten,ee
+350346: Belcoo,ni
+350347: Belfast,ni
+350348: Belfast International Airport,ni
+350349: Belfast International Youth Hostel,ni
+350350: Belgrave,em
+350351: Belhaven Bay,dg
+350352: Bell Cottage Garden,nw
+350353: Bell Green,wm
+350354: Belle Isle,yh
+350355: Belle Vale,wm
+350356: Bellever Youth Hostel,sw
+350357: Bellingham,ne
+350358: Bellingham Youth Hostel,ne
+350359: Bell's Close,ne
+350360: Bellshill,st
+350361: Belper,em
+350362: Belper River Gardens,em
+350363: Belsay Hall Castle And Gardens,ne
+350364: Belton House,em
+350365: Ben Alder,he
+350366: Ben Challum,ta
+350367: Ben Chonzie,ta
+350368: Ben Cruachan,st
+350369: Ben Hope,he
+350370: Ben Lawers,ta
+350371: Ben Lomond,ta
+350372: Ben Lui,st
+350373: Ben Macdui,gr
+350374: Ben More (Argyll & Bute),st
+350375: Ben More (Stirling),ta
+350376: Ben More Assynt,he
+350377: Ben Nevis,he
+350378: Ben Oss,ta
+350379: Ben Starav,he
+350380: Ben Vane,st
+350381: Ben Vorlich (Argyll & Bute),st
+350382: Ben Vorlich (Perth & Kinross),ta
+350383: Benbecula (Balivanich) Airport,he
+350384: Beningbrough Hall,yh
+350385: Benington Lordship,ee
+350386: Benllech,wl
+350387: Bennetts Water Garden,sw
+350388: Benthall Hall,wm
+350389: Bentley (South Yorkshire),yh
+350390: Bentley (West Midlands),wm
+350391: Bentley (West Yorkshire),yh
+350392: Benton Square,ne
+350393: Bents Green,yh
+350394: Bentworth,se
+350395: Benvarden,ni
+350396: Benwell,ne
+350397: Berkeley Castle Grounds,sw
+350398: Berkhamsted,ee
+350399: Berneray Youth Hostel,he
+350400: Berri Court,se
+350401: Berrington Hall,wm
+350402: Bescot,wm
+350403: Besford,wm
+350404: Bessacarr,yh
+350405: Bestwood,em
+350406: Bethersden,se
+350407: Bethesda,wl
+350408: Beverley,yh
+350409: Beverley Friary Youth Hostel,yh
+350410: Beverley Racecourse,yh
+350411: Bewdley,wm
+350412: Bexhill,se
+350413: Bexley,se
+350414: Bicester,se
+350415: Bickleigh Castle,sw
+350416: Bicton Park Gardens,sw
+350417: Biddulph,wm
+350418: Biddulph Grange Gardens,wm
+350419: Bidean A' Choire Sheasgaich,he
+350420: Bidean Nam Bian,he
+350421: Bidein A' Ghlas Thuill,he
+350422: Bierley,yh
+350423: Bigbury Bay,sw
+350424: Bigbury-On-Sea,sw
+350425: Biggar,st
+350426: Biggin Hill,se
+350427: Bilborough,em
+350428: Billericay,ee
+350429: Billinge,nw
+350430: Billingham,ne
+350431: Billingshurst,se
+350432: Bilston,wm
+350433: Binbrook,em
+350434: Bingham,em
+350435: Bingley,yh
+350436: Binley,wm
+350437: Binnein Beag,he
+350438: Binnein Mor,he
+350439: Birchencliffe,yh
+350440: Birchgrove,wl
+350441: Birchington,se
+350442: Bird End,wm
+350443: Birkenhead,nw
+350444: Birks,yh
+350445: Birmingham Botanical Gardens,wm
+350446: Birmingham City F.C.,wm
+350447: Birmingham International Airport,wm
+350448: Birsay Bay,os
+350449: Birstall,em
+350450: Birstall Smithies,yh
+350451: Birtley,ne
+350452: Biscot,ee
+350453: Bisham Abbey National Sports Centre,se
+350454: Bishopbriggs,st
+350455: Bishops Cannings,sw
+350456: Bishop's Castle,wm
+350457: Bishop's Itchington,wm
+350458: Bishop's Stortford,ee
+350459: Bishop's Waltham,se
+350460: Bishopsworth,sw
+350461: Bisley,sw
+350462: Bitterne,se
+350463: Bla Bheinn,he
+350464: Black Moor,yh
+350465: Black Sail Youth Hostel,nw
+350467: Blackbrook,nw
+350468: Blackburn Rovers F.C.,nw
+350469: Blackford Bridge,nw
+350470: Blackgang Chine,se
+350471: Blackhall,dg
+350472: Blackheath,wm
+350473: Blackley,nw
+350474: Blackpool F.C.,nw
+350475: Blackpool International Airport,nw
+350476: Blackpool Pleasure Beach,nw
+350477: Blackpool Sands,sw
+350478: Blackwood,wl
+350479: Blaenau Ffestiniog,wl
+350480: Blaenavon,wl
+350481: Blaencaron Youth Hostel,wl
+350482: Blairgowrie,ta
+350483: Blairnairn,st
+350484: Blakelaw,ne
+350485: Blakenall Heath,wm
+350486: Blakenhall,wm
+350487: Blakenham Woodland Garden,ee
+350488: Blandford Forum,sw
+350489: Blantyre,st
+350490: Blaxhall Youth Hostel,ee
+350491: Blaydon,ne
+350492: Blenheim Palace,se
+350493: Bletchley,se
+350494: Blewbury,se
+350495: Bloomfield,wm
+350496: Blossomfield,wm
+350497: Bloxwich,wm
+350498: Bloxworth,sw
+350499: Blundellsands,nw
+350500: Blurton,wm
+350501: Blythe Bridge,wm
+350502: Bodnant Gardens,wl
+350503: Bodrhyddan Hall,wl
+350504: Boggle Hole Youth Hostel,yh
+350505: Boldmere,wm
+350506: Boldon,ne
+350507: Boldon Colliery,ne
+350508: Bollington,nw
+350509: Bolsover,em
+350511: Bolton Wanderers F.C.,nw
+350512: Bo'Ness,ta
+350513: Bonnyrigg,dg
+350514: Bootle,nw
+350515: Borde Hill Garden,se
+350516: Borehamwood,ee
+350517: Boroughbridge,yh
+350518: Borrowdale Youth Hostel,nw
+350519: Borth,wl
+350520: Borth (Beach),wl
+350521: Borth Youth Hostel,wl
+350522: Boscastle Harbour Youth Hostel,sw
+350523: Boston Deeps,em
+350524: Boswinger Youth Hostel,sw
+350525: Durham Botanic Garden,ne
+350526: Oxford Botanic Garden,se
+350527: Sheffield Botanical Gardens,yh
+350528: Botany Bay (Broadstairs),se
+350529: Bothwell,st
+350530: Botley,se
+350531: Boughton House,em
+350532: Boughton Street,se
+350533: Bourne,em
+350534: Bournemouth Airport,sw
+350535: Bournville,wm
+350536: Bourton-On-The-Water,sw
+350537: Bovey Tracey,sw
+350538: Bowdon,nw
+350539: Bowgreen,nw
+350540: Bowles Outdoor Centre,se
+350541: Bowmore,st
+350542: Bowness-On-Windermere,nw
+350543: Bowood House & Gardens,sw
+350544: Boyton Cross,ee
+350545: Bracadale,he
+350546: Brackenbottom,yh
+350547: Brackley,em
+350548: Bracknell Ski & Snowboard Centre,se
+350549: Bradeley,wm
+350550: Bradenham,ee
+350551: Bradenham (Buckinghamshire),se
+350552: Bradford-On-Avon,sw
+350553: Bradgate,yh
+350554: Bradley Fold,nw
+350555: Bradmore,wm
+350556: Bradshaw,nw
+350557: Bradway,yh
+350558: Bradwell Village Youth Hostel,se
+350559: Braemar Youth Hostel,gr
+350560: Braeriach,he
+350561: Braidfauld,st
+350562: Braigh Coire Chruinn-Bhalgain,ta
+350563: Braintree,ee
+350564: Bramcote,em
+350565: Bramhall,nw
+350566: Bramham Park,yh
+350567: Brampton,nw
+350568: Bran End,ee
+350569: Brandon (Durham),ne
+350570: Brandon (Suffolk),ee
+350571: Brands Hatch,se
+350572: Branklyn Gardens,ta
+350573: Branksome,sw
+350574: Branksome Park,sw
+350575: Bransholme,yh
+350576: Branthwaite,nw
+350577: Braunstone,em
+350578: Braunton,sw
+350579: Brayford,sw
+350580: Brechin,ta
+350581: Bredbury,nw
+350582: Breightmet,nw
+350583: Breighton,yh
+350584: Brentwood,ee
+350585: Brentwood Leisure Park,ee
+350586: Bressingham Gardens,ee
+350587: Bretton Youth Hostel,em
+350588: Bridge Of Allan,ta
+350589: Bridge Of Dye,gr
+350590: Bridge Of Weir,st
+350591: Bridgemere Garden World,nw
+350592: Bridgend,wl
+350593: Bridgend (Fife),ta
+350594: Bridges Long Mynd Youth Hostel,wm
+350595: Bridgeton,st
+350596: Bridgwater,sw
+350597: Bridlington,yh
+350598: Brierfield,nw
+350599: Brierley Hill,wm
+350600: Brigg,yh
+350601: Brighouse,yh
+350602: Brighton Racecourse,se
+350603: Patcham Place,se
+350604: Brigsley,yh
+350605: Brincliffe,yh
+350606: Bring Deeps,os
+350607: Brinnington,nw
+350608: Brislington,sw
+350609: Bristnall Fields,wm
+350610: Bristol City F.C.,sw
+350612: Bristol International Airport,sw
+350613: Bristol Youth Hostel,sw
+350614: Briston,ee
+350615: Briton Ferry,wl
+350616: Broad Cairn,gr
+350617: Broad Haven Youth Hostel,wl
+350618: Broad Hinton,sw
+350619: Broadford,he
+350620: Broadford Airport,he
+350621: Broadford Youth Hostel,he
+350622: Broadheath,nw
+350623: Broadhembury,sw
+350624: Broadmeadows Youth Hostel,dg
+350625: Broadstairs,se
+350626: Broadstairs Youth Hostel,se
+350627: Broadstone,sw
+350628: Broadway,wm
+350629: Brockenhurst,se
+350630: Brockmoor,wm
+350631: Brodick,st
+350632: Brodick Castle Garden,st
+350633: Bromborough,nw
+350634: Bromford,wm
+350635: Bromley (Greater London),se
+350636: Bromley (West Midlands),wm
+350637: Bromley Cross,nw
+350638: Bromley Ski Centre,se
+350639: Bromyard,wm
+350640: Bronington,wl
+350641: Brook Bottom,nw
+350642: Brook Cottage Gardens (Alkerton),se
+350643: Brookeborough,ni
+350644: Brooklands,nw
+350645: Broom,yh
+350646: Broomhill,sw
+350647: Brora,he
+350648: Brough,yh
+350649: Broughshane,ni
+350650: Broughton Castle,se
+350651: Broughton House (Kirkcudbright),dg
+350652: Broughton In Furness,nw
+350653: Broughton Mills,nw
+350654: Brownhills,wm
+350655: Brown's Green,wm
+350656: Broxburn,dg
+350657: Bruach Na Frithe,he
+350658: Bruera,nw
+350659: Brundish,ee
+350660: Bryn,nw
+350661: Bryn Gwynant Youth Hostel,wl
+350662: Brynmawr,wl
+350663: Bu Sands,os
+350664: Buckfastleigh,sw
+350665: Buckhaven,ta
+350666: Buckley,wl
+350667: Bucknall,wm
+350668: Budleigh Salterton,sw
+350669: Bulwell,em
+350670: Bungay,ee
+350671: Buntingford,ee
+350672: Burdiehouse,dg
+350673: Burford,se
+350674: Burford House Gardens,wm
+350675: Burgess Hill,se
+350676: Burgh Le Marsh,em
+350677: Burley Youth Hostel,se
+350678: Burnage,nw
+350679: Burnby Hall,yh
+350680: Burnden,nw
+350681: Burnham Market,ee
+350682: Burnham-On-Crouch,ee
+350683: Burnham-On-Sea,sw
+350684: Burnley,nw
+350685: Burnley F.C.,nw
+350686: Burry Port,wl
+350687: Burslem,wm
+350688: Burton Coggles,em
+350689: Burton Latimer,em
+350690: Bury,nw
+350691: Busby,st
+350692: Buscot Park,se
+350693: Bushbury,wm
+350694: Bushey,ee
+350695: Bushmills,ni
+350696: Butleigh,sw
+350697: Butterknowle,ne
+350698: Buttermere Youth Hostel,nw
+350699: Buttershaw,yh
+350700: Harpur Hill,em
+350701: Bwlch Nant Yr Arian,wl
+350702: Byker,ne
+350703: Bylchau,wl
+350704: Bynack More,he
+350705: Byrness Youth Hostel,ne
+350706: Cadbury Heath,sw
+350707: Cadwell Park,em
+350708: Caerau,wl
+350709: Caerleon,wl
+350710: Caernarfon,wl
+350711: Caerphilly,wl
+350712: Cairn Bannoch,gr
+350714: Cairn Gorm Base Station,he
+350715: Cairn Of Claise,gr
+350716: Cairn Toul,gr
+350717: Caister-On-Sea,ee
+350718: Caistor,em
+350719: Caldecotte,se
+350720: Caldicot,wl
+350721: Callakille,he
+350722: Callander,ta
+350723: Callington,sw
+350724: Calne,sw
+350725: Calshot Activities Centre,se
+350726: Camberley,se
+350727: Camblesforth,yh
+350728: Cambo Estate,ta
+350729: Camborne,sw
+350730: Cambridge City Airport,ee
+350731: Cambridge University Botanic Garden,ee
+350732: Cambridge Youth Hostel,ee
+350733: Cambuslang,st
+350734: Camden Town,se
+350735: Camelford,sw
+350736: Camelot Theme Park (Charnock Richard),nw
+350737: Camp Town,yh
+350738: Campbeltown Airport,st
+350739: Camperdown,ne
+350740: Camusrory,he
+350741: Canford Heath,sw
+350742: Canklow,yh
+350743: Canley,wm
+350744: Cannich Youth Hostel,he
+350745: Canon Pyon,wm
+350746: Canons Ashby House,em
+350747: Canterbury Youth Hostel,se
+350748: Canvey Island,ee
+350749: Caol Raineach,he
+350750: Capel,se
+350751: Capel Curig Youth Hostel,wl
+350752: Capel Manor,se
+350753: Capel-Y-Ffin Youth Hostel,wl
+350754: Capesthorne Hall,nw
+350755: Carbisdale Castle Youth Hostel,he
+350756: Carbisdale Trails,he
+350757: Carbrook,yh
+350758: Cardiff,wl
+350759: Cardiff City F.C.,wl
+350760: Cardiff International Airport,wl
+350761: Millennium Stadium,wl
+350762: Cardiff Ski Centre,wl
+350763: Cardiff Youth Hostel,wl
+350764: Cardigan,wl
+350765: Cardonald,st
+350766: Carlisle,nw
+350767: Carlisle Park (Morpeth),ne
+350768: Carlisle Racecourse,nw
+350769: Carlisle Snowsports Club,nw
+350770: Carlton (Nottinghamshire),em
+350771: Carlton (South Yorkshire),yh
+350772: Carluke,st
+350773: Carmyle,st
+350774: Carn A' Chlamain,ta
+350775: Carn A' Coire Bhoidheach,gr
+350776: Carn A' Gheoidh,gr
+350777: Carn A' Mhaim,gr
+350778: Carn An Fhidhleir,ta
+350779: Carn An Righ,ta
+350780: Carn An T-Sagairt Mor,gr
+350781: Carn An Tuirc,gr
+350782: Carn Aosda,gr
+350783: Carn Bhac,gr
+350784: Carn Dearg (1034m),he
+350785: Carn Dearg (939m),he
+350786: Carn Dearg (945m),he
+350787: Carn Dearg Youth Hostel,he
+350788: Carn Eige,he
+350789: Carn Ghluasaid,he
+350790: Carn Gorm,ta
+350791: Carn Liath (Highland),he
+350792: Carn Liath (Perth & Kinross),ta
+350793: Carn Mor Dearg,he
+350794: Carn Mairg,ta
+350795: Carn Na Caim,he
+350796: Carn Nan Gabhar,ta
+350797: Carn Nan Gobhar (Glen Strathfarrar),he
+350798: Carn Nan Gobhar (Loch Mullardoch),he
+350799: Carn Sgulain,he
+350800: Carnforth,nw
+350801: Carnoustie,ta
+350802: Carnoustie Golf Links,ta
+350803: Carntyne,st
+350804: Carnwadric,st
+350805: Carradale Garden,st
+350806: Carrick-A-Rede Rope Bridge (Nt),ni
+350807: Carrickfergus,ni
+350808: Carrington,em
+350809: Carrock Fell Youth Hostel,nw
+350810: Carron Valley Mountain Bike Trails,ta
+350811: Carryduff,ni
+350812: Cartmel Racecourse,nw
+350813: Castle Archdale Country Park,ni
+350814: Castle Ashby,em
+350815: Castle Bromwich,wm
+350816: Castle Caldwell,ni
+350817: Castle Cary,sw
+350818: Castle Combe Motor Racing Circuit,sw
+350819: Castle Coole (Nt),ni
+350820: Castle Douglas,dg
+350821: Castle Drogo,sw
+350822: Castle Hedingham Youth Hostel,ee
+350823: Castle Howard,yh
+350824: Castle Kennedy Gardens,dg
+350825: Castle Ward (Nt),ni
+350826: Castlebay,he
+350827: Castlederg,ni
+350828: Castlehead,st
+350829: Castlemilk,st
+350830: Castleton (Greater Manchester),nw
+350831: Castleton (North Yorkshire),yh
+350832: Castleton Youth Hostel,em
+350833: Castletown (Isle Of Man),nw
+350834: Castletown (Tyne & Wear),ne
+350835: Castlewellan,ni
+350836: Caswell Bay,wl
+350837: Caterham,se
+350838: Cathcart,st
+350839: Cathkin,st
+350840: Catisfield,se
+350841: Catmore,se
+350842: Catterick Bridge Racecourse,yh
+350843: Causeway Green,wm
+350844: Cavenham,ee
+350845: Cawdor Castle Grounds,he
+350846: Cc2000 Cross Hands,wl
+350847: Celtic F.C.,st
+350848: Chad Valley,wm
+350849: Chadderton,nw
+350850: Chadwick Green,nw
+350851: Chagford,sw
+350852: Chalfont St. Peter,se
+350853: Challaborough,sw
+350854: Chapel Allerton,yh
+350855: Chapel Amble,sw
+350856: Chapel Field,nw
+350857: Chapel Fields,wm
+350858: Chapel St. Leonards,em
+350859: Chapel-En-Le-Frith,em
+350860: Chapelton,ta
+350861: Chapeltown,yh
+350863: Charlbury,se
+350864: Charlbury Youth Hostel,se
+350865: Charlecote Park,wm
+350866: Charleston,st
+350867: Charleston Manor,se
+350868: Charlton Athletic F.C.,se
+350869: Chartham,se
+350870: Chartwell,se
+350871: Chastleton House,se
+350872: Chatham Ski Centre,se
+350873: Chatsworth House,em
+350874: Chatteris,ee
+350875: Cheadle (Greater Manchester),nw
+350876: Cheadle Heath,nw
+350877: Cheadle Hulme,nw
+350878: Cheddar,sw
+350879: Cheddar Youth Hostel,sw
+350880: Chelmsley Wood,wm
+350881: Chelsea,se
+350882: Chelsea F.C.,se
+350883: Cheltenham Racecourse,sw
+350884: Chepstow,wl
+350885: Chepstow Racecourse,wl
+350886: Chertsey,se
+350887: Chesham (Buckinghamshire),se
+350888: Chesham (Greater Manchester),nw
+350889: Cheshunt,ee
+350890: Chessington World Of Adventures,se
+350891: Chester Racecourse,nw
+350892: Chester Youth Hostel,nw
+350893: Chester-Le-Street,ne
+350894: Chesterton,wm
+350895: Chicheley,se
+350896: Chichester,se
+350897: Chiddingstone Castle,se
+350898: Chigwell,ee
+350899: Chilcompton,sw
+350900: Childwall,nw
+350901: Chilham Castle,se
+350902: Chillington,sw
+350903: Chilwell,em
+350904: Chippenham,sw
+350905: Chipping Campden,sw
+350906: Chipping Norton,se
+350907: Chipping Ongar,ee
+350908: Chipping Sodbury,sw
+350909: Chirk,wl
+350910: Chirton,ne
+350911: Chno Dearg,he
+350912: Cholmondeley Castle Gardens,nw
+350913: Chorley,nw
+350914: Chorleywood,ee
+350915: Chorlton-Cum-Hardy,nw
+350916: Christchurch,sw
+350917: Snowtrax Alpine Activity Centre,sw
+350918: Christ's College Ski Club Guildford,se
+350919: Chudleigh,sw
+350920: Chulmleigh,sw
+350921: Church Enstone,se
+350922: Churchtown,nw
+350923: Cinder Hill,wm
+350924: Cinderford,sw
+350925: Cinderhill,em
+350926: Ciste Dhubh,he
+350927: City Of Derry Airport,ni
+350928: City Of London,se
+350929: City Of London Youth Hostel,se
+350930: Clackmannan,ta
+350931: Clacton-On-Sea,ee
+350932: Clandon Park,se
+350933: Clare,ee
+350934: Claremont Landscape Garden,se
+350935: Clarendon Park,em
+350936: Clarkston,st
+350937: Clay Cross,em
+350938: Claydon House,se
+350939: Clayton (Greater Manchester),nw
+350940: Clayton (Staffordshire),wm
+350941: Clayton (West Yorkshire),yh
+350942: Clayton-Le-Moors,nw
+350943: Cleadon,ne
+350944: Cleator Moor,nw
+350945: Cleckheaton,yh
+350946: Cleehill,wm
+350947: Cleethorpes,yh
+350948: Clench Common,sw
+350949: Clermiston,dg
+350950: Clevedon,sw
+350951: Clevedon Court,sw
+350952: Cleveleys,nw
+350953: Clifton (Bristol),sw
+350954: Clifton (Greater Manchester),nw
+350955: Clifton (Nottingham),em
+350956: Clifton (South Yorkshire),yh
+350957: Clifton Hill Ski Slope Exeter,sw
+350959: Cliveden,se
+350960: Clowne,em
+350961: Clun Mill Youth Hostel,wm
+350962: Cluny House Gardens,ta
+350963: Clydach,wl
+350964: Clydebank,st
+350965: Clynnog-Fawr,wl
+350966: Coalisland,ni
+350967: Coalville,em
+350968: Coatbridge,st
+350969: Cobham,se
+350970: Cockermouth,nw
+350971: Cockermouth Youth Hostel,nw
+350972: Codsall,wm
+350973: Coed Y Brenin Forest Park,wl
+350974: Colby Woodland Garden,wl
+350975: Colchester United F.C.,ee
+350976: Cold Ashby,em
+350977: Coldingham Youth Hostel,dg
+350978: Colebrooke,sw
+350979: Coleford,sw
+350980: Coleshill,wm
+350981: Coleton Fishacre Garden,sw
+350982: Colgrave Sound,os
+350983: Colinton,dg
+350984: Collingham,em
+350985: Collyweston,em
+350986: Colne,nw
+350987: Colsterworth,em
+350988: Colton,yh
+350989: Colzium House,st
+350990: Combe Sydenham Hall,sw
+350991: Comber,ni
+350992: Compton,sw
+350993: Compton Acres,sw
+350994: Cona Mheall,he
+350995: Conachair,he
+350996: Congleton,nw
+350997: Conisbrough,yh
+350998: Coniston,nw
+350999: Coniston Coppermines Youth Hostel,nw
+351000: Coniston Holly How Youth Hostel,nw
+351001: Conival,he
+351002: Connah's Quay,wl
+351003: Consett,ne
+351004: Constable Burton Hall,yh
+351005: Conwy,wl
+351006: Conwy Youth Hostel,wl
+351007: Cookstown,ni
+351008: Coombeswood,wm
+351009: Copley,nw
+351010: Copnor,se
+351011: Copt Oak Youth Hostel,em
+351012: Corbridge,ne
+351013: Cornwood,sw
+351014: Corringham,ee
+351015: Corris Youth Hostel,wl
+351016: Corsham,sw
+351017: Corstorphine,dg
+351018: Corstorphine Hill,dg
+351019: Corwen,wl
+351020: Coseley,wm
+351021: Cosham,se
+351022: Cotehele,sw
+351023: Coton Manor Wildlife Garden,em
+351024: Cottingham,yh
+351025: Cottingley,yh
+351026: Coulaghailtro,st
+351027: Coundon,wm
+351028: County Ground Derbyshire C.C.C.,em
+351029: County Ground Sussex C.C.C.,se
+351030: Coupar Angus,ta
+351031: Court House Green,wm
+351032: Coveney,ee
+351033: Coventry Airport,wm
+351034: Coverack Youth Hostel,sw
+351035: Cowbridge,wl
+351036: Cowdenbeath,ta
+351037: Coxlodge,ne
+351038: Crabtree,yh
+351039: Crackley,wm
+351040: Cradley (Herefordshire),wm
+351041: Cradley (West Midlands),wm
+351042: Cradley Heath,wm
+351043: Cragg Hill,yh
+351044: Cragside,ne
+351045: Craig,he
+351046: Craig Tara (Ayr),st
+351047: Craig Bothy,he
+351048: Craigavon,ni
+351049: Craigens,st
+351050: Craighouse,st
+351051: Craigie,st
+351052: Craiglockhart,dg
+351053: Craigtown,he
+351054: Crail,ta
+351055: Cramlington,ne
+351056: Cramond,dg
+351057: Cramond Bridge,dg
+351058: Cranborne Manor Gardens,sw
+351059: Cranbrook,se
+351060: Cranleigh,se
+351061: Crarae Gardens,st
+351062: Crathes Castle Grounds,gr
+351063: Craven Arms,wm
+351064: Creach Bheinn,st
+351065: Creag A' Mhaim,he
+351066: Creag Leacach,ta
+351067: Creag Meagaidh,he
+351068: Creag Mhor,ta
+351069: Creag Nan Damh,he
+351070: Creag Pitridh,he
+351071: Crealy Adventure Park Cornwall,sw
+351072: Crealy Theme Park And Resort,sw
+351073: Crediton,sw
+351074: Creekmoor,sw
+351075: Cressage,wm
+351076: Crewkerne,sw
+351077: Crew's Hole,sw
+351078: Crianlarich Youth Hostel,ta
+351079: Criccieth,wl
+351080: Crickhowell,wl
+351081: Cricklade,sw
+351082: Crieff,ta
+351083: Crimonmogate,gr
+351084: Croft Motor Racing Circuit,yh
+351085: Croftfoot,st
+351086: Crofts Bank,nw
+351087: Crofts Of Benachielt,he
+351088: Crom Estate (Nt),ni
+351089: Cromarty Firth,he
+351091: Crompton,nw
+351092: Crook,ne
+351093: Crookes,yh
+351094: Crookesmoor,yh
+351095: Crookston,st
+351096: Crosby,nw
+351097: Crosby Channel,nw
+351098: Cross Gates,yh
+351099: Cross Hands,wl
+351100: Cross Inn,wl
+351101: Crossens,nw
+351102: Crossgar,ni
+351103: Crossley Hall,yh
+351104: Crossmaglen,ni
+351105: Crosswell,wl
+351106: Crowborough,se
+351107: Crowcombe Heathfield,sw
+351108: Crowden-In-Longdendale,em
+351109: Crowland,em
+351110: Crowle,yh
+351111: Crownhill,sw
+351112: Crowthorne,se
+351113: Croxteth Hall,nw
+351114: Croxton Kerrial,em
+351115: Cruach Ardrain,ta
+351116: Cruach Nan Capull,st
+351117: Crumlin,ni
+351118: Crystal Palace F.C.,se
+351119: Crystal Palace National Sports Centre,se
+351120: Cuckfield,se
+351121: Cudmore Grove,ee
+351122: Cudworth,yh
+351123: Culcheth,nw
+351124: Cullen,gr
+351125: Cullercoats,ne
+351126: Cullicudden,he
+351127: Cullompton,sw
+351128: Cullybackey,ni
+351129: Culzean Castle Garden,st
+351130: Cumberland Stone,he
+351131: Cumbernauld,st
+351132: Cumnock,st
+351133: Cumrew,nw
+351134: Cupar,ta
+351135: Curlew Green,ee
+351136: Currie,dg
+351137: Cutgate,nw
+351138: Cwmbran,wl
+351139: Cwmcarn Forest Drive,wl
+351140: Cyncoed,wl
+351141: Cynwyd Youth Hostel,wl
+351142: Dagenham,se
+351143: Daisy Bank,wm
+351144: Daisy Hill,yh
+351145: Dalbeattie,dg
+351146: Dalbeattie Mountain Bike Trail Centre,dg
+351147: Dalby Forest,yh
+351148: Dale,wl
+351149: Dalganachan,he
+351150: Dalgety Bay,ta
+351151: Daljarrock,st
+351152: Dalkeith,dg
+351153: Dalmellington,st
+351154: Dalmuir,st
+351155: Dalry,st
+351156: Dalrymple,st
+351157: Dalton-In-Furness,nw
+351158: Dan Yr Ogof Ski Centre,wl
+351159: Dane Bank,nw
+351160: Dane Hills,em
+351161: Darfield,yh
+351162: Darlaston,wm
+351163: Darlaston Green,wm
+351164: Darlington,ne
+351165: Darnall,yh
+351166: Darsham,ee
+351167: Dartford,se
+351168: Dartington Hall Grounds,sw
+351169: Dartington Youth Hostel,sw
+351170: Dartmeet,sw
+351171: Darvel,st
+351173: Daubhill,nw
+351174: Davenport,nw
+351175: David Welch Winter Gardens,gr
+351176: Davidson's Mains,dg
+351177: Dawlish,sw
+351178: Dawyck Botanic Garden,dg
+351179: Deal,se
+351180: Deanburnhaugh,dg
+351181: Deane,nw
+351182: Debdale,nw
+351183: Deighton (North Yorkshire),yh
+351184: Deighton (West Yorkshire),yh
+351185: Delamere,nw
+351186: Delamont Country Park,ni
+351187: Denbigh,wl
+351188: Denby Dale,yh
+351189: Denford,em
+351190: Denhead,gr
+351191: Denmans,se
+351192: Denny,ta
+351193: Dentdale Youth Hostel,nw
+351194: Denton,nw
+351195: Derby County F.C.,em
+351196: Dereham,ee
+351197: Derry Cairngorm,gr
+351198: Derrygonnelly,ni
+351199: Derrymore House (Nt),ni
+351200: Derwent Independent Hostel,nw
+351201: Desborough,em
+351202: Deuddwr,wl
+351203: Dewar,dg
+351204: Dewsbury,yh
+351205: Dewsbury Moor,yh
+351206: Didcot,se
+351207: Didsbury,nw
+351208: Dimmingsdale Youth Hostel,wm
+351209: Dimsdale,wm
+351210: Dinas Powys,wl
+351211: Dingwall,he
+351212: Dinosaur Adventure Park Norfolk,ee
+351213: Dirleton Castle Garden,dg
+351214: Disley,nw
+351216: Divis,ni
+351217: Docwra's Manor Gardens,ee
+351218: Doffcocker,nw
+351219: Dolgellau,wl
+351220: Dolgoch Youth Hostel,wl
+351221: Dollar,ta
+351222: Donaghadee,ni
+351223: Doncaster Racecourse,yh
+351224: Doncaster Rovers Fc,yh
+351225: Donington Park,em
+351226: Dore,yh
+351227: Dorney Court,se
+351228: Dornoch,he
+351229: Dornoch Firth,he
+351230: Dorothy Clive Garden,wm
+351231: Dorrington,wm
+351232: Dorset Snowsport Centre,sw
+351233: Dover Youth Hostel,se
+351234: Down House,se
+351235: Down Royal Racecourse,ni
+351236: Down St. Mary,sw
+351237: Downend,sw
+351238: Downham Market,ee
+351239: Downpatrick,ni
+351240: Downpatrick Racecourse,ni
+351241: Draperstown,ni
+351242: Draynes,sw
+351243: Drayton (Portsmouth),se
+351244: Drayton (Somerset),sw
+351245: Drayton Manor Park,wm
+351246: Dresden,wm
+351247: Driesh,ta
+351248: Driffield,yh
+351249: Droitwich Spa,wm
+351250: Dromara,ni
+351251: Dromore,ni
+351252: Dronfield,em
+351253: Dronfield Woodhouse,em
+351254: Droylsden,nw
+351255: Druim Shionnach,he
+351256: Drumchapel,st
+351257: Drummond Castle Gardens,ta
+351258: Drumry,st
+351259: Drylaw,dg
+351260: Duddenhoe End,ee
+351261: Duddingston,dg
+351262: Dudley,wm
+351263: Dudley Port,wm
+351264: Dudley Wood,wm
+351265: Dufftown,gr
+351266: Dufton Youth Hostel,nw
+351267: Dukinfield,nw
+351268: Dulverton,sw
+351269: Dumbarton,st
+351270: Dumbreck,st
+351271: Dumfries,dg
+351272: Dunbeath,he
+351273: Duncombe Park Garden,yh
+351274: Dundee Airport,ta
+351275: Dundee F.C.,ta
+351276: Dundee United F.C.,ta
+351277: Dundonald,ni
+351278: Dundonnell House,he
+351279: Dunfermline A.F.C.,ta
+351280: Dungannon,ni
+351281: Dungannon Park,ni
+351282: Dungiven,ni
+351283: Dunkeld,ta
+351284: Dunmurry,ni
+351285: Dunning,ta
+351286: Dunoon,st
+351287: Duns,dg
+351288: Dunstable,ee
+351289: Duntocher,st
+351290: Durham,ne
+351291: Durness Youth Hostel,he
+351292: Dursley,sw
+351293: Dury Voe,os
+351294: Dyce,gr
+351295: Dyffryn House Gardens,wl
+351296: Dyrham Park,sw
+351297: Ealing,se
+351298: Earby Youth Hostel,nw
+351299: Earl Shilton,em
+351300: Earl Soham,ee
+351301: Earl's Court Youth Hostel,se
+351302: Earlsdon,wm
+351303: Earlshall Castle Grounds,ta
+351304: Easingwold,yh
+351305: East Dene,yh
+351306: East Denton,ne
+351307: East Didsbury,nw
+351308: East Ella,yh
+351309: East Grinstead,se
+351310: East Herrington,ne
+351311: East Howe,sw
+351312: East Kilbride,st
+351313: East Lambrook Manor,sw
+351314: East Loch Roag,he
+351315: East Loch Tarbert,he
+351316: East Meon,se
+351317: East Midlands Airport,em
+351318: East Moor,yh
+351319: East Stour,sw
+351320: East Sussex National Golf Club,se
+351321: East Tisted,se
+351322: East Wittering,se
+351323: Eastbourne Youth Hostel,se
+351324: Easterhouse,st
+351325: Eastfield,sw
+351326: Eastham,nw
+351327: Eastleigh,se
+351328: Eastney,se
+351329: Eastville,sw
+351330: Eastwood (Nottinghamshire),em
+351331: Eastwood (South Yorkshire),yh
+351332: Eastwood (Southend-On-Sea),ee
+351333: Ebbw Vale,wl
+351334: Eccles,nw
+351335: Ecclesfield,yh
+351336: Eccleshall,wm
+351337: Eccleshill,yh
+351338: Eccleston,nw
+351339: Edale Youth Hostel,em
+351340: Eday Airfield,os
+351341: Eday Youth Hostel,os
+351342: Eddrachillis Bay,he
+351343: Eden Project,sw
+351344: Edenbridge,se
+351345: Edenthorpe,yh
+351346: Edford,sw
+351347: Edgbaston,wm
+351348: Edgbaston Warwickshire C.C.C.,wm
+351349: Edge Hill,nw
+351350: Edgerton,yh
+351351: Edinburgh,dg
+351352: Edinburgh Airport,dg
+351353: Edinburgh Bruntsfield,dg
+351354: Edinburgh Central Youth Hostel,dg
+351355: Edinburgh Haymarket,dg
+351356: Edinburgh Pleasance Youth Hostel,dg
+351357: Edmondsham House,sw
+351358: Edmundbyers,ne
+351359: Edwalton,em
+351360: Edzell Castle Pleasance,ta
+351361: Eggbuckland,sw
+351362: Egham,se
+351363: Eglinton,ni
+351364: Egmanton,em
+351365: Egremont,nw
+351366: Eididh Nan Clach Geala,he
+351367: Eldwick,yh
+351368: Elie,ta
+351369: Elland,yh
+351370: Ellen's Green,se
+351371: Ellesmere,wm
+351372: Ellesmere Park,nw
+351373: Ellingstring Youth Hostel,yh
+351374: Ellisfield,se
+351375: Ellon,gr
+351376: Elmdon Heath,wm
+351377: Elmscott Youth Hostel,sw
+351378: Elterwater Youth Hostel,nw
+351379: Elton,nw
+351380: Elton Youth Hostel,em
+351382: Ely (Cardiff),wl
+351383: Emmetts Garden,se
+351384: Emneth Hungate,ee
+351385: Emsworth,se
+351386: Enard Bay,he
+351387: Enfield,se
+351388: Ennerdale Youth Hostel,nw
+351389: Epping,ee
+351390: Epping Forest Youth Hostel,ee
+351391: Epsom,se
+351392: Epsom Downs Racecourse,se
+351393: Epworth,yh
+351394: Erddig,wl
+351395: Erdington,wm
+351396: Ernesettle,sw
+351397: Erskine,st
+351398: Ervie,dg
+351399: Escot,sw
+351400: Esgair,wl
+351401: Esher,se
+351402: Eskdale Youth Hostel,nw
+351403: Eton,se
+351404: Ettingshall,wm
+351405: Everton F.C.,nw
+351406: Evertown,dg
+351407: Evesham,wm
+351408: Evington,em
+351409: Ewell,se
+351410: Ewell Minnis,se
+351411: Exbury Gardens,se
+351412: Exe Estuary,sw
+351413: Exeter International Airport,sw
+351414: Exeter Racecourse,sw
+351415: Exeter Youth Hostel,sw
+351416: Exford Youth Hostel,sw
+351417: Exhall,wm
+351418: Eyam Youth Hostel,em
+351419: Eye (Peterborough),ee
+351420: Eye (Suffolk),ee
+351421: Eynsham,se
+351422: Faifley,st
+351423: Failsworth,nw
+351424: Fair Isle Airstrip,os
+351425: Fairfield (Nr Bury),nw
+351426: Fairfield (Nr Tameside),nw
+351427: Fairford,sw
+351428: Fairhaven Gardens (South Walsham),ee
+351429: Fairmilehead,dg
+351430: Fakenham Racecourse,ee
+351431: Falkirk F.C.,ta
+351432: Falkland Palace & Garden,ta
+351433: Fallowfield,nw
+351434: Falmouth Bay,sw
+351435: Fan Fawr,wl
+351436: Fantasy Island Ingoldmells,em
+351437: Far Moor,nw
+351438: Far Royds,yh
+351439: Fareham,se
+351440: Faringdon,se
+351441: Farlington,se
+351442: Farnborough,se
+351443: Farnborough Hall,wm
+351444: Farnley,yh
+351445: Farnworth,nw
+351446: Farsley,yh
+351447: Fasnacloich,st
+351448: Faversham,se
+351449: Fazakerley,nw
+351450: Felbrigg Hall,ee
+351451: Felling,ne
+351452: Feltwell,ee
+351453: Fenay Bridge,yh
+351454: Fenham,ne
+351455: Fenton,wm
+351456: Fenton House,se
+351457: Ferndale,wl
+351458: Ferndown,sw
+351459: Fernhill,nw
+351460: Fernwood Ottery St. Mary,sw
+351461: Ferryhill,ne
+351462: Fetlar Airport,os
+351463: Filey,yh
+351464: Filton,sw
+351465: Finlaystone House,st
+351466: Finnieston,st
+351467: Fintona,ni
+351468: Fionn Bheinn,he
+351469: Fionnphort,st
+351470: Fir Vale,yh
+351471: Fire Tower Mountain Bike Trail Centre,st
+351472: Firgrove,nw
+351473: Firpark Ski Slope,ta
+351474: Fishguard Bay,wl
+351475: Fishponds,sw
+351476: Fishpool,nw
+351477: Fisk Helliar,os
+351478: Five Lane Ends,yh
+351479: Fivemiletown,ni
+351480: Flamingo Land Theme Park And Zoo Kirby Misperton,yh
+351481: Flamingo Park Hastings,se
+351482: Fleet,se
+351483: Flint,wl
+351484: Flixton,nw
+351485: Florence Court (Nt),ni
+351486: Florence Court Forest Park,ni
+351487: Fochabers,gr
+351488: Foggbrook,nw
+351489: Foleshill,wm
+351490: Westenhanger,se
+351491: Folkestone Ski Centre,se
+351492: Follow The Dog Trail,wm
+351493: Fontwell Park Racecourse,se
+351494: Ford,sw
+351495: Fordbridge,wm
+351496: Forde Abbey,sw
+351497: Fordingbridge,se
+351498: Forest Hall (Cumbria),nw
+351499: Forest Hall (Tyne & Wear),ne
+351500: Forest Of Arden Golf & Country Club,wm
+351501: Forestburn Gate,ne
+351502: Forfar,ta
+351504: Forncett End,ee
+351505: Forres,gr
+351506: Fort Fun Eastbourne,se
+351507: Fortrose,he
+351508: Fortuneswell,sw
+351509: Foubister,os
+351510: Foula Airstrip,os
+351511: Four Oaks,wm
+351512: Foxbar,st
+351513: Foxham,sw
+351514: Foyers,he
+351515: Framlingham,ee
+351516: Free Town,nw
+351517: Frenchay,sw
+351518: Freshwater,se
+351519: Frimley,se
+351520: Frinton-On-Sea,ee
+351521: Frizinghall,yh
+351522: Frodsham,nw
+351523: Frome,sw
+351524: Fulbourn,ee
+351525: Fulham,se
+351526: Fulham,se
+351527: Fulham F.C.,se
+351528: Fullbrook,wm
+351529: Fulwood,yh
+351530: Furzey Gardens,se
+351531: Gabalfa,wl
+351532: Gairloch,he
+351533: Gairich,he
+351534: Gaisby,yh
+351535: Galloway House Gardens,dg
+351536: Gallowhill,st
+351537: Galston,st
+351538: Garbh Chioch Mhor,he
+351539: Gare Loch,st
+351540: Garenin Youth Hostel,he
+351541: Garforth,yh
+351542: Gargrave,yh
+351543: Gargunnock House,ta
+351544: Garstang,nw
+351545: Garthamlock,st
+351546: Garvagh,ni
+351547: Garwnant Cycle Trail,wl
+351548: Gatehouse Of Fleet,dg
+351549: Gatley,nw
+351550: Gayles,yh
+351551: Gayton,ee
+351552: Geal Charn (1049m),he
+351553: Geal Charn (1132m),he
+351554: Geal Charn (917m),he
+351555: Geal Charn (926m),he
+351556: Gee Cross,nw
+351557: George Best Belfast City Airport,ni
+351558: Gerrards Cross,se
+351559: Giant's Causeway,ni
+351560: Gib Heath,wm
+351561: Gibside,ne
+351562: Giffnock,st
+351563: Gigg,nw
+351564: Gigmill,wm
+351565: Gilbent,nw
+351566: Gilbertstone,wm
+351567: Gildingwells,yh
+351568: Gilford,ni
+351569: Gilling Castle Grounds,yh
+351570: Gillingham (Dorset),sw
+351571: Gillingham F.C.,se
+351572: Gilmerton,dg
+351573: Girlington,yh
+351574: Gradbach Mill Youth Hostel,wm
+351575: Glanaman,wl
+351576: Glas Bheinn Mhor,he
+351577: Glas Leathad Mor,he
+351578: Glas Maol,ta
+351579: Glas Tulaichean,ta
+351580: Glasfynydd Family Mountain Bike Route,wl
+351581: Glasgow Airport,st
+351582: Glasgow Botanic Gardens,st
+351583: Glasgow Prestwick Airport,st
+351584: Glasgow Ski & Snowboard Centre,st
+351585: Glasgow Youth Hostel,st
+351586: Glastonbury,sw
+351587: Gleadless,yh
+351588: Gleadless Townend,yh
+351589: Gledhow,yh
+351590: Glen Affric Youth Hostel,he
+351591: Glen Nevis Youth Hostel,he
+351592: Glen Parva,em
+351593: Glenarm Castle Walled Garden,ni
+351594: Glenbrittle Youth Hostel,he
+351595: Glenburn,st
+351596: Glencoe Mountain Resort Medium Level,he
+351597: Glencoe Youth Hostel,he
+351598: Glendevon Youth Hostel,ta
+351599: Glendoll Lodge,ta
+351600: Glendurgan Garden,sw
+351601: Glenfarg,ta
+351602: Glenfield,em
+351603: Glenshee Ski Centre Medium Level,gr
+351604: Glentress,dg
+351605: Glentrool Mountain Bike Centre,dg
+351606: Gleouraich,he
+351607: Glossop,em
+351608: Gloucester Ski & Snowboard Centre,sw
+351609: Gloucestershire Airport,sw
+351610: Glyncorrwg Mountain Bike Centre,wl
+351611: Glyndebourne,se
+351612: Gnosall,wm
+351613: Godalming,se
+351614: Godley,nw
+351615: Godmanchester,ee
+351616: Golant Youth Hostel,sw
+351617: Golborne,nw
+351618: Golden Acre Park,yh
+351619: Goldenhill,wm
+351620: Golds Green,wm
+351621: Goldthorpe,yh
+351622: Golspie,he
+351623: Goltho House Gardens,em
+351624: Goodnestone Park,se
+351625: Goodwood Racecourse,se
+351626: Goodworth Clatford,se
+351627: Goodyers End,wm
+351628: Goose Green,nw
+351629: Gorbals,st
+351630: Gorebridge,dg
+351631: Gornalwood,wm
+351632: Gorse Hill,nw
+351633: Gorseinon,wl
+351634: Gorton,nw
+351635: Gosforth,ne
+351636: Gosling Sports Park,ee
+351637: Gosport,se
+351638: Govan,st
+351639: Gowerton,wl
+351640: Grace Road Leicestershire C.C.C.,em
+351641: Gracemount,dg
+351642: Grainhow,gr
+351643: Grange Crossroads,gr
+351644: Grange-Over-Sands,nw
+351645: Grantham,em
+351646: Grasmere Butharlyp Howe Youth Hostel,nw
+351647: Grasmere Thorney How Youth Hostel,nw
+351648: Grassendale,nw
+351649: Grassington,yh
+351650: Gravelly Hill,wm
+351651: Grays,ee
+351652: Gray's Printing Press (Nt),ni
+351653: Graythwaite Hall,nw
+351654: Greasbrough,yh
+351655: Greasby,nw
+351656: Great Ayton,yh
+351657: Great Barr,wm
+351658: Great Chell,wm
+351659: Great Comp Garden,se
+351660: Great Crosby,nw
+351661: Great Dixter,se
+351662: Great Dunmow,ee
+351663: Great Ellingham,ee
+351665: Great Heath,wm
+351666: Great Hormead,ee
+351667: Great Horton,yh
+351668: Great Leighs Racecourse,ee
+351669: Great Linford,se
+351670: Great Malvern,wm
+351671: Great Shelford,ee
+351672: Great Torrington,sw
+351673: Great Yarmouth,ee
+351674: Great Yarmouth Youth Hostel,ee
+351675: Great Yeldham,ee
+351676: Green Ore,sw
+351677: Green Side,yh
+351678: Greenacres,nw
+351679: Greengates,yh
+351681: Greenhill,yh
+351682: Greenland,yh
+351683: Greenwich,se
+351684: Greenwood Forest Park (Y Felinheli),wl
+351685: Gregynog,wl
+351686: Grenoside,yh
+351687: Gretna,dg
+351688: Grey Abbey Physic Garden,ni
+351689: Greys Court,se
+351690: Greystones,yh
+351691: Grimesthorpe,yh
+351692: Grimston,em
+351693: Grinton Lodge Youth Hostel,yh
+351694: Groombridge Place Gardens,se
+351695: Gruinard Bay,he
+351696: Grundisburgh,ee
+351697: Guernsey Airport,sw
+351698: Guide Bridge,nw
+351699: Guisborough,ne
+351700: Guiseley,yh
+351701: Guist,ee
+351702: Gullane,dg
+351703: Gulliver's Theme Park,em
+351704: Gulvain,he
+351705: Guns Village,wm
+351706: Guy L. Wilson Daffodil Garden,ni
+351707: Guy's Marsh,sw
+351708: Gwennap Mining District,sw
+351709: Gwyddelwern,wl
+351710: Gwydyr Cycle Trail,wl
+351711: Gyllyngvase,sw
+351712: Hackenthorpe,yh
+351713: Hackney,se
+351714: Haddenham,ee
+351715: Haddington,dg
+351716: Haddo House,gr
+351717: Haddon Hall,em
+351718: Haden Cross,wm
+351719: Hadleigh (Essex),ee
+351720: Hadleigh (Suffolk),ee
+351721: Hadspen House,sw
+351722: Hagley,wm
+351723: Hailsham,se
+351724: Haldon,sw
+351725: Hale,nw
+351726: Hale Barns,nw
+351727: Halesowen,wm
+351728: Halesworth,ee
+351729: Halewood,nw
+351730: Halifax Ski & Snowboard Centre,yh
+351731: Halkirk,he
+351732: Hall Green,wm
+351733: Hall Place Garden (Leigh),se
+351734: Hallam Head,yh
+351735: Halliwell,nw
+351736: Hallrule,dg
+351737: Halstead,ee
+351738: Halton,yh
+351739: Haltwhistle,ne
+351740: Ham,sw
+351741: Hamilton,st
+351742: Hamilton Park Racecourse,st
+351743: Hammersmith,se
+351744: Hammersmith,se
+351745: Hampden Park,st
+351746: Hampstead Heath Youth Hostel,se
+351747: Hampton Court Palace,se
+351748: Hampton Court (Leominster),wm
+351749: Hamstead,wm
+351750: Hamsterley,ne
+351751: Handforth,nw
+351752: Handsworth (South Yorkshire),yh
+351753: Handsworth (West Midlands),wm
+351754: Harborne,wm
+351755: Harbour Park Amusements Littlehampton,se
+351756: Harden,wm
+351757: Hardwick Hall,em
+351758: Hardwick Hall Garden (Nt),em
+351759: Hare Hill,nw
+351760: Harehills,yh
+351761: Haremere Hall,se
+351762: Harewood House,yh
+351763: Harringay,se
+351764: Harlech,wl
+351765: Harlequin,em
+351766: Harleston,ee
+351767: Harmer Hill,wm
+351768: Harpenden,ee
+351769: Harpurhey,nw
+351770: Harrold,ee
+351771: Harrow,se
+351772: Hart Hill,ee
+351773: Hartington Hall Youth Hostel,em
+351774: Hartley,se
+351775: Harwood,nw
+351776: Harwood Lee,nw
+351777: Hasbury,wm
+351779: Hastings Youth Hostel,se
+351780: Hatchlands Park,se
+351781: Hatfield (Hertfordshire),ee
+351782: Hatfield (South Yorkshire),yh
+351783: Hatfield Heath,ee
+351784: Hatfield House,ee
+351785: Hatherleigh,sw
+351786: Hathersage Youth Hostel,em
+351787: Hathershaw,nw
+351788: Hattersley,nw
+351789: Haughton Green,nw
+351790: Havant,se
+351791: Haverfordwest,wl
+351793: Hawarden,wl
+351794: Hawes,yh
+351795: Hawes Youth Hostel,yh
+351796: Hawkhurst,se
+351797: Hawkshead Youth Hostel,nw
+351798: Hawksworth,yh
+351799: Haworth Youth Hostel,yh
+351800: Hay Mills,wm
+351801: Haydock,nw
+351802: Haydock Park Racecourse,nw
+351803: Haydon Bridge,ne
+351804: Hayle,sw
+351805: Hayley Green,wm
+351807: Haytor Vale,sw
+351808: Haywards Heath,se
+351809: Hazel Grove,nw
+351810: Hazelhurst,nw
+351811: Headingley,yh
+351812: Headingley Yorkshire C.C.C.,yh
+351813: Heald Green,nw
+351814: Heale House & Garden,sw
+351815: Healey,nw
+351816: Heanor,em
+351817: Heapham,em
+351818: Heart Of Midlothian F.C.,dg
+351819: Heath,wl
+351820: Heath Town,wm
+351821: Heatherton Activity Park Tenby,wl
+351822: Heathfield,se
+351823: Heaton (Greater Manchester),nw
+351824: Heaton (Tyne & Wear),ne
+351825: Heaton (West Yorkshire),yh
+351826: Heaton Chapel,nw
+351827: Heaton Hall,nw
+351828: Heaton Mersey,nw
+351829: Heaton Norris,nw
+351830: Hebburn,ne
+351831: Hebden Bridge,yh
+351832: Heckfield,se
+351833: Heckington,em
+351834: Heckmondwike,yh
+351835: Hedenham,ee
+351836: Hedge End,se
+351837: Hednesford,wm
+351838: Hedon,yh
+351839: Heeley,yh
+351840: Helensburgh,st
+351841: Hellidon,em
+351842: Helmingham Hall,ee
+351843: Helmsdale Youth Hostel,he
+351844: Helmsley,yh
+351845: Helmsley Youth Hostel,yh
+351846: Helston,sw
+351847: Helvellyn Youth Hostel,nw
+351848: Hemel Hempstead,ee
+351849: Hemel Ski Centre,ee
+351850: Hemsworth,yh
+351851: Henbury,sw
+351852: Henfield,se
+351853: Henley-In-Arden,wm
+351854: Hereford Racecourse,wm
+351855: Hergest Croft Gardens,wm
+351856: Herne Bay,se
+351857: Herodsfoot,sw
+351858: Herringthorpe,yh
+351859: Herstmonceux Castle,se
+351860: Hessle,yh
+351861: Hestercombe Gardens,sw
+351862: Heswall,nw
+351863: Hethelpit Cross,sw
+351864: Hetton-Le-Hole,ne
+351865: Hever Castle Gardens,se
+351866: Hexham,ne
+351867: Hexham Racecourse,ne
+351868: Heyrod,nw
+351869: Heyside,nw
+351870: Heywood,nw
+351871: Hezlett House (Nt),ni
+351872: Hibernian F.C.,dg
+351873: Hidcote Manor Garden,sw
+351874: High Beeches (Handcross),se
+351875: High Beeches (Uckfield),se
+351876: High Bentham,yh
+351877: High Crompton,nw
+351878: High Street,sw
+351879: High Wycombe,se
+351880: Higham Ferrers,em
+351881: Highbridge,sw
+351882: Highbury Garden (West Moors),sw
+351883: Highbury Vale,em
+351884: Highcliffe,se
+351885: Higher Blackley,nw
+351886: Higher Broughton,nw
+351887: Higher Woodhill,nw
+351888: Highter's Heath,wm
+351889: Highworth,sw
+351890: Hill,wm
+351891: Hill Court Ross-On-Wye,wm
+351892: Hill Top,wm
+351893: Hill Top (Near Sawrey),nw
+351894: Hill View,sw
+351895: Hillbourne,sw
+351896: Hillesden,se
+351897: Hillingdon,se
+351898: Hillington,st
+351899: Hillsborough (Lisburn),ni
+351900: Hillsborough (South Yorkshire),yh
+351901: Hilsea,se
+351902: Hilton Park,nw
+351903: Hindhead,se
+351904: Hindley,nw
+351905: Hinton Ampner Garden,se
+351906: Hiscott,sw
+351907: Hitchin,ee
+351908: Hodgehill,wm
+351909: Hodnet Hall Gardens,wm
+351910: Hogganfield,st
+351911: Holbeach,em
+351912: Holbeach Drove,em
+351913: Holbrooks,wm
+351914: Holcombe,sw
+351915: Holdenby House,em
+351916: Holker Hall,nw
+351917: Holkham Hall,ee
+351918: Holland House Youth Hostel,se
+351919: Hollins,nw
+351920: Hollins End,yh
+351921: Holmbury St. Mary Youth Hostel,se
+351922: Holme Pierrepont National Water Sports Centre,em
+351923: Holmes Chapel,nw
+351924: Holmfirth,yh
+351925: Holsworthy,sw
+351926: Holt,ee
+351927: Holyhead Bay,wl
+351928: Holywell,wl
+351929: Holywell Bay Fun Park,sw
+351930: Holywood,ni
+351931: Honicknowle,sw
+351932: Honister Hause Youth Hostel,nw
+351933: Honiton,sw
+351934: Honley,yh
+351935: Hook,se
+351936: Hopetoun House,dg
+351937: Hopetown,yh
+351938: Hopton Wafers,wm
+351939: Horbury,yh
+351940: Horfield,sw
+351941: Horley,se
+351942: Horncastle,em
+351943: Horndean,se
+351944: Hornsea,yh
+351945: Hornsea Freeport,yh
+351946: Horsforth,yh
+351947: Horsforth Woodside,yh
+351948: Horsley Hill,ne
+351949: Horton Green,nw
+351950: Horwich,nw
+351951: Hough End,yh
+351952: Houghton Le Spring,ne
+351953: Houghton Lodge,se
+351954: Houghton Regis,ee
+351955: Houndslow,dg
+351956: Hounslow,se
+351957: Hoveton Hall Gardens,ee
+351958: How Caple Court,wm
+351959: Howden,yh
+351960: Howden Moors,yh
+351961: Howick Hall Garden,ne
+351962: Howmore Youth Hostel,he
+351963: Hoy Sound,os
+351964: Hoy Youth Hostel,os
+351965: Hoylake,nw
+351966: Hoyland,yh
+351967: Hucknall,em
+351968: Huddersfield,yh
+351969: Hugh Town,sw
+351970: Hull City F.C.,yh
+351971: Humberstone,em
+351972: Hunslet,yh
+351973: Hunslet Carr,yh
+351974: Hunstanton,ee
+351975: Hunstanton Youth Hostel,ee
+351976: Huntingdon Racecourse,ee
+351977: Huntly,gr
+351978: Hunt's Cross,nw
+351979: Hurlet,st
+351980: Hurst,nw
+351981: Hurst Green,wm
+351982: Hurstpierpoint,se
+351983: Hutton-In-The-Forest,nw
+351984: Huyton,nw
+351985: Hyde,nw
+351986: Hythe,se
+351987: Hywel Dda Gardens,wl
+351988: Ickworth,ee
+351989: Iden Croft Herbs Staplehurst,se
+351990: Idle,yh
+351991: Idwal Cottage Youth Hostel,wl
+351992: Iford,sw
+351993: Iford Manor,sw
+351994: Ightfield,wm
+351995: Ilam Hall Youth Hostel,wm
+351996: Ilford,se
+351997: Ilfracombe Youth Hostel,sw
+351998: Ilkeston,em
+351999: Ilkley,yh
+352000: Illingworth,yh
+352001: Ilminster,sw
+352002: Ince-In-Makerfield,nw
+352003: Inch,dg
+352004: Ingatestone,ee
+352006: Innerleithen,dg
+352007: Innerleithen (Mountain Bike Trail Centre),dg
+352008: Instow Youth Hostel,sw
+352009: Intake,yh
+352010: Inverailort,he
+352011: Inveraray,st
+352012: Inveraray Youth Hostel,st
+352013: Inverbervie,gr
+352014: Inveresk Lodge Garden,dg
+352015: Inverewe Gardens,he
+352016: Inverey Youth Hostel,gr
+352017: Inverguseran,he
+352018: Inverkeithing,ta
+352019: Inverness Airport,he
+352020: Inverness Caledonian Thistle Fc,he
+352021: Inverness Millburn Youth Hostel,he
+352022: Inverurie,gr
+352023: Ipswich Town F.C.,ee
+352024: Irby,nw
+352025: Ireby,nw
+352026: Irlam,nw
+352027: Ironbridge Gorge,wm
+352028: Ironbridge Gorge Youth Hostel,wm
+352029: Irthlingborough,em
+352030: Irvine Bay,st
+352031: Islay Airport,st
+352032: Islay Youth Hostel,st
+352033: Isle Of Man Airport,nw
+352034: Isle Of Man Tourist Trophy Circuit,nw
+352035: Isle Of Wight (Sandown) Airport,se
+352036: Islington,se
+352037: Ivinghoe Youth Hostel,se
+352038: Ivybridge,sw
+352039: Ixworth,ee
+352040: Jarrow,ne
+352041: Jedburgh,dg
+352042: Jenkyn Place Gardens,se
+352043: Jephson Gardens Royal Leamington Spa,wm
+352044: Jericho,nw
+352045: Jersey Airport,sw
+352046: John O' Groats Youth Hostel,he
+352047: Johnstone,st
+352048: Joppa,dg
+352049: Jordans Youth Hostel,se
+352050: Jumpers Common,sw
+352051: Juniper Green,dg
+352052: Jurby Motor Racing Circuit,nw
+352053: Kailzie Gardens,dg
+352054: Kaimes,dg
+352055: Keady,ni
+352056: Kearsley,nw
+352057: Keighley,yh
+352058: Keith,gr
+352059: Keld Lodge,yh
+352060: Kellie Castle Grounds,ta
+352061: Kelso Racecourse,dg
+352062: Kelty,ta
+352063: Kelvindale,st
+352064: Kelvinside,st
+352065: Kemberton,wm
+352066: Kemble,sw
+352067: Kempston,ee
+352068: Kempton Park Racecourse,se
+352069: Kemsing,se
+352070: Kendal Ski Club,nw
+352071: Kendal Youth Hostel,nw
+352072: Kendoon Youth Hostel,dg
+352073: Kenilworth,wm
+352074: Kennall Vale,sw
+352075: Kensington,se
+352076: Kent International Airport,se
+352077: Kentwell Hall,ee
+352078: Kershader Youth Hostel,he
+352079: Keswick,nw
+352080: Keswick Youth Hostel,nw
+352081: Kettlewell Youth Hostel,yh
+352082: Keyingham,yh
+352083: Keynsham,sw
+352084: Kibworth Beauchamp,em
+352085: Kidderminster,wm
+352086: Kidlington,se
+352087: Kidsgrove,wm
+352088: Kidsgrove Ski Centre,wm
+352089: Kidwelly,wl
+352090: Kielder,ne
+352091: Kiftsgate Court Garden,sw
+352092: Kilbirnie,st
+352093: Kilbowie,st
+352094: Kildrummy Castle Gardens,gr
+352095: Kilkeel,ni
+352096: Kilkhampton,sw
+352097: Killamarsh,em
+352098: Killerton,sw
+352099: Killin,ta
+352100: Killingworth,ne
+352101: Killyleagh,ni
+352102: Kilmacolm,st
+352103: Kilmarnock F.C.,st
+352104: Kiloran Gardens,st
+352105: Kilrea,ni
+352106: Kilsyth,st
+352107: Kilwinning,st
+352108: Kimberley,em
+352109: Kimberworth,yh
+352110: Kincardine,ta
+352111: Kineton,wm
+352112: Kineton Green,wm
+352113: Kinghorn,ta
+352114: King's Heath,wm
+352115: King's Hill,wm
+352116: King's Lynn Youth Hostel,ee
+352117: King's Norton,wm
+352118: Kings Youth Hostel,wl
+352119: Kingsbridge,sw
+352120: Kingshurst,wm
+352121: Kingsley,wm
+352122: Kingstanding,wm
+352123: Kingsteignton,sw
+352124: Kingston Deverill,sw
+352125: Kingston Maurward Park,sw
+352126: Kingston Upon Hull,yh
+352127: Kingswinford,wm
+352128: Kingswood,sw
+352129: Kington,wm
+352130: Kingussie,he
+352131: Kinloch Hourn,he
+352132: Kinlochleven,he
+352133: Kinmount Gardens,dg
+352134: Kinross,ta
+352135: Kinross House,ta
+352136: Kinson,sw
+352137: Kintore,gr
+352138: Kirby Hall,em
+352139: Kircubbin,ni
+352140: Kirk Sandall,yh
+352141: Kirk Yetholm Youth Hostel,dg
+352142: Kirkburton,yh
+352143: Kirkby,nw
+352144: Kirkby Green,em
+352145: Kirkby In Ashfield,em
+352146: Kirkby Lonsdale,nw
+352147: Kirkby Stephen,nw
+352148: Kirkby Stephen Youth Hostel,nw
+352149: Kirkbymoorside,yh
+352150: Kirkcowan,dg
+352151: Kirkcudbright,dg
+352152: Kirkham,nw
+352153: Kirkhill,ta
+352154: Kirkintilloch,st
+352155: Kirkstall,yh
+352156: Kirkton Of Kingoldrum,ta
+352157: Kirkwall,os
+352158: Kirkwall Airport,os
+352159: Kirkwall Youth Hostel,os
+352160: Kirriemuir,ta
+352161: Kirroughtree Mountain Bike Trail Centre,dg
+352162: Kirtling Green,ee
+352163: Kirton,em
+352164: Kirton In Lindsey,yh
+352165: Kitt Green,nw
+352166: Kitt's Moss,nw
+352167: Knaresborough,yh
+352168: Knebworth House,ee
+352169: Knighton (Dorset),sw
+352170: Knighton (Leicester),em
+352171: Knighton (Powys),wl
+352172: Knightshayes Court,sw
+352173: Knightswood,st
+352174: Knockhatch Ski & Snowboarding Centre,se
+352175: Knockhill Motor Racing Circuit,ta
+352176: Knole,se
+352177: Knoll Gardens Ferndown,sw
+352178: Knottingley,yh
+352179: Knotty Ash,nw
+352180: Knowle (Bristol),sw
+352181: Knowle (West Midlands),wm
+352182: Knutsford,nw
+352183: Knutton,wm
+352184: Kyle Of Lochalsh,he
+352185: Kyle Of Tongue,he
+352186: Kyleakin Youth Hostel,he
+352187: Kyles Of Bute,st
+352188: La Seigneurie (Sark),sw
+352189: Ladhar Bheinn,he
+352190: Laggan Bay,st
+352191: Laggan Wolftrax Mountain Bike Trail Centre,he
+352192: Laira,sw
+352193: Lairg,he
+352194: Laisterdyke,yh
+352195: Lakes End,ee
+352196: Lambeth,se
+352197: Lambhill,st
+352198: Lambourn,se
+352199: Lampeter,wl
+352200: Lanark,st
+352201: Lanchester,ne
+352202: Lancing,se
+352203: Landkey,sw
+352204: Landport,se
+352205: Land's End,sw
+352206: Land's End Airport,sw
+352207: Land's End Youth Hostel,sw
+352208: Lane Head,wm
+352209: Langdale Youth Hostel,nw
+352210: Langdon Beck Youth Hostel,ne
+352211: Langholm,dg
+352212: Langley Green,wm
+352213: Langport,sw
+352214: Langsett Youth Hostel,yh
+352215: Langside,st
+352216: Langtoft,em
+352217: Langton Hall,em
+352218: Lanhydrock,sw
+352219: Lapal,wm
+352220: Larbert,ta
+352221: Largs,st
+352222: Larkhall,st
+352223: Larmer Tree Gardens,sw
+352224: Lauder,dg
+352225: Laughton,em
+352227: Laurencekirk,gr
+352228: Lawrence Weston,sw
+352229: Lawrenny Youth Hostel,wl
+352230: Laxey,nw
+352231: Laxey Glen,nw
+352232: Laxford Bridge,he
+352233: Layer Marney Tower,ee
+352234: Lea Gardens,em
+352235: Leabaidh An Daimh Bhuidhe,gr
+352236: Leagrave,ee
+352237: Learnie Red Rock Mountain Bike Trail Centre,he
+352238: Lechlade-On-Thames,sw
+352239: Lecht Ski Centre Low Level,gr
+352240: Ledbury,wm
+352241: Leeds,yh
+352242: Leeds Castle Gardens,se
+352243: Leeds United F.C.,yh
+352244: Leek,wm
+352245: Lee-On-The-Solent,se
+352246: Lees,nw
+352247: Legerwood,dg
+352248: Legoland Windsor,se
+352249: Leicester City F.C.,em
+352250: Leicester Forest East,em
+352251: Leicester Racecourse,em
+352252: Leigh,nw
+352253: Leighton Buzzard,ee
+352254: Leiston,ee
+352255: Leith Hall Garden And Estate,gr
+352256: Lemington,ne
+352257: Lennoxtown,st
+352258: Lenton,em
+352259: Lenton Abbey,em
+352260: Leominster,wm
+352261: Leonardslee Gardens,se
+352262: Lerwick,os
+352263: Lerwick Youth Hostel,os
+352264: Leslie,ta
+352265: Leslie Hill Open Farm & Gardens,ni
+352266: Lesmahagow,st
+352267: Lessingham,ee
+352268: Letchworth Garden City,ee
+352269: Letterewe,he
+352270: Leven,ta
+352271: Levens Hall,nw
+352272: Levenshulme,nw
+352273: Leverton,em
+352274: Lewes,se
+352275: Lewisham,se
+352276: Lews Castle Gardens,he
+352277: Leyburn,yh
+352278: Leyland,nw
+352279: Liberton,dg
+352280: Lichfield,wm
+352281: Lifford,wm
+352282: Lifton,sw
+352283: Lightwater Valley Park,yh
+352284: Lightwood,wm
+352285: Lilleshall National Sports Centre,wm
+352286: Lilliput,sw
+352287: Limavady,ni
+352288: Lime Side,nw
+352289: Limefield,nw
+352290: Limehurst,nw
+352291: Canwick,em
+352292: Lindfield,se
+352293: Linford Wood,se
+352294: Lingfield Park Racecourse,se
+352295: Linlithgow,dg
+352296: Linstead Parva,ee
+352297: Linton Youth Hostel,yh
+352298: Linwood,se
+352299: Lisbellaw,ni
+352300: Lisburn,ni
+352301: Liskeard,sw
+352302: Lisnaskea,ni
+352303: Listerdale,yh
+352304: Litherland,nw
+352305: Little Bolton,nw
+352306: Little Bromwich,wm
+352307: Little Horton,yh
+352308: Little Horwood,se
+352309: Little Hulton,nw
+352310: Little Lever,nw
+352311: Little Moreton Hall,nw
+352312: Little Weston,sw
+352313: Littleborough,nw
+352314: Littledean Hall,sw
+352315: Littleport,ee
+352316: Litton Cheney Youth Hostel,sw
+352317: Liverpool F.C.,nw
+352318: Liverpool Youth Hostel,nw
+352319: Liversedge,yh
+352320: Living Rainforest,se
+352321: Llanbedr,wl
+352322: Llanberis,wl
+352323: Llanberis Youth Hostel,wl
+352324: Llandaff,wl
+352325: Llandaff North,wl
+352326: Llanddeusant Youth Hostel,wl
+352327: Llanddewi Ystradenni,wl
+352328: Llanddona,wl
+352329: Llanddwyn (Newborough),wl
+352330: Llandeilo,wl
+352332: Llandrindod Wells,wl
+352333: Llandudno,wl
+352334: Llandudno Ski & Snowboard Centre,wl
+352335: Llandysul,wl
+352336: Llanedeyrn,wl
+352337: Llanelli,wl
+352338: Llanfair Caereinion,wl
+352339: Llanfairfechan,wl
+352340: Llanfyllin,wl
+352341: Llangefni,wl
+352342: Llangollen,wl
+352343: Llangollen Youth Hostel,wl
+352344: Llangolman,wl
+352345: Llangorse Lake,wl
+352346: Llangrannog Ski Centre,wl
+352347: Llangybi,wl
+352348: Llanidloes,wl
+352349: Llanishen,wl
+352350: Llanrumney,wl
+352351: Llanrwst,wl
+352352: Llantrisant,wl
+352353: Llantwit Major,wl
+352354: Llanwddyn,wl
+352355: Llanwrtyd,wl
+352356: Llanybydder,wl
+352357: Lledr Valley Youth Hostel,wl
+352358: Llwynderw,wl
+352359: Llwyn-Y-Celyn Youth Hostel,wl
+352360: Llwynypia Youth Hostel,wl
+352361: Llyn Y Fan Fawr,wl
+352362: Loanhead,dg
+352363: Loch A' Tuath,he
+352364: Loch Alsh,he
+352365: Loch Broom,he
+352366: Loch Buie,st
+352367: Loch Caolisport,st
+352368: Loch Carron,he
+352369: Loch Duich,he
+352370: Loch Dunvegan,he
+352371: Loch Eil,he
+352372: Loch Eishort,he
+352373: Loch Eriboll,he
+352374: Loch Etive,st
+352375: Loch Ewe,he
+352376: Loch Goil,st
+352377: Loch Hourn,he
+352378: Loch Lochy Youth Hostel,he
+352379: Loch Lomond Youth Hostel,st
+352380: Loch Long,st
+352381: Loch Morlich Youth Hostel,he
+352382: Loch Mullardoch,he
+352383: Loch Na Keal,st
+352384: Loch Ness Youth Hostel,he
+352385: Loch Nevis,he
+352386: Loch Ossian Youth Hostel,he
+352387: Loch Scavaig,he
+352388: Loch Scridain,st
+352389: Loch Seaforth,he
+352390: Loch Sunart,he
+352391: Loch Sween,st
+352392: Loch Tarbert,st
+352393: Loch Torridon,he
+352394: Loch Tuath,st
+352395: Lochearnhead,ta
+352396: Lochgelly,ta
+352397: Lochgilphead,st
+352398: Lochmaben,dg
+352399: Lochnagar,gr
+352400: Lochranza Youth Hostel,st
+352401: Lochwinnoch,st
+352402: Lockleaze,sw
+352403: Lockton Youth Hostel,yh
+352404: Loddiswell,sw
+352405: Loddon,ee
+352406: Lode Heath,wm
+352407: Loftus,ne
+352408: Kennel Wood,dg
+352409: London,se
+352410: London Ashford Airport,se
+352411: London Biggin Hill Airport,se
+352413: London Fields,wm
+352414: London Gatwick Airport,se
+352416: London Luton Airport,ee
+352417: London Southend Airport,ee
+352418: London Stansted Airport,ee
+352419: Londonderry (West Midlands),wm
+352420: Long Cross Victorian Gardens,sw
+352421: Long Eaton,em
+352422: Long Melford,ee
+352423: Long Stratton,ee
+352424: Long Sutton,em
+352425: Long Thurlow,ee
+352426: Longbenton,ne
+352427: Longbridge,wm
+352428: Longbridge Hayes,wm
+352429: Longden,wm
+352430: Longfleet,sw
+352431: Longley,yh
+352432: Longport,wm
+352433: Longridge,nw
+352434: Longstone,dg
+352435: Longton,wm
+352436: Longtown,nw
+352437: Looe,sw
+352438: Lord's Marylebone C.C.,se
+352439: Loseley House,se
+352440: Lossiemouth,gr
+352441: Lost Gardens Of Heligan,sw
+352442: Lostock Junction,nw
+352443: Lostwithiel,sw
+352444: Lotherton Hall,yh
+352445: Loudon Castle Park,st
+352446: Lough Neagh,ni
+352447: Loughborough,em
+352448: Loughton,ee
+352450: Low Bradfield,yh
+352451: Low Mill,yh
+352452: Low Moor,yh
+352453: Low Team,ne
+352454: Lower Kersal,nw
+352455: Lower Quinton,wm
+352456: Lowfield,yh
+352457: Luckett,sw
+352458: Ludlow Racecourse,wm
+352459: Ludlow Youth Hostel,wm
+352460: Luinne Bheinn,he
+352461: Lulworth Cove Youth Hostel,sw
+352462: Lundy Island,sw
+352463: Lurg Mhor,he
+352464: Lurgan,ni
+352465: Luton Town F.C.,ee
+352466: Lutterworth,em
+352467: Luzley Brook,nw
+352468: Lydd,se
+352469: Lydden Motor Racing Circuit,se
+352470: Lydney,sw
+352471: Lydney Park,sw
+352472: Lydstep,wl
+352473: Lye,wm
+352474: Lyme Hall,nw
+352475: Lyme Regis,sw
+352476: Lymington,se
+352477: Lymm,nw
+352478: Lyndhurst,se
+352479: Lyndon Green,wm
+352480: Lyneholmeford,nw
+352481: Lynn Deeps,ee
+352482: Lynn Of Morven,he
+352483: Lynton,sw
+352484: Lynton Youth Hostel,sw
+352485: Lytham St. Anne's,nw
+352486: Mabie Mountain Bike Trail Centre,dg
+352487: Mablethorpe,em
+352488: Machir Bay,st
+352489: Macpenny's Nursery,se
+352490: Maendy,wl
+352491: Maeshafn Youth Hostel,wl
+352492: Maesteg,wl
+352493: Maghera,ni
+352494: Magherafelt,ni
+352495: Magheraveely,ni
+352496: Maghery Country Park,ni
+352497: Maghull,nw
+352498: Malham Youth Hostel,yh
+352499: Malinbridge,yh
+352500: Malleny House,dg
+352501: Mallory Park,em
+352503: Malpas,nw
+352504: Maltby,yh
+352505: Malton,yh
+352506: Malvern Hills Youth Hostel,wm
+352507: Mam Sodhail,he
+352508: Manchester Airport,nw
+352509: Manchester City F.C.,nw
+352510: Old Trafford,nw
+352511: Manchester Youth Hostel,nw
+352512: Maney,wm
+352513: Mangotsfield,sw
+352514: Mankinholes Youth Hostel,yh
+352515: Manningham,yh
+352516: Mannings Amusement Park,ee
+352517: Mannington Hall,ee
+352518: Manningtree,ee
+352519: Manorbier Youth Hostel,wl
+352520: Mansewood,st
+352521: Mansfield Woodhouse,em
+352522: Manston,yh
+352523: Maoile Lunndaidh,he
+352524: Maol Chean-Dearg,he
+352525: Maol Chinn-Dearg,he
+352526: Mapperley,em
+352527: Mapperley Park,em
+352528: Mapperton,sw
+352529: Mapperton Gardens,sw
+352530: March,ee
+352531: Marfleet,yh
+352532: Margate Youth Hostel,se
+352533: Greenwich Park,se
+352534: Market Bosworth,em
+352535: Market Drayton,wm
+352536: Market Rasen,em
+352537: Market Rasen Racecourse,em
+352538: Market Warsop,em
+352539: Market Weighton,yh
+352540: Markethill,ni
+352541: Markinch,ta
+352542: Markland Hill,nw
+352543: Marland,nw
+352544: Marle Place Brenchley,se
+352545: Marloes Sands Youth Hostel,wl
+352546: Marlow,se
+352547: Marple,nw
+352548: Marsden (Tyne & Wear),ne
+352549: Marsden (West Yorkshire),yh
+352550: Marsh Green,nw
+352551: Marske-By-The-Sea,ne
+352552: Marston Green,wm
+352553: Martley,wm
+352554: Martock,sw
+352555: Marwick,os
+352556: Marwood Hill Gardens,sw
+352557: Maryhill,st
+352558: Marylebone,nw
+352559: Maryport,nw
+352560: Masham,yh
+352561: Matlock,em
+352562: Matlock Youth Hostel,em
+352563: Mattingley,se
+352564: Mauchline,st
+352565: Mavis Enderby,em
+352566: Maw Green,wm
+352567: Mawgan Porth,sw
+352568: May Bank,wm
+352569: Mayar,ta
+352570: Maybole,st
+352571: Maypole Green,ee
+352572: Maypool Youth Hostel,sw
+352573: Mcarthur's Head,st
+352574: Mcarthur's Head Lighthouse,st
+352575: Meadowhall,yh
+352576: Meall A' Bhuiridh,he
+352577: Meall A' Choire Leith,ta
+352578: Meall A' Chrasgaidh,he
+352579: Meall Buidhe (Highland),he
+352580: Meall Buidhe (Perth & Kinross),ta
+352581: Meall Chuaich,he
+352582: Meall Corranaich,ta
+352583: Meall Dearg,he
+352584: Meall Garbh (1118m),ta
+352585: Meall Garbh (968m),ta
+352586: Meall Ghaordie,ta
+352587: Meall Glas,ta
+352588: Meall Gorm,he
+352589: Meall Greigh,ta
+352590: Meall Na Aighean,ta
+352591: Meall Na Teanga,he
+352592: Meall Nan Ceapraichean,he
+352593: Meall Nan Con,he
+352594: Meall Nan Eun,st
+352595: Meall Nan Tarmachan,ta
+352596: Meanwood,yh
+352597: Meerbrook Youth Hostel,wm
+352598: Megginch Castle,ta
+352599: Meigle,ta
+352600: Meir,wm
+352601: Melbourne,em
+352602: Melbourne Hall,em
+352603: Melford Hall,ee
+352604: Melksham,sw
+352605: Melrose,dg
+352606: Melrose Youth Hostel,dg
+352607: Meltham,yh
+352608: Menai Bridge,wl
+352609: Menai Strait,wl
+352610: Mere,sw
+352611: Mere Green,wm
+352612: Merry Hill,wm
+352613: Merton,se
+352614: Mertoun House,dg
+352615: Methil,ta
+352616: Mevagissey,sw
+352617: Mexborough,yh
+352618: Michelham Priory Grounds,se
+352619: Mickfield,ee
+352620: Mid Yell,os
+352621: Middle Winterslow,sw
+352622: Middlesbrough F.C.,ne
+352623: Middleton (Greater Manchester),nw
+352624: Middleton (Northumberland),ne
+352625: Middleton (West Yorkshire),yh
+352626: Middleton-In-Teesdale,ne
+352627: Middlewich,nw
+352628: Midhopestones,yh
+352629: Midhurst,se
+352630: Midlothian Snowsports Centre,dg
+352631: Midsomer Norton,sw
+352632: Miles Platting,nw
+352633: Milford Haven,wl
+352634: Milford On Sea,se
+352635: Milky Way Adventure Park Clovelly,sw
+352636: Mill Rest Youth Hostel,ni
+352637: Millbrook (Greater Manchester),nw
+352638: Millbrook (Southampton),se
+352639: Millennium Seed Bank Wakehurst Place,se
+352640: Millhouses,yh
+352641: Millom,nw
+352642: Millport,st
+352643: Milngavie,st
+352644: Milnrow,nw
+352645: Milnsbridge,yh
+352646: Milton (Glasgow),st
+352647: Milton (Stoke-On-Trent),wm
+352648: Milton Keynes,se
+352649: Milton Lodge,sw
+352650: Milton Manor House,se
+352651: Minehead,sw
+352652: Minehead Youth Hostel,sw
+352653: Minnigaff Youth Hostel,dg
+352654: Minster,se
+352655: Minterne Gardens,sw
+352656: Minworth,wm
+352657: Mirfield,yh
+352658: Miserden Park Gardens,sw
+352659: Moira,ni
+352660: Mold,wl
+352661: Monadh Mor,he
+352662: Monifieth,ta
+352663: Monktonhall,dg
+352664: Monmore Green,wm
+352665: Monmouth,wl
+352666: Monmouth Youth Hostel,wl
+352667: Montacute House,sw
+352668: Montgomery,wl
+352669: Moor Allerton,yh
+352670: Moor Head,yh
+352671: Moor Side,yh
+352672: Moorside (Nr Oldham),nw
+352673: Moorside (Nr Salford),nw
+352674: Moorside (West Yorkshire),yh
+352675: Moray Monster Trails Mountain Bike Trail Centre,gr
+352676: Morchard Bishop,sw
+352677: Morden Hall Park,se
+352678: Morecambe,nw
+352679: Moredun,dg
+352680: Moreton,nw
+352681: Moretonhampstead,sw
+352682: Moreton-In-Marsh,sw
+352683: Morley,yh
+352684: Morningside,dg
+352685: Morpeth,ne
+352686: Moruisg,he
+352687: Mosborough,yh
+352688: Moseley (Nr Birmingham),wm
+352689: Moseley (Nr Wolverhampton),wm
+352690: Moseley Old Hall,wm
+352691: Moses Gate,nw
+352692: Moss Bank,nw
+352693: Moss Nook,nw
+352694: Moss Side,nw
+352695: Mossley,nw
+352696: Moston,nw
+352697: Motcombe,sw
+352698: Motherwell F.C.,st
+352699: Mottisfont Abbey,se
+352700: Moulton,yh
+352701: Mount Keen,gr
+352702: Mount Stewart (Nt),ni
+352703: Mount Vernon,st
+352704: Mountain Ash,wl
+352705: Mouth Of The Humber,yh
+352706: Mouth Of The Severn,sw
+352707: Moxley,wm
+352708: Mr. B's Amusements Southend-On-Sea,ee
+352709: Much Wenlock,wm
+352710: Muir Of Ord,he
+352711: Muirend,st
+352712: Muirfield (Hon Company Of Edinburgh Golfers),dg
+352713: Muirhead (Angus),ta
+352714: Muirhead (Glasgow),st
+352715: Muirkirk,st
+352716: Mullach An Rathain,he
+352717: Mullach Clach A' Bhlair,he
+352718: Mullach Coire Mhic Fhearchair,he
+352719: Mullach Fraoch-Choire,he
+352720: Mullach Na Dheiragain,he
+352721: Mullach Nan Coirean,he
+352722: Mullan Point,ni
+352723: Muncaster Castle Gardens & Owl Centre,nw
+352724: Mundesley,ee
+352725: Murrayfield (Edinburgh),dg
+352726: Murrayfield (Stadium),dg
+352727: Murton,ne
+352728: Muscliff,sw
+352729: Musselburgh,dg
+352730: Musselburgh Racecourse,dg
+352731: Myddelton House,se
+352732: Mynachdy,wl
+352733: Mytholm,yh
+352734: Na Gruagaichean,he
+352735: Nab Wood,yh
+352736: Nailsea,sw
+352737: Nailsworth,sw
+352738: Nairn,he
+352739: Nantwich,nw
+352740: Narberth,wl
+352741: National Botanic Garden Of Wales,wl
+352742: National Botanic Gardens,ni
+352743: National Memorial Arboretum Alrewas,wm
+352744: National Wildflower Centre Liverpool,nw
+352745: Neath,wl
+352746: Needham Market,ee
+352747: Needles Pleasure Park,se
+352748: Nefyn,wl
+352749: Nelson,nw
+352750: Ness Gardens (Liverpool Uni Botanic Gardens),nw
+352751: Ness Wood Country Park,ni
+352752: Neston,nw
+352753: Nether Edge,yh
+352754: Netheroyd Hill,yh
+352755: Netherton,nw
+352756: Nethy Bridge,he
+352757: Nevis Range Ski Centre Medium Level,he
+352758: New Addington,se
+352759: New Alresford,se
+352760: New Bolingbroke,em
+352761: New Bradwell,se
+352762: New Brighton (Merseyside),nw
+352763: New Brighton (West Yorkshire),yh
+352764: New Humberstone,em
+352765: New Inn,wl
+352766: New Invention,wm
+352767: New Lanark Youth Hostel,st
+352768: New Luce,dg
+352769: New Mills,em
+352770: New Milton,se
+352771: New Moat,wl
+352772: New Ollerton,em
+352773: New Palace And Adventureland New Brighton,nw
+352774: New Parks,em
+352775: New Pitsligo,gr
+352776: New Quay,wl
+352777: New Romney,se
+352778: New Totley,yh
+352779: New Walton Pier,ee
+352780: Newall,yh
+352781: Newark-On-Trent,em
+352782: Newbiggin-By-The-Sea,ne
+352783: Newbridge,wl
+352784: Newburgh,ta
+352785: Newbury Racecourse,se
+352786: Newby Hall,yh
+352787: Newcastle,ni
+352788: Newcastle (Beach),ni
+352789: Newcastle Emlyn,wl
+352790: Newcastle International Airport,ne
+352791: Newcastle Racecourse,ne
+352792: St James Park,ne
+352793: Newcastle Upon Tyne,ne
+352794: Newcastle Upon Tyne Youth Hostel,ne
+352795: Newcastle Youth Hostel,ni
+352796: Newcastleton,dg
+352797: Newcastleton (Mountain Bike Trail Centre),dg
+352798: Newcastle-Under-Lyme,wm
+352799: Newchurch,se
+352800: Newent,sw
+352801: Newgale,wl
+352802: Newick Park,se
+352803: Newland,yh
+352804: Newlands,st
+352805: Newmarket,ee
+352806: Newmarket Racecourse,ee
+352807: Newmilns Snow & Sport Complex,st
+352808: Newnham Paddox Art Park,wm
+352809: Newport (Isle Of Wight),se
+352810: Newport (Pembrokeshire),wl
+352811: Newport (Telford & Wrekin),wm
+352812: Newport Bay,wl
+352813: Newport Pagnell,se
+352814: Newport Youth Hostel,wl
+352815: Newport-On-Tay,ta
+352816: Newquay Cornwall Airport,sw
+352817: Newry,ni
+352818: Newstead Abbey,em
+352819: Newton (Cambridgeshire),ee
+352820: Newton (Greater Manchester),nw
+352821: Newton (West Midlands),wm
+352822: Newton Abbot,sw
+352823: Newton Abbot Racecourse,sw
+352824: Newton Aycliffe,ne
+352825: Newton Heath,nw
+352826: Newtongrange,dg
+352827: Newton-Le-Willows,nw
+352828: Newtown (Nr Salford),nw
+352829: Newtown (Nr Wigan),nw
+352830: Newtownabbey,ni
+352831: Newtownards,ni
+352832: Newtownbutler,ni
+352833: Newtownstewart,ni
+352834: Neyland,wl
+352835: Ninebanks Youth Hostel,ne
+352836: Nitshill,st
+352837: Noctorum,nw
+352838: Norbury Moor,nw
+352839: Norden,nw
+352840: Norfolk Ski Centre,ee
+352841: Normanton,yh
+352842: Normanton Spring,yh
+352843: Norristhorpe,yh
+352844: North Bragar,he
+352845: North Carlton,em
+352846: North End,se
+352847: North Evington,em
+352848: North Face Mountain Bike Trail,nw
+352849: North Molton,sw
+352850: North Ronaldsay Airfield,os
+352851: North Ronaldsay Firth,os
+352852: North Shields,ne
+352853: North Top,gr
+352854: North Tuddenham,ee
+352855: North Walbottle,ne
+352856: North Walsham,ee
+352857: Northallerton,yh
+352858: Northam,sw
+352859: Northend,ee
+352860: Northenden,nw
+352861: Northern Moor,nw
+352862: Northfield (Kingston Upon Hull),yh
+352863: Northfield (West Midlands),wm
+352864: Northfleet,se
+352865: Northwich,nw
+352866: Northwood (Staffordshire),wm
+352867: Northwood (Stoke-On-Trent),wm
+352868: Norton (North Yorkshire),yh
+352869: Norton (South Yorkshire),yh
+352870: Norton (West Midlands),wm
+352871: Norton Conyers,yh
+352872: Norton In The Moors,wm
+352873: Norton Woodseats,yh
+352874: Norwell,em
+352875: Norwich City F.C.,ee
+352876: Norwich International Airport,ee
+352877: Norwich Youth Hostel,ee
+352878: Norwood,yh
+352879: Nostell Priory Grounds,yh
+352880: Nottingham Racecourse,em
+352881: Nunwell,se
+352882: Nymans Garden,se
+352883: Oadby,em
+352884: Oak Hill,wm
+352885: Oakdale,sw
+352886: Oakfordbridge,sw
+352887: Oakhurst Cottage Hambledon,se
+352888: Oakwood Leisure Park Cross Hands,wl
+352889: Oban,st
+352890: Oban Youth Hostel,st
+352891: Ocean Beach Amusement Park Rhyl,wl
+352892: Ocker Hill,wm
+352893: Offerton,nw
+352894: Offerton Green,nw
+352896: Okehampton Youth Hostel,sw
+352897: Old Basford,em
+352898: Old Trafford Lancashire C.C.C.,nw
+352899: Oldbury,wm
+352900: Oldfield,yh
+352901: Oldhall,st
+352903: Oldham Edge,nw
+352904: Oldland,sw
+352905: Oldmeldrum,gr
+352906: Olney,se
+352907: Olton,wm
+352908: Once Brewed Youth Hostel,ne
+352909: Onchan,nw
+352910: Ordsall,nw
+352911: Ormskirk,nw
+352912: Orpington,se
+352913: Orrell,nw
+352914: Orton-On-The-Hill,em
+352915: Osmondthorpe,yh
+352916: Osmotherley Youth Hostel,yh
+352917: Ossett,yh
+352918: Osterley Park,se
+352919: Oswaldtwistle,nw
+352920: Oswestry,wm
+352921: Otley,yh
+352922: Ottery St. Mary,sw
+352923: Oulton Park,nw
+352924: Oundle,em
+352925: Out Skerries Airstrip,os
+352926: Oval Ski Club,nw
+352927: Ovenden,yh
+352928: Overbeck's Garden Salcombe,sw
+352929: Overton,se
+352930: Owlerton,yh
+352931: Oxburgh Hall,ee
+352932: Oxford Street Youth Hostel,se
+352933: Oxford Youth Hostel,se
+352934: Oxley,wm
+352935: Oxted,se
+352936: Packwood House,wm
+352937: Paddock,yh
+352938: Paddock Wood,se
+352939: Padiham,nw
+352940: Paignton,sw
+352941: Painshawfield,ne
+352942: Painswick Rococo Gardens,sw
+352943: Palfrey,wm
+352944: Pangbourne,se
+352945: Papa Stour Airstrip,os
+352946: Papa Westray Airfield,os
+352947: Papa Westray Youth Hostel,os
+352948: Paradise Park Newhaven,se
+352949: Parcevall Hall Gardens Appletreewick,yh
+352950: Parham House,se
+352951: Park Bridge,nw
+352952: Park Hill,yh
+352953: Parkfield,wm
+352954: Parkhall,st
+352955: Parkhead (Glasgow),st
+352956: Parkhead (South Yorkshire),yh
+352957: Parkstone,sw
+352958: Parson Cross,yh
+352959: Partick,st
+352960: Partick Thistle F.C.,st
+352961: Partington,nw
+352962: Pashley Manor Gardens,se
+352963: Patchway,sw
+352964: Pateley Bridge,yh
+352965: Patterdale Youth Hostel,nw
+352966: Patterson's Spade Mill (Nt),ni
+352967: Paultons Park,se
+352968: Pavilion Gardens Buxton,em
+352969: Peacehaven,se
+352970: Peckover House,ee
+352971: Pedmore,wm
+352972: Peel,nw
+352973: Peel Green,nw
+352974: Pelsall,wm
+352975: Pelynt,sw
+352976: Pemberton,nw
+352977: Pembrey Ski Slope,wl
+352978: Pembroke Dock,wl
+352979: Pen Y Fan,wl
+352980: Penarth,wl
+352981: Pencarrow,sw
+352982: Pencoed,wl
+352983: Pendennis Youth Hostel,sw
+352984: Pendle Ski Club,nw
+352985: Pendlebury,nw
+352986: Pendomer,sw
+352987: Penhurst,se
+352988: Penicuik,dg
+352989: Penistone,yh
+352990: Penkridge,wm
+352991: Penmaenmawr,wl
+352992: Pennyghael,st
+352993: Penrhiw-Llan,wl
+352994: Penshurst Place,se
+352995: Pensnett,wm
+352996: Pentlepoir Youth Hostel,wl
+352997: Pentwyn,wl
+352998: Penycwm Youth Hostel,wl
+352999: Penygroes,wl
+353000: Pen-Y-Pass Youth Hostel,wl
+353001: Penzance Heliport,sw
+353002: Penzance Youth Hostel,sw
+353003: People's Park St Helier,sw
+353004: Percy Main,ne
+353005: Perranporth Youth Hostel,sw
+353006: Perry,wm
+353007: Perth Racecourse,ta
+353008: Perth Youth Hostel,ta
+353009: Peterlee,ne
+353011: Pettitts Animal Adventure Park Reedham,ee
+353012: Pettymuick,gr
+353013: Petworth,se
+353014: Pewsey,sw
+353015: Pickerells,ee
+353017: Picton Castle Gardens,wl
+353018: Pimhole,nw
+353019: Pinwherry,st
+353020: Pirton,ee
+353021: Pismire Hill,yh
+353022: Pitagowan,ta
+353023: Pitlochry,ta
+353024: Pitlochry Youth Hostel,ta
+353025: Pitmedden Garden,gr
+353026: Pitsmoor,yh
+353027: Pittenweem,ta
+353028: Plant World,sw
+353029: Plantasia Swansea,wl
+353030: Plas Newydd (Anglesey),wl
+353031: Plas Newydd (Llangollen),wl
+353032: Plas-Y-Brenin National Centre For The Mountains,wl
+353033: Plas-Yn-Rhiw,wl
+353034: Platt Lane,wm
+353035: Pleasure Beach Great Yarmouth,ee
+353036: Pleasure Island Cleethorpes,yh
+353037: Pleasurewood Hills Theme Park Lowestoft,ee
+353038: Pleck,wm
+353039: Plumpton Racecourse,se
+353040: Plymouth Argyle F.C.,sw
+353041: Plymouth City Airport,sw
+353042: Plymouth Ski & Snowboard Centre,sw
+353043: Plymouth Youth Hostel,sw
+353044: Plympton,sw
+353045: Plymtree,sw
+353046: Pocklington,yh
+353047: Polegate,se
+353048: Polesden Lacey,se
+353049: Polla,he
+353050: Pollok,st
+353051: Pollokshaws,st
+353052: Pollokshields,st
+353053: Polmonthill Ski Slope,ta
+353054: Polzeath,sw
+353055: Pontantwn,wl
+353056: Pontardawe,wl
+353057: Pontarddulais,wl
+353058: Pontefract Racecourse,yh
+353059: Ponteland,ne
+353060: Pont-Faen,wl
+353061: Pontyberem,wl
+353062: Pontycymer,wl
+353063: Pontypool,wl
+353064: Pontypool Ski Centre,wl
+353065: Pontypridd,wl
+353066: Pool Green,wm
+353067: Poole Bay,sw
+353068: Poole Harbour,sw
+353069: Poolstock,nw
+353070: Poppit Sands Youth Hostel,wl
+353071: Porchester,em
+353072: Porlock,sw
+353073: Port Ellen,st
+353074: Port Erin,nw
+353075: Port Eynon Youth Hostel,wl
+353076: Port Lympne,se
+353077: Port St. Mary,nw
+353078: Portadown,ni
+353079: Portaferry,ni
+353080: Portchester,se
+353081: Portglenone,ni
+353082: Porth,wl
+353083: Porth Swtan / Church Bay,wl
+353084: Porthcawl,wl
+353085: Portishead,sw
+353086: Portnalong,he
+353087: Portobello (Edinburgh),dg
+353088: Portobello (West Midlands),wm
+353089: Portrush (Beach),ni
+353090: Portrush (Coleraine),ni
+353091: Portsea,se
+353092: Portslade-By-Sea,se
+353093: Portsmouth F.C.,se
+353094: Portsmouth Youth Hostel,se
+353095: Portsoy,gr
+353096: Portstewart,ni
+353097: Portswood,se
+353098: Possil Park,st
+353099: Postbridge,sw
+353100: Potternewton,yh
+353101: Potters Bar,ee
+353102: Potter's Green,wm
+353103: Poulton-Le-Fylde,nw
+353104: Powburn,ne
+353105: Powerline Mountain Bike Trail,ne
+353106: Powis Castle Garden,wl
+353107: Poyntington,sw
+353108: Poynton,nw
+353109: Pratis,ta
+353110: Prenton,nw
+353111: Prescot,nw
+353112: Prestatyn,wl
+353113: Presteigne,wl
+353114: Preston Manor,se
+353115: Preston North End F.C.,nw
+353116: Prestonfield,dg
+353117: Prestonpans,dg
+353118: Prestwich,nw
+353119: Prestwick,st
+353120: Primrose Hill,wm
+353121: Princes Risborough,se
+353122: Prior Park Bath,sw
+353123: Priorwood Garden,dg
+353124: Prittlewell,ee
+353125: Provanmill,st
+353126: Prudhoe,ne
+353127: Pudsey,yh
+353128: Pulborough,se
+353129: Pwll Deri Youth Hostel,wl
+353130: Pwllheli,wl
+353131: Pyle,wl
+353132: Quantock Hills Youth Hostel,sw
+353133: Quarry Bank,wm
+353134: Queensbury,yh
+353135: Queensferry (Edinburgh),dg
+353136: Queensferry (Flintshire),wl
+353137: Queslett,wm
+353138: Quex House & Gardens,se
+353139: Quinton,wm
+353140: Quinton Green,em
+353141: R.H.S. Garden Harlow Carr Harrogate,yh
+353142: R.H.S. Garden Hyde Hall,ee
+353143: R.H.S. Garden Rosemoor,sw
+353144: R.H.S. Garden Wisley,se
+353145: Raasay Youth Hostel,he
+353146: Radcliffe,nw
+353147: Radford,wm
+353148: Radlett,ee
+353149: Radnor Park,st
+353150: Radstock,sw
+353151: Ragley Hall,wm
+353152: Rainberg Mor,st
+353153: Rainford,nw
+353154: Rainsough,nw
+353155: Rainthorpe Hall,ee
+353156: Rammerscales,dg
+353157: Ramsbottom,nw
+353158: Ramsey (Isle Of Man),nw
+353159: Ramsey Bay,nw
+353160: Randalstown,ni
+353161: Rangers F.C.,st
+353162: Ranmoor,yh
+353163: Ratagan Youth Hostel,he
+353164: Rathfriland,ni
+353165: Rattray Bay,gr
+353166: Raughton Head,nw
+353167: Raunds,em
+353168: Ravelston,dg
+353169: Ravensthorpe,yh
+353170: Ravenstor Youth Hostel,em
+353171: Rawdon,yh
+353172: Rawmarsh,yh
+353173: Rawtenstall,nw
+353174: Rayleigh,ee
+353175: Reading F.C.,se
+353176: Ash,se
+353177: Redburn,he
+353178: Redcar,ne
+353179: Redcar Racecourse,ne
+353180: Reddish,nw
+353181: Redditch,wm
+353182: Rede,ee
+353183: Redhill (Nottinghamshire),em
+353184: Redhill (Surrey),se
+353185: Redhill Aerodrome & Heliport,se
+353186: Redisham,ee
+353187: Redland,sw
+353188: Redlynch,sw
+353189: Rednal,wm
+353190: Redruth,sw
+353191: Reepham,ee
+353192: Renfrew,st
+353193: Renishaw Hall & Gardens,em
+353194: Restalrig,dg
+353195: Rhayader,wl
+353196: Rhenigidale Youth Hostel,he
+353197: Rhiwbina,wl
+353198: Rhosllanerchrugog,wl
+353199: Rhuddlan,wl
+353200: Rhydymain,wl
+353201: Rhymney,wl
+353202: Richmond (Greater London),se
+353203: Richmond (North Yorkshire),yh
+353204: Richmond (South Yorkshire),yh
+353205: Rickarton,gr
+353206: Rickinghall,ee
+353207: Rickmansworth,ee
+353208: City Of Coventry Stadium,wm
+353209: Riddrie,st
+353210: Ridge Hill,nw
+353211: Rievaulx Terrace,yh
+353212: Ringwood,se
+353213: Ripe,se
+353214: Ripley,em
+353215: Ripley Castle Gardens,yh
+353216: Ripon,yh
+353217: Ripon Racecourse,yh
+353218: Risca,wl
+353219: Risegate,em
+353220: Rishton,nw
+353221: Roberttown,yh
+353222: Robin Hill Countryside Adventure Park,se
+353223: Robin Hood Doncaster Sheffield Airport,yh
+353224: Roby,nw
+353225: Rochester,se
+353226: Rochester Youth Hostel,se
+353227: Rochford,ee
+353228: Rock Ferry,nw
+353229: Rockingham Castle Gardens,em
+353230: Rockingham Motor Speedway,em
+353231: Rodway Hill,sw
+353232: Roker,ne
+353233: Romford,se
+353234: Romiley,nw
+353235: Romsey,se
+353236: Roseville,wm
+353237: Rossendale Ski Centre,nw
+353238: Rosslea,ni
+353239: Rossmore,sw
+353240: Rothbury,ne
+353241: Rotherhithe Youth Hostel,se
+353242: Rothes,gr
+353243: Rothienorman,gr
+353244: Rothwell (Northamptonshire),em
+353245: Rothwell (West Yorkshire),yh
+353246: Rough Tor,sw
+353247: Roughley,wm
+353248: Roundhay,yh
+353249: Roundthorn,nw
+353250: Rousham House,se
+353251: Rowallane Garden (Nt),ni
+353252: Rowardennan Youth Hostel,ta
+353253: Rowen Youth Hostel,wl
+353254: Rowfoot,ne
+353255: Rowley Regis,wm
+353256: Rowley's Green,wm
+353257: Royal Aberdeen Golf Club,gr
+353258: Royal Bath & West Showground,sw
+353259: Royal Botanic Garden Edinburgh,dg
+353260: Royal Botanic Gardens Kew,se
+353261: Royal County Down Golf Club,ni
+353262: Royal Highland Showground,dg
+353263: Royal Leamington Spa,wm
+353264: Royal Liverpool Golf Club,nw
+353265: Royal Lytham & St. Anne's Golf Club,nw
+353266: Chiswell Green,ee
+353267: Royal Portrush Golf Club,ni
+353268: Royal St. Georges Golf Club,se
+353269: Royal Troon Golf Club,st
+353270: Royal Tunbridge Wells,se
+353271: Royston (Hertfordshire),ee
+353272: Royston (South Yorkshire),yh
+353273: Royton,nw
+353274: Ruabon,wl
+353275: Ruadh Stac Mor,he
+353276: Ruadh-Stac Mor,he
+353277: Rubery,wm
+353278: Ruchazie,st
+353279: Rugby Football Union Twickenham,se
+353280: Rugeley,wm
+353281: Rumney,wl
+353282: Runcorn Ski Centre,nw
+353283: Rushall (Norfolk),ee
+353284: Rushall (West Midlands),wm
+353285: Rushden,em
+353286: Rusholme,nw
+353287: Rustington,se
+353288: Ruston,yh
+353289: Rutherglen,st
+353291: Ryall,sw
+353292: Rydal Mount,nw
+353293: Ryde,se
+353294: Ryhope,ne
+353295: Rylands,em
+353296: Ryton,ne
+353297: Ryton Organic Gardens,wm
+353298: Sacriston,ne
+353299: Saffron Walden,ee
+353300: Saffron Walden Youth Hostel,ee
+353301: Saileag,he
+353302: St Agnes,sw
+353303: St Agnes Leisure Park,sw
+353304: St Albans,ee
+353305: St Andrews,ta
+353306: St Andrews Links,ta
+353307: St Anthony's,ne
+353308: St Asaph,wl
+353309: St Austell,sw
+353310: St Briavels Youth Hostel,sw
+353311: St Clears,wl
+353312: St Cross South Elmham,ee
+353313: St David's,wl
+353314: St David's Youth Hostel,wl
+353315: St Davids White Sands,wl
+353316: St Fillans,ta
+353317: St George,sw
+353318: St Helens,nw
+353319: St Helier,sw
+353320: St Ives (Cambridgeshire),ee
+353321: St Ives (Cornwall),sw
+353322: St Just,sw
+353323: St Leonards,se
+353324: St Mary's Airport,sw
+353325: St Mary's Heliport,sw
+353326: St Mary's Pleasance Haddington,dg
+353327: St Mawes,sw
+353328: St Mellons Golf Club,wl
+353329: St Mirren Fc,st
+353330: St Neots,ee
+353331: St Pancras Youth Hostel,se
+353332: St Paul's Walden,ee
+353333: St Peter Port,sw
+353334: St Sampson,sw
+353335: Saintfield,ni
+353336: Sharpitor (Salcombe),sw
+353337: Sale,nw
+353338: Saleby,em
+353339: Salford,nw
+353340: Saling Hall,ee
+353341: Salisbury Racecourse,sw
+353342: Laverstock,sw
+353343: Saltash,sw
+353344: Saltburn-By-The-Sea,ne
+353345: Saltcoats,st
+353346: Saltley,wm
+353347: Salutation Garden Sandwich,se
+353348: Sanaigmore,st
+353349: Sandal Magna,yh
+353350: Sanday Airfield,os
+353351: Sandbach,nw
+353352: Sandend,gr
+353353: Sandhurst,se
+353354: Sandhutton,yh
+353355: Sandown,se
+353356: Sandown Active Sports,se
+353357: Sandown Bay,se
+353358: Sandown Park Racecourse,se
+353359: Sandown Youth Hostel,se
+353360: Sandringham House,ee
+353361: Sandwell,wm
+353362: Sandwich,se
+353363: Sandy,ee
+353364: Sandy Lane,yh
+353365: Sandymouth,sw
+353366: Santa Pod Raceway,ee
+353367: Saundersfoot,wl
+353368: Savill Gardens,se
+353369: Sawbridgeworth,ee
+353370: Sawston,ee
+353371: Sawtry,ee
+353372: Saxmundham,ee
+353373: Scafell Pike,nw
+353374: Scarborough Youth Hostel,yh
+353375: Scardroy,he
+353376: Scarista,he
+353377: Schiehallion,ta
+353378: Scotney Castle Garden,se
+353379: Scotstoun,st
+353380: Scotswood,ne
+353381: Scrabo Golf Club,ni
+353382: Scunthorpe United F.C.,yh
+353383: Sea Mills,sw
+353384: Sea Palling,ee
+353385: Seacombe,nw
+353386: Seacroft,yh
+353387: Seaford,se
+353388: Seaforth,nw
+353389: Seana Bhraigh,he
+353390: Seascale,nw
+353391: Seaton,sw
+353392: Seaton Ross,yh
+353393: Sedgefield,ne
+353394: Sedgefield Racecourse,ne
+353395: Sedgley,wm
+353396: Seedley,nw
+353397: Selby,yh
+353398: Selkirk,dg
+353399: Selly Oak,wm
+353400: Settle,yh
+353401: Sevenoaks,se
+353402: Sewerby Hall & Gardens,yh
+353403: Sezincote House,sw
+353404: Sgairneach Mhor,ta
+353405: Sgaith Chuil,ta
+353406: Sgor An Lochain Uaine,gr
+353407: Sgor Gaibhre,he
+353408: Sgor Gaoith,he
+353409: Sgor Na H-Ulaidh,he
+353410: Sgorr Dhearg,he
+353411: Sgorr Dhonuil,he
+353412: Sgorr Nam Fiannaidh,he
+353413: Sgorr Ruadh,he
+353414: Sgurr A' Bhealaich Dheirg,he
+353415: Sgurr A' Chaorachain,he
+353416: Sgurr A' Choire Ghlais,he
+353417: Sgurr A' Ghreadaidh,he
+353418: Sgurr A' Mhadaidh,he
+353419: Sgurr A' Mhaim,he
+353420: Sgurr A' Mhaoraich,he
+353421: Sgurr Alasdair,he
+353422: Sgurr An Doire Leathain,he
+353423: Sgurr An Lochain,he
+353424: Sgurr Ban,he
+353425: Sgurr Breac,he
+353426: Sgurr Choinnich,he
+353427: Sgurr Choinnich Mor,he
+353428: Sgurr Dearg,he
+353429: Sgurr Dubh Mor,he
+353430: Sgurr Eilde Mor,he
+353431: Sgurr Fhuaran,he
+353432: Sgurr Fhuar-Thuill,he
+353433: Sgurr Fiona,he
+353434: Sgurr Mor (1003m),he
+353435: Sgurr Mor (1110m),he
+353436: Sgurr Mhor,he
+353437: Sgurr Mhic Choinnich,he
+353438: Sgurr Na Banachdich,he
+353439: Sgurr Na Carnach,he
+353440: Sgurr Na Ciche,he
+353441: Sgurr Na Ciste Duibhe,he
+353442: Sgurr Na Lapaich,he
+353443: Sgurr Na Ruaidhe,he
+353444: Sgurr Na Sgine,he
+353445: Sgurr Nan Ceannaichean,he
+353446: Sgurr Nan Ceathreamhnan,he
+353447: Sgurr Nan Clach Geala,he
+353448: Sgurr Nan Coireachan (Glen Dessary),he
+353449: Sgurr Nan Coireachan (Glen Finnan),he
+353450: Sgurr Nan Conbhairean,he
+353451: Sgurr Nan Each,he
+353452: Sgurr Nan Eag,he
+353453: Sgurr Nan Gillean (Isle Of Skye),he
+353454: Sgurr Thuilm,he
+353455: Shaftesbury,sw
+353456: Shakespeare's Birthplace,wm
+353457: Shandy Hall,yh
+353458: Shanklin,se
+353459: Shapinsay Sound,os
+353460: Shard End,wm
+353461: Sharston,nw
+353462: Shaw,nw
+353463: Shawclough,nw
+353464: Shawhead,dg
+353465: Shawlands,st
+353466: Sheerness,se
+353467: Sheffield,yh
+353468: Sheffield Lane Top,yh
+353469: Sheffield Park,se
+353470: Sheffield Ski Village,yh
+353471: Sheffield United F.C.,yh
+353472: Sheffield Wednesday F.C.,yh
+353473: Shefford,ee
+353474: Sheldon,wm
+353475: Sheldon Manor,sw
+353476: Shelfield,wm
+353477: Shenley Brook End,se
+353478: Shenley Fields,wm
+353479: Shepshed,em
+353480: Shepton Mallet,sw
+353481: Sherborne,sw
+353482: Sheringham,ee
+353483: Sheringham Park,ee
+353484: Sheringham Youth Hostel,ee
+353485: Sherwood Forest Amusement Park,em
+353486: Sherwood Forest Youth Hostel,em
+353487: Sherwood Pines Forest Park,em
+353488: Shettleston,st
+353489: Shibden Hall,yh
+353490: Shieldhall,st
+353491: Shifnal,wm
+353492: Shildon,ne
+353493: Shining Cliff Youth Hostel,em
+353494: Shipley,yh
+353495: Shipston On Stour,wm
+353496: Shirebrook,em
+353497: Shirecliffe,yh
+353498: Shiregreen,yh
+353499: Shirehampton,sw
+353500: Shirley (Southampton),se
+353501: Shirley (West Midlands),wm
+353502: Shirley Heath,wm
+353503: Shirley Warren,se
+353504: Sholing,se
+353505: Shore,nw
+353506: Shoreham Airport,se
+353507: Shoreham-By-Sea,se
+353508: Short Heath,wm
+353509: Lord Hill's Column,wm
+353510: Shugborough Estate,wm
+353511: Sibford Gower,se
+353512: Sible Hedingham,ee
+353513: Sidmouth,sw
+353514: Sighthill,dg
+353515: Silecroft,nw
+353516: Silent Valley,ni
+353517: Silksworth,ne
+353518: Silsden,yh
+353519: Silverdale,wm
+353520: Silverknowes,dg
+353521: Sinclair's Bay,he
+353522: Sinderhope,ne
+353523: Sir Harold Hillier Gardens And Arboretum Ampfield,se
+353524: Sissinghurst Castle Garden,se
+353525: Sittingbourne,se
+353526: Sizergh Castle Gardens,nw
+353527: Skara Brae Heart Of Neolithic Orkney,os
+353528: Skeffington,em
+353529: Skegness Central Beach,em
+353530: Skelmanthorpe,yh
+353531: Skelmersdale,nw
+353532: Skelton,ne
+353533: Skiddaw,nw
+353534: Skiddaw House Youth Hostel,nw
+353535: Slack Side,yh
+353536: Slaidburn Youth Hostel,nw
+353537: Slaithwaite,yh
+353538: Slate Haugh,gr
+353540: Sledmere House,yh
+353541: Slimbridge Youth Hostel,sw
+353542: Slioch,he
+353543: Slough,se
+353544: Small Heath,wm
+353545: Smallbridge,nw
+353546: Smallthorne,wm
+353547: Smethwick,wm
+353548: Smithy Green,nw
+353549: Snetterton Motor Racing Circuit,ee
+353550: Sneyd Green,wm
+353551: Sneyd Park,sw
+353552: Snowdome Tamworth,wm
+353553: Snowdon Ranger Youth Hostel,wl
+353554: Snowshill Manor,sw
+353555: Soham,ee
+353556: Sàil Chaorainn,he
+353557: Solihull Lodge,wm
+353558: Somerleyton Hall & Gardens,ee
+353559: Somersham,ee
+353560: Somerton,sw
+353561: Glamorgan C.C.C.,wl
+353562: Sound Of Arisaig,he
+353563: Sound Of Barra,he
+353564: Sound Of Canna,he
+353565: Sound Of Eigg,he
+353566: Sound Of Gigha,st
+353567: Sound Of Islay,st
+353568: Sound Of Mingulay,he
+353569: Sound Of Monach,he
+353570: Sound Of Mull,st
+353571: Sound Of Pabbay,he
+353572: Sound Of Rum,he
+353573: Sound Of Sleat,he
+353574: Sound Of Taransay,he
+353575: Soundwell,sw
+353576: South Benfleet,ee
+353577: South Brent,sw
+353578: South Cave,yh
+353579: South Elmsall,yh
+353580: South Field,yh
+353581: South Hayling,se
+353582: South Hylton,ne
+353583: South Lopham,ee
+353584: South Molton,sw
+353585: South Nesting Bay,os
+353586: South Ockendon,ee
+353587: South Petherton,sw
+353588: South Shields,ne
+353589: South Tees Motorsports Park,ne
+353590: South Wheatley,em
+353591: South Wigston,em
+353592: South Woodham Ferrers,ee
+353593: South Yardley,wm
+353594: Southam,wm
+353595: Southampton,se
+353596: Southampton Alpine Centre,se
+353597: Southampton F.C.,se
+353598: Southborough,se
+353599: Southbourne,sw
+353600: Southchurch,ee
+353601: Southend United F.C.,ee
+353602: Southerly,sw
+353603: Southey Green,yh
+353604: Southport,nw
+353605: Southwark,se
+353606: Southwell,em
+353607: Southwell Racecourse,em
+353608: Southwick (Tyne & Wear),ne
+353609: Southwick (West Sussex),se
+353610: Southwold (Beach),ee
+353611: Sowerby Bridge,yh
+353612: Spean Bridge,he
+353613: Speedwell,sw
+353614: Speke,nw
+353615: Spennymoor,ne
+353616: Sperrin Mountains,ni
+353617: Spetchley Park,wm
+353618: Spidean A' Choire Leith,he
+353619: Spidean Coire Nan Clach,he
+353620: Spidean Mialach,he
+353621: Spilsby,em
+353622: Spinners Boldre,se
+353623: Splott,wl
+353624: Spring Hill,wm
+353625: Springboig,st
+353626: Springburn,st
+353627: Springfield,wm
+353628: Springfields Outlet Village & Festival Gardens,em
+353629: Springhill (Nt),ni
+353630: Squerryes Court,se
+353631: Sron A' Choire Ghairbh,he
+353632: Sron Na Creise,he
+353633: St Catherine's Bay,os
+353634: Stac Pollaidh,he
+353635: Stagsden,ee
+353636: Stagshaw Garden,nw
+353637: Staindrop,ne
+353638: Staines,se
+353639: Stainforth (South Yorkshire),yh
+353640: Stainforth (North Yorkshire),yh
+353641: Stakes,se
+353642: Stalbridge,sw
+353643: Stalybridge,nw
+353644: Stamford,em
+353645: Standen,se
+353646: Standish,nw
+353647: Standon,se
+353648: Stanfield,wm
+353649: Stanford Hall,em
+353650: Stanford-Le-Hope,ee
+353651: Stanhope,ne
+353652: Stanks,yh
+353653: Stanley,ne
+353654: Stanley Green,sw
+353655: Stannington,yh
+353656: Stansted Mountfitchet,ee
+353657: Stanway House And Fountain,sw
+353658: Stanycliffe,nw
+353659: Butt Green,nw
+353660: Staple Hill,sw
+353661: Stapleford,em
+353662: Starling,nw
+353663: Start Bay,sw
+353664: Staveley,em
+353665: Stechford,wm
+353666: Stedham,se
+353667: Steel,ne
+353668: Stenhouse,dg
+353669: Stepney,se
+353670: Steps Bridge Youth Hostel,sw
+353671: Stevenage,ee
+353672: Stevenston,st
+353673: Stewarton,st
+353674: Steyning,se
+353675: Stirling Youth Hostel (St. John Street),ta
+353676: Stirling Youth Hostel (Union Street),ta
+353677: Stivichall,wm
+353678: Stob A' Choire Mheadhoin,he
+353679: Stob A' Choire Odhair,st
+353680: Stob Ban (Grey Corries),he
+353681: Stob Ban (Mamores),he
+353682: Stob Binnein,ta
+353683: Stob Choire Claurigh,he
+353684: Stob Choire Raineach,he
+353685: Stob Coir' An Albannaich,he
+353686: Stob Coire A' Chairn,he
+353687: Stob Coire An Laoigh,he
+353688: Stob Coire Easain,he
+353689: Stob Coire Sgreamhach,he
+353690: Stob Coire Sgriodain,he
+353691: Stob Dearg,he
+353692: Stob Diamh,st
+353693: Stob Dubh,he
+353694: Stob Ghabhar,he
+353695: Stob Na Broige,he
+353696: Stob Poite Coire Ardair,he
+353697: Stockbridge,se
+353698: Stockport,nw
+353699: Stocksbridge,yh
+353700: Stockton-On-Tees,ne
+353701: Stockwood,sw
+353702: Stoke,wm
+353703: Stoke Bishop,sw
+353704: Stoke City F.C.,wm
+353705: Stoke Gifford,sw
+353706: Stoke Ski Centre,wm
+353707: Stokesley,yh
+353708: Stone,wm
+353709: Stone House Cottage Garden,wm
+353710: Stoneclough,nw
+353711: Stoneferry,yh
+353712: Stonehaven,gr
+353713: Stonehaven (Beach),gr
+353714: Stonehenge,sw
+353715: Stoneleigh Abbey Grounds,wm
+353716: Stonesby,em
+353717: Stoneygate,em
+353718: Stony Stratford,se
+353719: Stornoway,he
+353720: Stornoway Airport,he
+353721: Storrington,se
+353722: Stourbridge,wm
+353723: Stourhead,sw
+353724: Stourport-On-Severn,wm
+353725: Stowe Landscape Gardens,se
+353726: Stow-On-The-Wold Youth Hostel,sw
+353727: Stowford,sw
+353728: Stowmarket,ee
+353730: Strabane,ni
+353731: Strachan,gr
+353732: Stratfield Saye House,se
+353733: Stratford Racecourse,wm
+353734: Stratford-Upon-Avon Youth Hostel,wm
+353735: Strathan,he
+353736: Strathaven,st
+353737: Strathpeffer,he
+353738: Strathyre,ta
+353739: Streatley Youth Hostel,se
+353740: Street,sw
+353741: Street Youth Hostel,sw
+353742: Streetlam,yh
+353743: Streetly,wm
+353744: Stretford,nw
+353745: Stromness,os
+353746: Stromness Youth Hostel,os
+353747: Stronsay Airfield,os
+353748: Strood,se
+353749: Stroud,sw
+353750: Stryd Y Facsen,wl
+353751: Stuartfield,gr
+353752: Stubley,em
+353753: Stubshaw Cross,nw
+353754: Stuc A' Chroin,ta
+353755: Stuchd An Lochain,ta
+353756: Studley Royal,yh
+353757: Sturminster Newton,sw
+353758: Suckley,wm
+353759: Sudden,nw
+353760: Sudeley Castle Gardens,sw
+353761: Suffolk Ski Centre,ee
+353762: Sulgrave Manor,em
+353763: Sullom Voe,os
+353764: Sumburgh Airport,os
+353765: Sumburgh Roost,os
+353766: Sunbury,se
+353767: Sunderland A.F.C.,ne
+353768: Sunderland Ski Centre,ne
+353769: Sundon Park,ee
+353770: Sundown Adventure Land Rampton,em
+353771: Suntrap,dg
+353772: Suton,ee
+353773: Sutton,se
+353774: Sutton In Ashfield,em
+353775: Sutton Ings,yh
+353776: Sutton Leach,nw
+353777: Sutton On Sea,em
+353778: Sutton Park,yh
+353779: Sutton-On-Hull,yh
+353780: Swadlincote,em
+353781: Swadlincote Ski Centre,em
+353783: Swalwell,ne
+353784: Swampton,se
+353785: Swan Village,wm
+353786: Swanage,sw
+353787: Swanage Youth Hostel,sw
+353788: Swanley,se
+353789: Swansea City Fc,wl
+353790: Sway,se
+353791: Swaythling,se
+353792: Swillbrook,nw
+353793: Swinnow,yh
+353794: Swinton (Greater Manchester),nw
+353795: Swinton (South Yorkshire),yh
+353796: Swiss Garden,ee
+353797: Swordland,he
+353798: Sydenham,ni
+353799: Syke,nw
+353800: Syon House,se
+353801: Syre,he
+353802: Syston,em
+353803: Tadcaster,yh
+353804: Tain,he
+353805: Tallington Lakes Leisure Centre,em
+353806: Tamar Valley Mining District,sw
+353807: Tamworth,wm
+353808: Tandragee,ni
+353809: Tang,yh
+353810: Tannadice,ta
+353811: Tanners Hatch Youth Hostel,se
+353812: Tapeley Park,sw
+353813: Tarland,gr
+353814: Tarporley,nw
+353815: Tattenhoe,se
+353816: Tatton Park,nw
+353817: Taunton Racecourse,sw
+353818: Tayport,ta
+353819: Tebay Youth Hostel,nw
+353820: Tees Bay,ne
+353821: Teffont Magna,sw
+353822: Telford Ski Centre,wm
+353823: Telford Wonderland,wm
+353824: Telscombe,se
+353825: Temple,st
+353826: Templeton Bridge,sw
+353827: Tempo,ni
+353828: Ten Mile Bank,ee
+353829: Tenbury Wells,wm
+353830: Tenterden,se
+353831: Terrington St. Clement,ee
+353832: Tetbury,sw
+353833: Tetchill,wm
+353834: Tetney,em
+353835: Tettenhall,wm
+353836: Teviot Water Gardens,dg
+353837: Thackley,yh
+353838: Thame,se
+353839: Thatcham,se
+353840: Thatto Heath,nw
+353841: The Alnwick Garden,ne
+353842: The Argory (Nt),ni
+353843: The Belfry Golf Club,wm
+353844: The Beth Chatto Gardens Elmstead Market,ee
+353845: The Bridges Youth Hostel,ni
+353846: The Oval Surrey C.C.C.,se
+353847: The Cairnwell,ta
+353848: The Celtic Manor Golf Club,wl
+353849: The Commandery Worcester,wm
+353850: The County Ground Northamptonshire C.C.C.,em
+353851: Somerset C.C.C,sw
+353852: The County Ground Worcestershire C.C.C.,wm
+353853: The Courts Holt,sw
+353854: The Deeps,os
+353855: The Devil's Point,gr
+353856: The Flambards Experience,sw
+353857: The Ford County Ground Essex C.C.C.,ee
+353858: The Garden House Buckland Monachorum,sw
+353859: The Gleneagles Hotel,ta
+353860: The Hirsel,dg
+353861: The Hydroponicum Achiltibuie,he
+353862: The London Golf Club,se
+353863: The Oxfordshire Golf Club,se
+353864: The Pines St. Margaret's At Cliffe,se
+353865: The Point,nw
+353866: The Ridgeway Youth Hostel,se
+353867: Durham I.C.G.,ne
+353868: Hampshire C.C.C.,se
+353869: The Royal Birkdale Golf Club,nw
+353870: The Saddle,he
+353871: Kent C.C.C.,se
+353872: The Valley Gardens,se
+353873: The Vyne,se
+353874: The Weir,wm
+353875: The Witch's Trails,he
+353876: Thetford Forest Park,ee
+353877: Thingwall,nw
+353878: Thirlmere Youth Hostel,nw
+353879: Thirsk Racecourse,yh
+353880: Thixendale Youth Hostel,yh
+353881: Thornaby-On-Tees,ne
+353882: Thornbury,sw
+353883: Thorne,yh
+353884: Thorneywood,em
+353885: Thornhill (Dumfries & Galloway),dg
+353886: Thornhill (Southampton),se
+353887: Thornhill Lees,yh
+353888: Thornliebank,st
+353889: Thornly Park,st
+353890: Thornton (Lancashire),nw
+353891: Thornton (Merseyside),nw
+353892: Thorp Perrow Arboretum,yh
+353893: Thorpe Bay,ee
+353894: Thorpe On The Hill,em
+353895: Thorpe Park,se
+353896: Threave Gardens,dg
+353897: Three Counties Showground,wm
+353898: Throckley,ne
+353899: Thrumpton Hall,em
+353900: Thruxton Motor Racing Circuit,se
+353901: Thundersley,ee
+353902: Thurlbear,sw
+353903: Thurlby Youth Hostel,em
+353904: Thurmaston,em
+353905: Thurnham Hall,nw
+353906: Thurnscoe,yh
+353907: Thursford,ee
+353908: Thuxton,ee
+353909: Tickhill,yh
+353910: Tidemills,se
+353911: Tidworth,sw
+353912: Tighnabruaich,st
+353913: Tile Cross,wm
+353914: Tile Hill,wm
+353915: Tillicoultry,ta
+353916: Timperley,nw
+353917: Tingwall (Lerwick) Airport,os
+353918: Tinshill,yh
+353919: Tinsley,yh
+353920: Tintagel Youth Hostel,sw
+353921: Tintinhull House,sw
+353922: Tipton,wm
+353923: Tiptree,ee
+353924: Tiree Airport,st
+353925: Tirley,sw
+353927: Tividale,wm
+353928: Tobermory,st
+353929: Tobermory Youth Hostel,st
+353930: Todmorden,yh
+353931: Toll Creagach,he
+353932: Tolleshunt Major,ee
+353933: Tolmount,ta
+353934: Tom A' Choinich,he
+353935: Tom Buidhe,ta
+353936: Tom Na Gruagaich,he
+353937: Tomatin Distillery,he
+353938: Tomintoul Youth Hostel,gr
+353939: Tonbridge,se
+353940: Tong Park,yh
+353941: Tong Street,yh
+353942: Tonge Fold,nw
+353943: Tongue Youth Hostel,he
+353944: Tonypandy,wl
+353945: Top Of Hebers,nw
+353946: Topsham,sw
+353947: Tor Bay,sw
+353948: Torbay,sw
+353949: Torkington,nw
+353950: Torosay Castle,st
+353951: Torpoint,sw
+353952: Torquay Ski Slope,sw
+353953: Torre Abbey Grounds,sw
+353954: Torridon Youth Hostel,he
+353955: Totland Youth Hostel,se
+353956: Totley,yh
+353957: Totley Brook,yh
+353958: Totley Rise,yh
+353959: Totnes,sw
+353960: Toton,em
+353961: Tottenham Hotspur F.C.,se
+353962: Tottenhill,ee
+353963: Totton,se
+353964: Tow Law,ne
+353965: Towcester Racecourse,em
+353966: Tranent,dg
+353967: Tranmere,nw
+353968: Trawsfynydd,wl
+353969: Trebah Garden,sw
+353970: Tredegar,wl
+353971: Tredegar House Newport,wl
+353972: Trefonen,wm
+353973: Tregaron,wl
+353974: Treherbert,wl
+353975: Trelissick Garden,sw
+353976: Trelleck,wl
+353977: Tremorfa,wl
+353978: Trenear,sw
+353979: Trengwainton Garden,sw
+353980: Trent Bridge Nottinghamshire C.C.C.,em
+353981: Treorchy,wl
+353982: Trerice,sw
+353983: Tresco Abbey Gardens,sw
+353984: Treuddyn,wl
+353985: Trevine Youth Hostel,wl
+353986: Trewithen,sw
+353987: Treyarnon Bay Youth Hostel,sw
+353988: Trezaise,sw
+353989: Tring,ee
+353990: Troon,st
+353991: Tropical World Roundhay,yh
+353992: Trowbridge,sw
+353993: Troy,yh
+353994: Truleigh Youth Hostel,se
+353995: Tuckton,sw
+353996: Turnberry Hotel Golf Courses,st
+353997: Turriff,gr
+353998: Two Bridges,sw
+353999: Twyford,se
+354000: Tyburn,wm
+354001: Tyersal,yh
+354002: Tyersal Gate,yh
+354003: Tyldesley,nw
+354004: Tyncornel Youth Hostel,wl
+354005: Tynemouth,ne
+354006: Tyninghame House,dg
+354007: Ty'N-Y-Caeau Youth Hostel,wl
+354008: Tyn-Y-Rhos Hall,wm
+354009: Tyseley,wm
+354010: Tywyn,wl
+354011: Ubberley,wm
+354012: Uddingston,st
+354013: Ugbrooke House,sw
+354014: Uig Youth Hostel,he
+354015: Ullapool Youth Hostel,he
+354016: Ullswater,nw
+354017: Ulverston,nw
+354018: Undercliffe,yh
+354019: Unst Airport,os
+354020: Unsworth,nw
+354021: Upper Eastern Green,wm
+354022: Upper Gornal,wm
+354023: Upper Haugh,yh
+354024: Upper Loch Torridon,he
+354025: Upper Minety,sw
+354026: Upper Stoke,wm
+354027: Upper Witton,wm
+354028: Uppermill,nw
+354029: Uppingham,em
+354030: Upton (Hampshire),se
+354031: Upton (Merseyside),nw
+354032: Upton Gardens,wl
+354033: Upton House,wm
+354034: Upton Snodsbury,wm
+354035: Upton Upon Severn,wm
+354036: Urmston,nw
+354037: Usk,wl
+354038: Utley,yh
+354039: Uttoxeter Racecourse,wm
+354040: Uxbridge,se
+354041: Vauxhall,wm
+354042: Veddw House Garden Devauden,wl
+354043: Ventnor,se
+354044: Ventnor Botanic Gardens,se
+354045: Waddesdon Manor,se
+354046: Wadebridge,sw
+354047: Wadhurst,se
+354048: Wadsley,yh
+354049: Wainhouse Corner,sw
+354050: Wake Green,wm
+354051: Wakehurst Place,se
+354052: Walcot,em
+354053: Walderton,se
+354054: Wales National Velodrome,wl
+354055: Walkden,nw
+354056: Walker,ne
+354057: Walkley,yh
+354058: Wall Heath,wm
+354059: Wallasey,nw
+354060: Wallingford,se
+354061: Wallington Heath,wm
+354062: Wallisdown,sw
+354063: Wallsend,ne
+354064: Walmer Castle Garden,se
+354065: Walmersley,nw
+354066: Walmley,wm
+354067: Walsall F.C.,wm
+354068: Walsall Wood,wm
+354069: Walsgrave On Sowe,wm
+354070: Waltham Abbey,ee
+354071: Walthamstow,se
+354072: Walton Hall Gardens,nw
+354073: Walton On The Naze,ee
+354074: Walton-On-Thames,se
+354075: Wandsworth,se
+354076: Wanlockhead Youth Hostel,dg
+354077: Wantage,se
+354078: Warburton Green,nw
+354079: Ward End,wm
+354080: Wardley,nw
+354081: Ware,ee
+354082: Wareham,sw
+354083: Warehorne,se
+354084: Waresley,ee
+354085: Wark,ne
+354086: Warkleigh,sw
+354087: Warley,wm
+354088: Warlingham,se
+354089: Warmley Hill,sw
+354090: Warmsworth,yh
+354091: Warwick Racecourse,wm
+354092: Washington,ne
+354093: Wast Water Youth Hostel,nw
+354094: Water Eaton,se
+354095: Waterloo (Merseyside),nw
+354096: Waterloo (Poole),sw
+354097: Waterlooville,se
+354098: Watermouth Castle,sw
+354099: Waterperry,se
+354100: Watersheddings,nw
+354101: Watford (Hertfordshire),ee
+354102: Watford (Northamptonshire),em
+354103: Watford F.C.,ee
+354104: Wath Upon Dearne,yh
+354105: Watlington,se
+354106: Watton,ee
+354107: Wavertree,nw
+354108: Wedmore,sw
+354109: Wednesbury,wm
+354110: Weetwood,yh
+354111: Welbourn,em
+354112: Wellbank,ta
+354113: Wellington,sw
+354114: Wells Green,wm
+354115: Wells-Next-The-Sea,ee
+354116: Welsh Bicknor Youth Hostel,wm
+354117: Welsh Motor Sports Centre,wl
+354118: Welwyn,ee
+354119: Welwyn Garden City,ee
+354120: Wem,wm
+354121: Wembley,se
+354122: Wembury,sw
+354123: Wendover,se
+354124: Wentworth Club,se
+354125: Weoley Castle,wm
+354126: Wergs,wm
+354127: West Bridgford,em
+354128: West Bromwich Albion F.C.,wm
+354129: West Byfleet,se
+354130: West Dean Gardens,se
+354131: West Derby,nw
+354132: West Didsbury,nw
+354133: West Ginge,se
+354134: West Gorton,nw
+354135: West Green House,se
+354136: West Grinstead,se
+354137: West Ham United F.C.,se
+354138: West Heath,wm
+354139: West Howe,sw
+354140: West Kilbride,st
+354141: West Kirby,nw
+354142: West Langwell,he
+354143: West Lavington,sw
+354144: West Loch Roag,he
+354145: West Loch Tarbert,he
+354146: West Mersea,ee
+354147: West Ogwell,sw
+354148: West Walton,ee
+354149: West Woodlands,sw
+354150: West Wycombe Park,se
+354151: Westbury (Shropshire),wm
+354152: Westbury (Wiltshire),sw
+354153: Westbury Court Garden,sw
+354154: Westbury On Trym,sw
+354155: Westerham,se
+354156: Westerhope,ne
+354157: Westhall,gr
+354158: Westhill,gr
+354159: Westhoughton,nw
+354160: Westminster,se
+354161: Weston Coyney,wm
+354162: Weston Park,wm
+354163: Westonbirt - The National Arboretum,sw
+354164: Weston-Super-Mare,sw
+354165: Westray Airfield,os
+354166: Westville,em
+354167: Westwood Manor,sw
+354168: Wetherby,yh
+354169: Wetherby Racecourse,yh
+354170: Weybridge,se
+354171: Whaley Bridge,em
+354172: Whalley,nw
+354173: Whalley Range,nw
+354174: Whalsay Airport,os
+354175: Wheathill Youth Hostel,wm
+354176: Wheeldale Youth Hostel,yh
+354177: Wheelgate Park Farnsfield,em
+354178: Wheldale,yh
+354179: Whelley,nw
+354180: Whichford,wm
+354181: Whickham,ne
+354182: Whickham Thorns Outdoor Centre,ne
+354183: Whirlow,yh
+354184: Whiston,yh
+354185: Whiston Cross,nw
+354186: Whitburn,dg
+354187: Whitby Youth Hostel,yh
+354188: Whitchurch (Buckinghamshire),se
+354189: Whitchurch (Cardiff),wl
+354190: Whitchurch (Hampshire),se
+354191: Whitchurch (Shropshire),wm
+354192: Whitecote,yh
+354193: Whitecrook,st
+354194: Whitefield,nw
+354195: Whitehead,ni
+354196: Whitehouse Common,wm
+354197: Whiteinch,st
+354198: Whitemoor,em
+354199: Whitepark Bay Youth Hostel,ni
+354200: Whithorn,dg
+354201: Whiting Bay Youth Hostel,st
+354202: Whitkirk,yh
+354203: Whitland,wl
+354204: Whitleigh,sw
+354205: Whitley Bay,ne
+354206: Whitmore Hall,wm
+354207: Whitsand Bay,sw
+354208: Whitsbury,se
+354209: Whittlesey,ee
+354210: Whitway,se
+354211: Whitworth,nw
+354212: Wibsey,yh
+354213: Wick (Bournemouth),sw
+354214: Wick (Highland),he
+354215: Wick Airport,he
+354216: Wickersley,yh
+354217: Wickford,ee
+354218: Wicksteed Park,em
+354219: Widdrington,ne
+354220: Wide Firth,os
+354221: Widecombe In The Moor,sw
+354222: Wigan Athletic F.C.,nw
+354223: Wightwick Manor,wm
+354224: Wigston,em
+354225: Wigton,nw
+354226: Wigtown,dg
+354227: Wilcott,wm
+354228: Wilderhope Manor Youth Hostel,wm
+354229: Wilford,em
+354230: Willen,se
+354231: Willenhall (Nr Coventry),wm
+354232: Willenhall (Nr Walsall),wm
+354233: Williamson Park Lancaster,nw
+354234: Willington (Durham),ne
+354235: Willington (Tyne & Wear),ne
+354236: Willington Quay,ne
+354237: Wilmslow,nw
+354238: Wilton,sw
+354239: Wilton House,sw
+354240: Wimborne Minster,sw
+354241: Wimpole Hall,ee
+354242: Wincanton,sw
+354243: Wincanton Racecourse,sw
+354244: Winchcombe,sw
+354245: Winchester,se
+354246: Winchester City Mill,se
+354247: Wincobank,yh
+354248: Windermere,nw
+354249: Windermere Youth Hostel,nw
+354250: Windsor Park,ni
+354251: Windsor Racecourse,se
+354252: Windsor Youth Hostel,se
+354253: Winkhill,wm
+354254: Winkleigh,sw
+354255: Winkworth Arboretum,se
+354256: Winsford,nw
+354257: Winsford Walled Garden (Halwill Junction),sw
+354258: Winster Market House,em
+354259: Winterborne Houghton,sw
+354260: Winterbourne (South Gloucestershire),sw
+354261: Winterbourne (West Berkshire),se
+354262: Winton,sw
+354263: Wirksworth,em
+354264: Wisborough Green,se
+354265: Wishaw,st
+354266: Witham,ee
+354267: Withernsea (Beach),yh
+354268: Withernsea (East Riding Of Yorkshire),yh
+354269: Witherslack,nw
+354270: Withington (Gloucestershire),sw
+354271: Withington (Greater Manchester),nw
+354272: Witney,se
+354273: Witton,wm
+354274: Wiveliscombe,sw
+354275: Wivenhoe,ee
+354276: Woburn Abbey,ee
+354277: Wokingham,se
+354278: Wollaton,em
+354279: Wolsingham,ne
+354280: Wolstanton,wm
+354281: Wolverhampton Racecourse,wm
+354282: Wolverhampton Wanderers F.C.,wm
+354283: Wolverton,se
+354284: Wombourne,wm
+354285: Wombwell,yh
+354286: Wood Green,se
+354287: Woodbridge,ee
+354288: Woodchester Park (Nt),sw
+354289: Woodgate,wm
+354290: Woodhall Spa,em
+354291: Woodhouse,yh
+354292: Woodhouse Mill,yh
+354293: Woodhouses,nw
+354294: Woodlands Leisure Park Dartmouth,sw
+354295: Woodley,nw
+354296: Woods Bank,wm
+354297: Woodside,wm
+354298: Woodstock,se
+354299: Woodthorpe,yh
+354300: Woodvale,nw
+354301: Woody's Top Youth Hostel,em
+354302: Woolacombe,sw
+354303: Woolavington,sw
+354304: Wooler,ne
+354305: Wooler Youth Hostel,ne
+354306: Woolfardisworthy,sw
+354307: Woolfold,nw
+354308: Woolley Bridge,nw
+354309: Woolston,se
+354310: Woolstone,se
+354311: Woolton,nw
+354312: Woolwich,se
+354313: Royal Wootton Bassett,sw
+354314: Worcester Racecourse,wm
+354315: Wordsley,wm
+354316: Worsley,nw
+354317: Worsley Mesnes,nw
+354318: Worthing,se
+354319: Wortley,yh
+354320: Wotton-Under-Edge,sw
+354321: Woughton On The Green,se
+354322: Wragby,em
+354323: Wrangle,em
+354324: Wreay,nw
+354325: Wrenbury,nw
+354326: Wrest Park,ee
+354327: Wrose,yh
+354328: Wroxton Abbey,se
+354329: Wycombe Summit Ski & Snowboarding Centre,se
+354330: Wye,se
+354331: Wyke,yh
+354332: Wykeham,yh
+354333: Wyken (Shropshire),wm
+354334: Wyken (West Midlands),wm
+354335: Wylde Green,wm
+354336: Wymondham,ee
+354337: Wyre,nw
+354338: Wythenshawe,nw
+354339: Yardley,wm
+354340: Yardley Wood,wm
+354341: Yarley,sw
+354342: Yarm,ne
+354343: Yarmouth,se
+354344: Yarmouth Racecourse,ee
+354345: Yate,sw
+354346: Yeadon,yh
+354347: Yell Sound,os
+354348: Yelverton,sw
+354349: Yeovil,sw
+354350: Yeovil Alpine Village,sw
+354351: Yoker,st
+354352: York Racecourse,yh
+354353: York Youth Hostel,yh
+354354: Youlgreave Youth Hostel,em
+354355: Younger Botanic Gardens,st
+354356: Yoxall,wm
+354357: Ystrad Mynach,wl
+354358: Ystradfellte Youth Hostel,wl
+354359: Ystradgynlais,wl
+354360: Ystumtuen Youth Hostel,wl
+354361: Wimbledon,se
+354362: Shotton,ne
+354363: Millwall F.C.,se
+354364: Nottingham Forest F.C.,em
+354365: Qpr F.C.,se
+354366: Brighton And Hove Albion,se
+354367: Peterborough United F.C.,ee
+354368: Hamilton Academical F.C.,st
+354369: St Johnstone F.C.,ta
+354370: Greenock Morton F.C.,st
+354371: Queen Of The South F.C.,dg
+354372: Raith Rovers F.C.,ta
+354373: Ross County F.C.,he
+354374: Ayr United F.C.,st
+354375: Livingston F.C.,dg
+354376: Earls Court,se
+354377: Excel,se
+354378: The O2,se
+354379: The Mall,se
+354380: Wembley Arena,se
+354381: Sudbury,ee
+354382: West Bowling,yh
+354383: Rozel (Beach),sw
+354384: Le Haule (Beach),sw
+354385: Plemont (Beach),sw
+354386: Greve De Lecq (Beach),sw
+354387: Bouley Bay (Beach),sw
+354388: Archirondel (Beach),sw
+354389: Green Island (Beach),sw
+354390: Grouville (Beach),sw
+354391: Havre Des Pas (Beach),sw
+354392: Portelet (Beach),sw
+354393: St Brelade's Bay (Beach),sw
+354394: Beauport (Beach),sw
+354395: St. Ouens Bay - Watersplash (Beach),sw
+354396: St. Ouens Bay - Le Braye (Beach),sw
+354397: Rosemarkie North (Beach),he
+354398: Dornoch (Caravan Park) (Beach),he
+354399: Dornoch - Burn Mouth (Beach),he
+354400: Embo Beach,he
+354401: Golspie - North (Beach),he
+354402: Dunnet Bay - Murkle Bay/Dunnet (Beach),he
+354403: Findhorn (Beach),he
+354404: Strathy Bay (Beach),he
+354405: Achmelvich Bay (Beach),he
+354406: Hopeman East (Beach),gr
+354407: Cullen (Beach),gr
+354408: The Sands Of Breckon (Beach),os
+354409: St Ninians Isle (Beach),os
+354410: West Voe Sands (Beach),os
+354411: Tresta Sands (Beach),os
+354412: West Sandwick Beach,os
+354413: Ganavan (Beach),st
+354414: Lunderston Bay (Beach),st
+354415: Largs - Main (Beach),st
+354416: Dunure (Beach),st
+354417: Croy (Beach),st
+354418: Saltcoats (Beach),st
+354419: Ardrossan (Beach),st
+354420: Millport (Beach),st
+354421: Gourock (Beach),st
+354422: Culzean (Beach),st
+354423: Magilligan Strand, Benone (Beach),ni
+354424: Magilligan - Downhill (Beach),ni
+354425: Portstewart (The Strand)(Beach),ni
+354426: Portrush - Mill (West) Strand (Beach),ni
+354427: Portrush, Whiterocks (Beach),ni
+354428: Portrush - Curran (East) Strand (Beach),ni
+354429: Ballygally (Beach),ni
+354430: Helens Bay (Beach),ni
+354431: Murlough (Tyrella), Newcastle (Beach),ni
+354432: Tyrella Beach (Clough) (Beach),ni
+354433: Pembroke Bay (Beach),sw
+354434: Saints Bay (Beach),sw
+354435: Portelet Bay (Beach),sw
+354436: Leree (Beach),sw
+354437: Vazon (Beach),sw
+354438: Grandes Rocques (Beach),sw
+354439: Port Soif Bay (Beach),sw
+354440: St. Cyrus (Beach),gr
+354441: Balmedie Country Park (Beach),gr
+354442: Thurso (Beach),he
+354443: Collieston (Beach),gr
+354444: Peterhead Lido (Beach),gr
+354445: Fraserburgh (Beach),gr
+354446: Rosehearty (Beach),gr
+354447: Montrose (Beach),gr
+354448: Lunan Bay (Beach),gr
+354449: Arbroath (Beach),ta
+354450: Easthaven (Beach),gr
+354451: Carnoustie (Beach),gr
+354452: Tentsmuir (Beach),ta
+354453: Elie (Woodhaven And Ruby Bay) (Beach),ta
+354454: Kinghorn - Pettycur (Beach),ta
+354455: Portobello - Central (James Street) (Beach),dg
+354456: Seton Sands, Longniddry (Beach),dg
+354457: Longniddry (Beach),dg
+354458: Gullane (Beach),dg
+354459: Broadsands (Beach),dg
+354460: Seacliff (Beach),dg
+354461: Peffersands (Beach),dg
+354462: Whitesands Bay (Beach),dg
+354463: Thorntonloch (Beach),dg
+354464: Pease Bay (Beach),dg
+354465: Coldingham Bay (Beach),dg
+354466: Whitmore Bay, Barry (Beach),wl
+354467: Cold Knap, Barry (Beach),wl
+354468: Fontygary Bay (Beach),wl
+354469: Southerndown (Beach),wl
+354470: Porthcawl - Trecco Bay (Beach),wl
+354471: Porthcawl - Sandy Bay (Beach),wl
+354472: Porthcawl - Rest Bay (Beach),wl
+354473: Bracelet Bay (Beach),wl
+354474: Langland Bay (Beach),wl
+354475: Oxwich Bay (Beach),wl
+354476: Port Eynon (Beach),wl
+354477: Rhossili Bay (Beach),wl
+354478: Burry Port Beach - East,wl
+354479: Pembrey Beach - Llanelli (Cefn Sidan) (Beach),wl
+354480: Amroth (Beach),wl
+354481: Coppet Hall (Beach),wl
+354482: Monkstone Beach,wl
+354483: Saundersfoot (Beach),wl
+354484: Tenby - North (Beach),wl
+354485: Tenby - Castle Beach,wl
+354486: Tenby - South (Beach),wl
+354487: Penally (Beach),wl
+354488: Hell's Mouth (Beach),wl
+354489: Lydstep Haven (Beach),wl
+354490: Swanlake Bay (Beach),wl
+354491: Manorbier Bay (Beach),wl
+354492: Freshwater East (Beach),wl
+354493: Priory Bay, Caldy Island (Beach),wl
+354494: Barafundle Bay (Beach),wl
+354495: Broad Haven South (Beach),wl
+354496: Freshwater West (Beach),wl
+354497: Martins Haven (Beach),wl
+354498: Porthselau (Beach),wl
+354499: Westdale (Beach),wl
+354500: Marloes Sands (Beach),wl
+354501: Druidston Haven (Beach),wl
+354502: Broad Haven (Beach),wl
+354503: Newgale Sands (Beach),wl
+354504: Caerfai Bay (Beach),wl
+354505: Whitesands (Beach),wl
+354506: Blue Lagoon - Abereiddy Bay (Beach),wl
+354507: Croyde (Beach),sw
+354508: Saunton Sands (Beach),sw
+354509: Woolacombe (Beach),sw
+354510: Putsborough Sands (Beach),sw
+354512: Crantock (Beach),sw
+354513: Hayle (Beach),sw
+354514: Clevedon Beach (Beach),sw
+354515: Weston-Super-Mare - Sand Bay (Beach),sw
+354516: Berrow - North Of Unity Farm (Beach),sw
+354517: Burnham-On-Sea - Jetty (Beach),sw
+354518: Blue Anchor West (Beach),sw
+354519: Minehead - Terminus (Beach),sw
+354520: Porlock Weir - Porlock Bay (Beach),sw
+354521: Bude - Crooklets (Beach),sw
+354522: Bude - Summerleaze (Beach),sw
+354523: Widemouth Sand (Beach),sw
+354524: Crackington Haven (Beach),sw
+354525: Trebarwith Strand (Beach),sw
+354526: Daymer Bay (Beach),sw
+354527: Trevone Bay (Beach),sw
+354528: Harlyn Bay (Beach),sw
+354529: Mother Iveys Bay (Beach),sw
+354530: Constantine Bay (Beach),sw
+354531: Treyarnon Bay (Beach),sw
+354532: Porthcothan (Beach),sw
+354533: Watergate Bay (Beach),sw
+354534: Lusty Glaze (Beach),sw
+354535: Newquay - Great Western (Beach),sw
+354536: Newquay - Tolcarne (Beach),sw
+354537: Newquay - Towan (Beach),sw
+354538: Newquay - Fistral (Beach),sw
+354539: Holywell Bay (Beach),sw
+354540: Perranporth - Penhale Sands (Beach),sw
+354541: Perranporth - Village (Beach),sw
+354542: Porthtowan (Beach),sw
+354543: Portreath (Beach),sw
+354544: The Towans - Godrevy (Beach),sw
+354545: Carbis Bay Beach (Station) (Beach),sw
+354546: St Ives - Porthminster (Beach),sw
+354547: St Ives - Porthmeor (Beach),sw
+354548: Sennen Cove (Beach),sw
+354549: Porthcurno (Beach),sw
+354550: Mounts Bay - Penzance (Beach),sw
+354551: Mounts Bay - Little Hogus (Beach),sw
+354552: Perranuthnoe (Perran Sands) (Beach),sw
+354553: Praa Sands West (Beach),sw
+354554: Praa Sands East (Beach),sw
+354555: Porthleven - West (Beach),sw
+354556: Poldhu Cove (Beach),sw
+354557: Polurrian Cove (Beach),sw
+354558: Gunwalloe Church Cove (Beach),sw
+354559: Kennack Sands (Beach),sw
+354560: Coverack (Beach),sw
+354561: Porthcurnick (Beach),sw
+354562: Pendower Beach (Beach),sw
+354563: Gorran Haven - Vault Beach (Beach),sw
+354564: Port Mellon (Beach),sw
+354565: Polstreath (Beach),sw
+354566: Pentewan Sands (Beach),sw
+354567: Porthpean (Beach),sw
+354568: Duporth Beach (Beach),sw
+354569: Charlestown (Beach),sw
+354570: Crinnis Beach (Beach),sw
+354571: Par (Beach),sw
+354572: Millendreath (Beach),sw
+354573: Downderry (Beach),sw
+354574: Portwrinkle (Beach),sw
+354575: Cawsand Bay (Beach),sw
+354576: Kingsand Bay (Beach),sw
+354577: Ilfracombe - Tunnels Beach (Beach),sw
+354578: Woolacombe - Barricane Bay (Beach),sw
+354579: Woolacombe - Village (Beach),sw
+354580: Putsborough Sands (Beach),sw
+354581: Croyde Bay (Beach),sw
+354582: Saunton Sands (Beach),sw
+354583: Westward Ho! (Beach),sw
+354584: Hartland Quay (Beach),sw
+354585: Bovisand Bay (Beach),sw
+354586: Bantham (Beach),sw
+354587: Thurlestone - North (Beach),sw
+354588: Thurlestone - South (Beach),sw
+354589: Hope Cove (Beach),sw
+354590: Salcombe - South Sands (Beach),sw
+354591: Mill Bay (Beach),sw
+354592: Slapton Sands - Torcross (Beach),sw
+354593: Slapton Sands - Monument (Beach),sw
+354594: Dartmouth Castle And Sugary Cove (Beach),sw
+354595: St Mary's Bay (Beach),sw
+354596: Shoalstone Beach (Beach),sw
+354597: Broadsands Beach (Beach),sw
+354598: Paignton - Paignton Sands (Beach),sw
+354599: Paignton - Preston Sands (Beach),sw
+354600: Beacon Cove (Beach),sw
+354601: Torbay - Meadfoot (Beach),sw
+354602: Ansteys Cove (Beach),sw
+354603: Oddicombe Beach (Beach),sw
+354604: Watcombe (Beach),sw
+354605: Torbay - Maidencombe (Beach),sw
+354606: Ness Cove (Beach),sw
+354607: Shaldon (Beach),sw
+354608: Teignmouth (Town) (Beach),sw
+354609: Dawlish - Coryton Cove (Beach),sw
+354610: Dawlish Warren (Beach),sw
+354611: Sidmouth - Jacobs Ladder (Beach),sw
+354612: Beer (Beach),sw
+354613: Charmouth - West (Beach),sw
+354614: Hive Beach, Burton Bradstock (Beach),sw
+354615: Seatown (Beach),sw
+354616: Eypemouth (Beach),sw
+354617: West Bay - West (Beach),sw
+354618: Portland Harbour - Sandsfoot Castle (Beach),sw
+354619: Portland Harbour - Castle Cove (Beach),sw
+354620: Weymouth - Central (Beach),sw
+354621: Church Ope Cove (Beach),sw
+354622: Bowleaze Cove (Beach),sw
+354623: Ringstead Bay (Beach),sw
+354624: Durdle Door - East (Beach),sw
+354625: Durdle Door - West (Beach),sw
+354626: Swanage - Central (Beach),sw
+354627: Studland - Knoll Beach (Beach),sw
+354628: Studland - Shell Bay (Beach),sw
+354629: Poole - Harbour Rockley Sand (Beach),sw
+354630: Poole Harbour - Hamworthy Park (Beach),sw
+354631: Poole - Harbour Lake (Beach),sw
+354632: Poole - Canford Cliffs (Beach),sw
+354633: Poole - Sandbanks Peninsular (Beach),sw
+354634: Poole - Shore Road, Sandbanks (Beach),sw
+354635: Poole - Branksome Chine (Beach),sw
+354636: Bournemouth - Durley Chine (Beach),sw
+354637: Bournemouth - Alum Chine (Beach),sw
+354638: Bournemouth - Pier (Beach),sw
+354639: Bournemouth - Boscombe Pier (Beach),sw
+354640: Bournemouth - Fisherman's Walk (Beach),sw
+354641: Bournemouth - Hengistbury West (Beach),sw
+354642: Bournemouth - Southbourne (Beach),sw
+354643: Christchurch - Mudeford Sandbank East (Beach),sw
+354644: Christchurch - Avon Beach (Beach),sw
+354645: Christchurch - Friar's Cliff (Beach),sw
+354646: Christchurch - Highcliffe Castle (Beach),sw
+354647: Totland Bay (Beach),se
+354648: Colwell Bay (Beach),se
+354649: Cowes (Beach),se
+354650: Ryde - East (Beach),se
+354651: Seagrove (Beach),se
+354652: St Helens (Beach),se
+354653: Whitecliff Bay (Beach),se
+354654: Sandown - Yaverland (Beach),se
+354655: Sandown (Beach),se
+354656: Ventnor (Beach),se
+354657: Compton Bay (Beach),se
+354658: Christchurch Bay (Barton-On-Sea) (Beach),se
+354659: Milford-On-Sea (Beach),se
+354660: Lepe (Beach),se
+354661: Calshot (Beach),se
+354662: Hill Head (Beach),se
+354663: Lee-On-Solent (Beach),se
+354664: Old Portsmouth Beach (Victoria Pier) (Beach),se
+354665: Eastney (Beach),se
+354666: Hayling Island - West Hayling (Beach),se
+354667: Hayling Island - West Beachlands (Beach),se
+354668: Hayling Island - West Of Eastoke (Beach),se
+354669: West Wittering (Beach),se
+354670: Bracklesham Bay (Beach),se
+354671: Selsey (Beach),se
+354672: Pagham (Beach),se
+354673: Bognor Regis - East (Beach),se
+354674: Felpham (Beach),se
+354675: Middleton-On-Sea (Beach),se
+354676: Littlehampton (Beach),se
+354677: Worthing (Beach),se
+354678: Southwick (Beach),se
+354679: Hove West (Beach),se
+354680: Saltdean (Beach),se
+354681: Newhaven - West Quay (Beach),se
+354682: Seaford Bay (Beach),se
+354683: Birling Gap (Beach),se
+354684: Eastbourne (Beach),se
+354685: Pevensey Bay (Beach),se
+354686: Normans Bay (Beach),se
+354687: Cooden Beach (Beach),se
+354688: St. Leonards (Beach),se
+354689: Winchelsea (Beach),se
+354690: Brighton (Beach),se
+354691: Dymchurch (Beach),se
+354692: Hythe (Beach),se
+354693: Sandgate Beach,se
+354694: Folkestone (Beach),se
+354695: Dover Harbour (Beach),se
+354696: St Margarets Bay (Beach),se
+354697: Sandwich Bay (Beach),se
+354698: Ramsgate - Pegwell Bay (Beach),se
+354699: Joss Bay (Beach),se
+354700: Margate - Fulsam Rock (Beach),se
+354701: Westbrook Bay (Beach),se
+354702: Leysdown-On-Sea (Beach),se
+354703: Sheerness (Beach),se
+354704: Minster Leas (Beach),se
+354705: Southend - Chalkwell Beach (Beach),ee
+354706: Southend - Westcliff Bay (Beach),ee
+354707: Southend - Three Shells (Beach),ee
+354708: Southend - Jubilee Beach (Beach),ee
+354709: Southend - Thorpe Bay (Beach),ee
+354710: Shoeburyness (Beach),ee
+354711: Shoebury East (Beach),ee
+354712: Brightlingsea (Beach),ee
+354713: Jaywick (Beach),ee
+354714: Clacton - Martello Tower (Beach),ee
+354715: Clacton (Beach),ee
+354716: Holland-On-Sea (Beach),ee
+354717: Frinton-On-Sea (Beach),ee
+354718: Walton-On-The-Naze (Beach),ee
+354719: Dovercourt Bay (Beach),ee
+354720: Felixstowe - South (Beach),ee
+354721: Felixstowe - North (Beach),ee
+354722: Southwold - The Denes (Beach),ee
+354723: Southwold - The Pier (Beach),ee
+354724: Lowestoft - North Of Claremont Pier (Beach),ee
+354725: Lowestoft - South Of Claremont Pier (Beach),ee
+354726: Great Yarmouth North (Beach),ee
+354727: Caister Point (Beach),ee
+354728: Hemsby (Beach),ee
+354729: Cromer (Beach),ee
+354730: East Runton (Beach),ee
+354731: Sheringham (Beach),ee
+354732: Wells-Next-The-Sea (Beach),ee
+354733: Hunstanton Beach,ee
+354734: Hunstanton - Main Beach,ee
+354735: Ingoldmells South (Beach),em
+354736: Chapel St Leonards (Beach),em
+354737: Anderby (Beach),em
+354738: Moggs Eye (Huttoft Beach) (Beach),em
+354739: Sutton-On-Sea (Beach),em
+354740: Mablethorpe Town (Beach),em
+354741: Humberston Fitties (Beach),em
+354742: Cleethorpes (Beach),em
+354743: Tunstall (Beach),yh
+354744: Hornsea (Beach),yh
+354745: Skipsea (Beach),yh
+354746: Flamborough - South Landing (Beach),yh
+354747: Flamborough - Danes Dyke (Beach),yh
+354748: Reighton (Beach),yh
+354749: Filey (Beach),yh
+354750: Cayton Bay (Beach),yh
+354751: Scarborough North Bay (Beach),yh
+354752: Whitby (Beach),yh
+354753: Sandsend (Beach),yh
+354754: Sea At Marske Sands (Beach),ne
+354755: Redcar - Stray (Beach),ne
+354756: Redcar - Lifeboat Station (Beach),ne
+354757: Redcar - Coatham (Beach),ne
+354758: Seaton Carew - North Gare (Beach),ne
+354759: Seaham Hall Beach (Beach),ne
+354760: Seaham Beach ,ne
+354761: Marsden (Beach),ne
+354762: South Shields (Sandhaven) (Beach),ne
+354763: Tynemouth - King Edwards Bay (Beach),ne
+354764: Tynemouth - Long Sands South (Beach),ne
+354765: Tynemouth - Long Sands North (Beach),ne
+354766: Whitley Bay (Beach),ne
+354767: Newbiggin - South (Beach),ne
+354768: Newbiggin - North (Beach),ne
+354769: Druridge Bay North (Beach),ne
+354770: Druridge Bay South  (Beach),ne
+354771: Amble Links (Beach),ne
+354772: Warkworth (Beach),ne
+354773: Low Newton, Newton Haven (Beach),ne
+354774: Beadnell Bay (Beach),ne
+354775: Seahouses North (Beach),ne
+354776: Bamburgh Castle (Beach),ne
+354777: Spittal (Beach),ne
+354778: Formby (Beach),nw
+354779: New Brighton (Wallasey) (Beach),nw
+354780: Moreton (Beach),nw
+354781: Meols (Beach),nw
+354782: Derbyhaven (Beach),nw
+354783: Prestatyn Central (Beach),wl
+354784: Prestatyn Gronant Dunes (Beach),wl
+354785: Prestatyn Barkby Beach (Beach),wl
+354786: Prestatyn Ffrith Beach (Beach),wl
+354787: Kinmel Bay (Sandy Cove) (Beach),wl
+354788: Llanddulas (Beach),wl
+354789: Old Colwyn (Beach),wl
+354790: Llandudno - North Shore (Beach),wl
+354791: Conwy Morfa (Beach),wl
+354792: Beaumaris (Beach),wl
+354793: Lleiniog Beach, Penmon (Beach),wl
+354794: St. Davids, Benllech (Beach),wl
+354795: Benllech (Beach),wl
+354796: Moelfre (Beach),wl
+354797: Traeth Lligwy (Beach),wl
+354798: Cemlyn (Beach),wl
+354799: Church Bay (Beach),wl
+354800: Porth Trwyn (Beach),wl
+354801: Porth Tywyn Mawr (Sandy Beach),wl
+354802: Porth Dafarch (Beach),wl
+354803: Trearddur Bay (Beach),wl
+354804: Rhoscolyn - Borthwen (Beach),wl
+354805: Llanfaelog - Porth Nobla (Beach),wl
+354806: Llanfaelog,wl
+354807: Rhosneigr - Traeth Crigyll (Beach),wl
+354808: Rhosneigr (Beach),wl
+354809: Porth Trecastell (Beach),wl
+354810: Aberffraw Bay (Traeth Mawr) (Beach),wl
+354811: Dinas Dinlle (Morfa Dinlle) (Beach),wl
+354812: Abersoch (Beach),wl
+354813: Morfa Bychan (Craig Du) (Beach),wl
+354814: Harlech (Beach),wl
+354815: Dyffryn (Llanenddwyn) (Beach),wl
+354816: Tal-Y-Bont (Beach),wl
+354817: Barmouth (Beach),wl
+354818: Fairbourne (Beach),wl
+354819: Clarach - South (Beach),wl
+354820: Aberystwyth - South (Beach),wl
+354821: New Quay (Harbour Beach),wl
+354822: Cilborth (Beach),wl
+354823: Tresaith (Beach),wl
+354824: Aberporth (Beach),wl
+354825: Mwnt (Beach),wl
+354826: Poppit Sands - West (Beach),wl
+354827: Cwm Yr Eglwys (Beach),wl
+354828: Goodwick Sands (Beach),wl
+354829: Aber Mawr Bay (Beach),wl
+354830: Abereiddy Bay - Slipway (Beach),wl
+354831: Ogmore-By-Sea (Beach),wl
+354832: Penarth (Beach),wl
+354833: River Cottage Hq,sw
+354837: Luss,st
+354838: Loch Lomond,st
+354839: Ease Gill,nw
+354840: Wild Boar Fell,nw
+354841: Greenhow Hill,yh
+354842: Hellifield,yh
+354843: Richmond,yh
+354844: Leck Fell,nw
+354845: Langsett Barn,yh
+354846: Criccieth Castle,wl
+354847: Electric Mountain Llanberis,wl
+354848: Conwy Castle,wl
+354849: Abergavenny Castle,wl
+354850: Pont Nedd Fechan (Waterfalls),wl
+354851: Big Pit National Coal Museum,wl
+354852: Blaenavon Ironworks Heritage Centre,wl
+354853: Tolleymore Forest Park,ni
+354854: Kilbroney Park Rostrevor,ni
+354855: Donard Park Newcastle,ni
+354856: Arrochar,st
+354857: Carter Bar,dg
+354858: Antur Stiniog,wl
+354859: Llys Y Fran County Park,wl
+354860: Carew Castle And Tidal Mill,wl
+354861: Skomer Island,wl
+354862: Angle,wl
+354863: Oriel Y Parc,wl
+354864: Solva,wl
+354865: Caldey Island,wl
+354866: Combe Martin,sw
+354867: Wroxham,ee
+354868: Potter Heigham,ee
+354869: Stalham,ee
+354870: Burgh Castle,ee
+354871: Ditchling Beacon,se
+354872: Ardlui,st
+354873: Balmoral Castle,gr
+354874: Mynydd Illtyd,wl
+354875: Craig Y Nos Country Park,wl
+354876: Brecon Beacons Visitor Centre,wl
+354877: Storey Arms,wl
+354878: Lord Hereford's Knob,wl
+354879: Talybont On Usk,wl
+354881: Pontsticill Reservoir,wl
+354882: Crai Reservoir,wl
+354883: Fan Brycheiniog,wl
+354884: Windy Crag,ne
+354885: Windy Gyle,ne
+354886: Harbottle,ne
+354887: Kielder Water,ne
+354888: Holystone,ne
+354889: Otterburn Camp,ne
+354890: Stonehaugh,ne
+354891: Bala Lake Railway,wl
+354892: Harlech Castle,wl
+354893: Llyn Tegid,wl
+354895: Ogwen Warden Centre,wl
+354897: National White Water Centre (Bala),wl
+354898: Ffestiniog,wl
+354899: Carreg Cennen,wl
+354900: Glasfynydd (Usk Reservoir),wl
+354901: Balmaha,ta
+354902: Blair Drummond Safari Park,ta
+354903: Kippen,ta
+354904: Tyndrum,ta
+354905: Drymen,ta
+354906: Inverlochlarig,ta
+354907: Glenlivet Distillery,gr
+354908: Tomintoul,gr
+354909: Castell Henllys,wl
+354910: Foel Drygarn,wl
+354911: Pentre Ifan,wl
+354912: Bosherston Lily Ponds,wl
+354913: Scolton Manor,wl
+354914: Lakeside,nw
+354915: Grizedale Forest Visitor Centre,nw
+354916: Wasdale Head,nw
+354917: Whinlatter Visitor Centre,nw
+354918: Seathwaite,nw
+354919: Pooley Bridge,nw
+354920: Llanthony Priory,wl
+354921: Sugar Loaf,wl
+354922: Blorenge,wl
+354923: Goytre Wharf (Abergavenny),wl
+354924: Arncliffe,yh
+354925: Askrigg Common,yh
+354926: Austwick,yh
+354927: Aysgarth,yh
+354928: Bainbridge,yh
+354929: Bolton Abbey,yh
+354930: Buckden,yh
+354931: Burnsall,yh
+354932: Embsay Moor,yh
+354933: Fremington,yh
+354934: Grassington Moor,yh
+354935: Grimwith Reservoir,yh
+354936: Halton Gill,yh
+354937: Hebden,yh
+354938: Horton In Ribblesdale,yh
+354939: Kingsdale,yh
+354940: Long Churn Cave,yh
+354941: Long Preston,yh
+354943: Penhill,yh
+354944: Ribblehead,yh
+354945: Rylstone,yh
+354946: Selside,yh
+354947: Semerwater,yh
+354948: Swaledale,yh
+354949: Tan Hill Inn,yh
+354950: Wensleydale,yh
+354951: The Hole Of Horcum,yh
+354952: Helmsley Moor,yh
+354953: Robin Hoods Bay,yh
+354954: Hutton-Le-Hole,yh
+354955: Helmsley,yh
+354956: Caddow Combe,sw
+354957: Princetown,sw
+354958: Haytor,sw
+354959: Okehampton Army Training Camp,sw
+354960: Kestor Rock,sw
+354961: Shilstone Tor,sw
+354962: Fur Tor,sw
+354963: Kitty Tor,sw
+354964: Beardown Tors,sw
+354965: Merrivale,sw
+354966: Ugborough Beacon,sw
+354967: Hound Tor (Manaton),sw
+354968: Manaton,sw
+354969: Buckland In The Moor,sw
+354970: Burrator Reservoir,sw
+354971: Meldon Reservoir,sw
+354972: Fernworthy Reservoir,sw
+354973: Tottiford Reservoir,sw
+354974: Kennick Reservoir,sw
+354975: Venford Reservoir,sw
+354976: Avon Dam Reservoir,sw
+354977: Tarr Steps,sw
+354978: Winsford Hill,sw
+354979: Wimbleball Lake,sw
+354980: Haddon Hill,sw
+354981: Pinkery Centre,sw
+354982: The Chains,sw
+354983: Simonsbath,sw
+354984: Wheddon Cross,sw
+354985: Dunster,sw
+354986: Manifold Valley,wm
+354987: The Roaches,wm
+354988: Edale Moorland Centre,em
+354989: Bleaklow,em
+354990: Tideswell,em
+354991: Derwent Valley,em
+354992: Burley,se
+354993: Butser Hill,se
+354994: Kincraig,he
+354995: Glenmore Lodge,he
+354996: South Harting,se
+354997: Littleton Down,se
+354998: Chanctonbury Hill,se
+354999: Balloch,st
+355000: Garwnant Visitor Centre,wl
+355001: Spelga Dam,ni
+355003: Dovedale,wm
+355855: Westgate School (Winchester),se
+355865: Crosfields School,se
+355866: West Town Primary Academy,ee
+355867: St Joseph's School,sw
+355868: Newton Poppleford Primary School,sw
+355869: Robert Fitzroy Academy,se
+355870: Ainderby Steeple Primary School,yh
+355871: Andrews Memorial Primary School,ni
+355872: Rhu Primary School,st
+355873: Newport Primary School,ta
+355874: Penglais School,wl
+355875: Rhinog Fawr,wl
+355876: Rhobell Fawr,wl
+355877: Diffwys,wl
+355878: Tarrenhendre,wl
+355879: Grib Nantlle (Nantlle Ridge)  Y Garn,wl
+355880: Cnicht,wl
+355881: Ardtalnaig,ta
+355882: Arrochymore,ta
+355883: Camps Reservoir,st
+355884: Glenlee,dg
+355885: Cwmystradllyn,wl
+355886: St Dennis,sw
+355998: Charmouth,sw
+356039: Woodingdean,se
+356043: Ffos Las Racecourse,wl
+356044: Inverarish,he
+356177: Exmouth (Beach),sw
+356427: Dane End,ee
+370092: Eastbourne (Aurn),se
+370182: Yarner Wood (Aurn),sw
+371330: Agnew's Hill,ni
+371331: Ainshval,he
+371332: Allen Crags,nw
+371333: Alphin Pike,nw
+371334: Aran Benllyn,wl
+371335: Aran Fawddwy,wl
+371336: Arenig Fawr,wl
+371337: Argyll,st
+371338: Ashover No 2,em
+371339: Askival,he
+371340: Bache Hill,wl
+371341: Ballencleuch Law,st
+371342: Barrowden,em
+371343: Bastifell,nw
+371344: Beinn A' Chruinnich,gr
+371345: Beinn An Oir,st
+371346: Beinn Nuis,st
+371347: Beinn Tarsuinn,st
+371348: Belfast Newforge,ni
+371349: Bell Craig,dg
+371350: Ben Rinnes,gr
+371351: Benbradagh,ni
+371352: Black Fell,nw
+371353: Black Hambleton,yh
+371354: Black Hill,yh
+371355: Black Law,dg
+371356: Black Mixen,wl
+371357: Black Shoulder,dg
+371358: Blackburn S Wks,dg
+371359: Blackcraig Hill,st
+371360: Blackhope Scar,dg
+371361: Blackhouse Heights,dg
+371362: Blacklorg Hill,st
+371363: Blencathra,nw
+371364: Bloodybush Edge,ne
+371365: Bodesbeck Law,dg
+371366: Bodiam,se
+371367: Boulsworth Hill,nw
+371368: Bow Fell,nw
+371369: Bradley Stoke,sw
+371370: Broad Law,dg
+371371: Brown Knoll,em
+371372: Buckden Pike,yh
+371373: Burnhope Seat,ne
+371374: Cadair Berwyn,wl
+371375: Cadair Bronwen,wl
+371376: Cadair Idris,wl
+371377: Cairnsmore Of Carsphairn,dg
+371378: Caisteal Abhail,st
+371379: Calf Top,nw
+371380: Capel Fell,dg
+371381: Cardiff,wl
+371382: Carn Ealasaid,gr
+371383: Carn Liath,gr
+371384: Carn Mor,gr
+371385: Carnanelly,ni
+371386: Carnedd Gwenllian,wl
+371387: Carnedd Dafydd,wl
+371388: Carnedd Llywelyn,wl
+371389: Carnedd Moel-Siabod,wl
+371390: Carntogher,ni
+371391: Cauldcleuch Head,dg
+371392: Cavendish,ee
+371393: Caw Fell,nw
+371394: Chapelfell Top,ne
+371395: Chimney Rock,ni
+371396: Cir Mhor,st
+371397: Claudy,ni
+371398: Clough Head,nw
+371399: Cock Mountain,ni
+371400: Cockayne Ridge,yh
+371401: Cocks Hill,sw
+371402: Cold Fell,nw
+371403: Colonsay: Homefield,st
+371404: Comb Fell,ne
+371405: Comb Law,st
+371406: Coomb Dod,st
+371407: Coran Of Portmark,dg
+371408: Corn Du,wl
+371409: Corryhabbie Hill,gr
+371410: Corserine,dg
+371411: Cosdon Hill,sw
+371412: Crag Hill,nw
+371413: Craig Y Ffynnon,wl
+371414: Craigellachie,gr
+371415: Cranmere Pool,sw
+371416: Crinkle Crags,nw
+371417: Crockbrack,ni
+371418: Croft Head,dg
+371419: Cross Fell,nw
+371420: Culter Fell,dg
+371421: Cushat Law,ne
+371422: Cut Hill,sw
+371423: Cwmystwyth,wl
+371424: Dale Head,nw
+371425: Dart Mountain,ni
+371426: Deer Law,dg
+371427: Denstone,wm
+371428: Dodd Fell,yh
+371429: Dollar Law,dg
+371430: Dollywagon Pike,nw
+371431: Dow Crag,nw
+371432: Drum,wl
+371433: Drum Peithnant,wl
+371434: Drumelzier Law,dg
+371435: Drygarn Fawr,wl
+371436: Duck's Pool,sw
+371437: Dumfries, Crichton Royal No 2,dg
+371438: Dun Da Ghaoithe,st
+371439: Dun Rig,dg
+371440: Dunkery Beacon,sw
+371441: Eagle Mountain,ni
+371442: Earncraig Hill,dg
+371443: Easby Moor,yh
+371444: Bough Beech,se
+371445: Eldon Hill,em
+371446: Elidir Fawr,wl
+371447: Empingham,em
+371448: Esk Hause,nw
+371449: Ettrick Pen,dg
+371450: Fairfield,nw
+371451: Falkirk,ta
+371452: Fan Frynych,wl
+371453: Fan Gyhirych,wl
+371454: Fan Llia,wl
+371455: Fan Nedd,wl
+371456: Fairlie,st
+371457: Faversham,se
+371458: Featherbed Top,em
+371459: Fiend's Fell,nw
+371460: Finlieve,ni
+371461: Finstown,os
+371462: Foel Goch,wl
+371463: Foel Grach,wl
+371464: Foel-Fras,wl
+371465: Fontmell Magna,sw
+371466: Forfar No 3,ta
+371467: Fountains Fell,yh
+371468: Gana Hill,dg
+371469: Garreg Lwyd,wl
+371470: Gateshead,ne
+371471: Gathersnow Hill,dg
+371472: Glaramara,nw
+371473: Glyder Fach,wl
+371474: Glyder Fawr,wl
+371475: Goat Fell,st
+371476: Gogerddan,wl
+371477: Gorllwyn,wl
+371478: Grasmoor,nw
+371479: Great Borne,nw
+371480: Great Calva,nw
+371481: Great Dodd,nw
+371482: Great End,nw
+371483: Great Gable,nw
+371484: Great Kneeset,sw
+371485: Great Knoutberry Hill,nw
+371486: Great Mis Tor,sw
+371487: Great Rhos,wl
+371488: Great Shunner Fell,yh
+371489: Great Whernside,yh
+371490: Green Lowther,st
+371491: Grey Nag,ne
+371492: Grisedale Pike,nw
+371493: Hameldown Tor,sw
+371494: Hampton W Wks,se
+371495: Hangingstone Hill,sw
+371496: Hart Fell,dg
+371497: Harter Fell (Eskdale),nw
+371498: Harter Fell (Mardale),nw
+371499: Hartside Height,nw
+371500: Hay Bluff,wl
+371501: Haycock,nw
+371502: Hedgehope Hill,ne
+371503: Helvellyn,nw
+371504: Herman Law,dg
+371505: High Neb,em
+371506: High Pike,nw
+371507: High Raise (Langdale),nw
+371508: High Raise (High Street),nw
+371509: High Seat,yh
+371510: High Seat,nw
+371511: High Stile,nw
+371512: High Street,nw
+371513: High Willhays,sw
+371514: Higher White Tor,sw
+371515: Hoaroak Hill,sw
+371516: Hob Tor,em
+371517: Hudderstone,st
+371518: Hundleshope Heights,dg
+371519: Ill Bell,nw
+371520: Ingleborough,yh
+371521: Iniscarn Forest,ni
+371522: Inverkip,st
+371523: Irvinestown,ni
+371524: Jamestown,st
+371525: Ketton,em
+371526: Kinder Low,em
+371527: Kingswood,sw
+371528: Kinlochbervie,he
+371529: Kirk Fell,nw
+371530: Kirriereoch Hill,dg
+371531: Knocklayd,ni
+371532: Knott,nw
+371533: Knoutberry Haw,nw
+371534: Lamachan Hill,dg
+371535: Larg Hill,dg
+371536: Lephinmore,st
+371537: Letterach,gr
+371538: Levington,ee
+371539: Little Fell,nw
+371540: Llanfairpwll,wl
+371541: Llwytmor,wl
+371542: Loadpot Hill,nw
+371543: Loch Fell,dg
+371544: Lochcraig Head,dg
+371545: Lochinver,he
+371546: Lose Hill,em
+371547: Lough Cowey,ni
+371548: Lower Sirhowy,wl
+371549: Lowther Hill,st
+371550: Lynch Tor,sw
+371551: Manby,em
+371552: Mam Tor,em
+371553: Margery Hill,yh
+371554: Martyr Worthy,se
+371555: Meaul,dg
+371556: Meenard Mountain,ni
+371557: Meikle Millyea,dg
+371558: Melmerby Fell,nw
+371559: Mepal,ee
+371560: Merrick,dg
+371561: Mickle Fell,ne
+371562: Middle Dodd,nw
+371563: Middle Tongue,yh
+371564: Millfire,dg
+371565: Millfore,dg
+371566: Moel Hebog,wl
+371567: Moel Sych,wl
+371568: Moelwyn Mawr,wl
+371569: Molls Cleuch Dod,dg
+371570: Morley St Botolph,ee
+371571: Morven,gr
+371572: Moss Moor,nw
+371573: Mullaghaneany,ni
+371574: Mullaghash,ni
+371575: Mullaghcarn,ni
+371576: Mullaghcloga,ni
+371577: Mullaghclogher,ni
+371578: Mullaghmore,ni
+371579: Myerscough,nw
+371580: Mylnefield,ta
+371581: Mynydd Llysiau,wl
+371582: Mynydd Perfedd,wl
+371583: Newtonmore,he
+371584: Nigg,he
+371585: Nine Standards Rigg,nw
+371586: North Heath,se
+371587: Nutt's Corner,ni
+371588: Orkney: Loch Of Hundland,os
+371589: Oughtvabeg,ni
+371590: Outberry Plain,ne
+371591: Pen Allt-Mawr,wl
+371592: Pen Cerrig-Calch,wl
+371593: Pen Llithrig Y-Wrach,wl
+371594: Pen Pumlumon-Arwystli,wl
+371595: Pen Y Garn,wl
+371596: Pendle Hill,nw
+371597: Pen-Y-Ghent,yh
+371598: Peterculter,gr
+371599: Petre's Pit,sw
+371600: Pike Hill Moss,yh
+371601: Pike Of Blisco,nw
+371602: Pillar,nw
+371603: Place Fell,nw
+371604: Preston Montford,wm
+371605: Pykestone Hill,dg
+371606: Quarriers Homes,st
+371607: Queensberry,dg
+371608: Reading University,se
+371609: Red Pike,nw
+371610: Rhos Dirion,wl
+371611: Rippon Tor,sw
+371612: Robinson,nw
+371613: Rogan's Seat,yh
+371614: Roseberry Topping,ne
+371615: Round Hill,nw
+371616: Round Hill,yh
+371617: Rumbling Bridge,ta
+371618: Rydal Fell,nw
+371619: Ryder's Hill,sw
+371620: Saddle Yoke,dg
+371621: Sandwick,os
+371622: Sawel Mountain,ni
+371623: Sca Fell,nw
+371625: Scole,ee
+371626: Seat Sandal,nw
+371627: Seatallan,nw
+371628: Severn Beach,sw
+371629: Sgurr Nan Gillean (Rhum),he
+371630: Shell Top,sw
+371631: Shining Tor,em
+371632: Sittaford Tor,sw
+371633: Skye: Prabost,he
+371634: Slapton,sw
+371635: Slieve Bearnagh,ni
+371636: Slieve Binnian,ni
+371637: Slieve Croob,ni
+371638: Slieve Donard,ni
+371639: Slieve Gallion,ni
+371640: Slieve Gullion,ni
+371641: Slieve Muck,ni
+371642: Slieveanorra,ni
+371643: Slieveavaddy,ni
+371644: Slievelamagan,ni
+371645: Slievemartin,ni
+371646: Slievenanee,ni
+371647: Snake Pass,em
+371648: Snowhope Hill,ne
+371649: Five Burrows Hill,sw
+371650: St Helens,se
+371651: Steeple,nw
+371652: Stob Law,dg
+371653: Strathy East,he
+371654: Stretton,em
+371655: Stybarrow Dodd,nw
+371656: Swatte Fell,dg
+371657: Taberon Law,dg
+371658: Templepatrick,ni
+371659: The Calf,nw
+371660: The Cheviot,ne
+371661: The Old Man Of Coniston,nw
+371662: The Peak,em
+371663: Three Barrows,sw
+371664: Three Pikes,ne
+371665: Tinto,st
+371666: Toome Bridge,ni
+371667: Trostan,ni
+371668: Tryfan,wl
+371669: Twmpa,wl
+371670: Ullscarf,nw
+371671: Viewing Hill,ne
+371672: Water Crag,yh
+371673: Waun Fach,wl
+371674: Waun Rydd,wl
+371675: Wedder Law,st
+371676: Wellesbourne,wm
+371677: Weston-Super-Mare No 2,sw
+371678: Wether Fell,yh
+371679: Weymouth,sw
+371680: Whernside,nw
+371681: White Coomb,dg
+371682: White Mountain,ni
+371683: White Ridge,sw
+371684: Whitehope Law,dg
+371685: Whitehorse Hill,sw
+371686: Whittle Hill,nw
+371687: Wild Boar Fell,nw
+371688: Win Hill,em
+371689: Wind Fell,dg
+371690: Windlestraw Law,dg
+371691: Windy Gyle,dg
+371692: Windy Standard,dg
+371693: Y Garn,wl
+371694: Yarlside,nw
+371695: Yes Tor,sw
+382108: Derry,ni
+400002: Silverstone Motor Racing Circuit,em
