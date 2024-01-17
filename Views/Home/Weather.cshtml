@@ -10,276 +10,290 @@
 
     @foreach (var period in Model.periods)
     {
-        <div id="carousel@(period.value)" class="carousel slide" data-ride="carousel" data-interval="5000">
-            <div class="carousel-inner">
-                
-        @Html.DisplayFor(item => period.value)<br>
-        @foreach (var rep in period.Rep)
-        {
-            switch (rep.W){
-                case "Not available":
-                    weatherIcon= "/images/unknown.png";
-                    break;
-                case "Trace rain":
-                    weatherIcon= "/images/drizzle.png";
-                    break;
-                case "Clear night":
-                    weatherIcon= "/images/clear-night.png";
-                    break;
-                case "Sunny day":
-                    weatherIcon= "/images/clear.png";
-                    break;
-                case "Partly cloudy (night)":
-                    weatherIcon= "/images/partly-cloudy-night.png";
-                    break;
-                case "Partly cloudy (day)":
-                    weatherIcon= "/images/partly-cloudy.png";
-                    break;
-                case "Mist":
-                    weatherIcon= "/images/fog.png";
-                    break;
-                case "Fog":
-                    weatherIcon= "/images/fog.png";
-                    break;
-                case "Cloudy":
-                    weatherIcon= "/images/cloudy.png";
-                    break;
-                case "Overcast":
-                    weatherIcon= "/images/cloudy.png";
-                    break;
-                case "Light rain shower (night)":
-                    weatherIcon= "/images/drizzle.png";
-                    break;
-                case "Sunny dayClear night":
-                    weatherIcon= "/images/drizzle.png";
-                    break;
-                case "Sunny daySunny day":
-                    weatherIcon= "/images/drizzle.png";
-                    break;
-                case "Sunny dayPartly cloudy (night)":
-                    weatherIcon= "/images/rain.png";
-                    break;
-                case "Sunny dayPartly cloudy (day)":
-                    weatherIcon= "/images/showers.png";
-                    break;
-                case "Sunny day4":
-                    weatherIcon= "/images/showers.png";
-                    break;
-                case "Sunny dayMist":
-                    weatherIcon= "/images/heavy-rain.png";
-                    break;
-                case "Sunny dayFog":
-                    weatherIcon= "/images/heavy-rain.png";
-                    break;
-                case "Sunny dayCloudy":
-                    weatherIcon= "/images/heavy-rain.png";
-                    break;
-                case "Sunny dayOvercast":
-                    weatherIcon= "/images/snow.png";
-                    break;
-                case "Sunny dayLight rain shower (night)":
-                    weatherIcon= "/images/hail.png";
-                    break;
-                case "Partly cloudy (night)Clear night":
-                    weatherIcon= "/images/hail.png";
-                    break;
-                case "Partly cloudy (night)Sunny day":
-                    weatherIcon= "/images/hail.png";
-                    break;
-                case "Partly cloudy (night)Partly cloudy (night)":
-                    weatherIcon= "/images/snow-shower.png";
-                    break;
-                case "Partly cloudy (night)Partly cloudy (day)":
-                    weatherIcon= "/images/snow-shower.png";
-                    break;
-                case "Partly cloudy (night)4":
-                    weatherIcon= "/images/snow.png";
-                    break;
-                case "Partly cloudy (night)Mist":
-                    weatherIcon= "/images/snow.png";
-                    break;
-                case "Partly cloudy (night)Fog":
-                    weatherIcon= "/images/snow.png";
-                    break;
-                case "Partly cloudy (night)Cloudy":
-                    weatherIcon= "/images/snow.png";
-                    break;
-                case "Partly cloudy (night)Overcast":
-                    weatherIcon= "/images/thunder-night.png";
-                    break;
-                case "Partly cloudy (night)Light rain shower (night)":
-                    weatherIcon= "/images/thunder-day.png";
-                    break;
-                case "Partly cloudy (day)Clear night":
-                    weatherIcon= "/images/thunder.png";
-                    break;
-                default:
-                    weatherIcon = "/images/unknown.png";
-                    break;
-            }
-            switch(rep.D)
-            {
-                case "N":
-                    rotation = 0;
-					break;
-                case "NNE":
-                    rotation = 22.5;
-					break;
-                case "NE":
-                    rotation = 45;
-					break;
-                case "ENE":
-                    rotation = 90-22.5;
-					break;
-                case "E":
-                    rotation = 90;
-					break;
-                case "ESE":
-                    rotation = 90+22.5;
-					break;
-                case "SE":
-                    rotation = 135;
-					break;
-                case "SSE":
-                    rotation = 180-22.5;
-					break;
-                case "S":
-                    rotation = 180;
-					break;
-                case "SSW":
-                    rotation = 180+22.5;
-					break;
-                case "SW":
-                    rotation = 225;
-					break;
-                case "WSW":
-                    rotation = 270-22.5;
-					break;
-                case "W":
-                    rotation = 270;
-					break;
-                case "WNW":
-                    rotation = 270+22.5;
-					break;
-                case "NW":
-                    rotation = 315;
-					break;
-                case "NWW":
-                    rotation = 360-22.5;
-					break;
-            }
-    <div class="carousel-item@(rep == period.Rep.First() ? " active" : "")" style="width: 100%; height: 100%; position: relative; flex-direction: column; justify-content: flex-start; align-items: center; display: inline-flex">
+        @Html.DisplayFor(item => period.value)
 
-    <div style="width: 352px; height: 183px; background: #D9D9D9; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 29px">
-            <div class="row">
-            <div style=" width: 200px height: 25px; color: black; font-size: 20px;  font-weight: 700; word-wrap: break-word">Beverly East Yorks</div>
+        <br>
+        <div id="carousel@(period.value)" class="carousel slide">
+            <div class="carousel-indicators">
+                @for (int i = 0; i < period.Rep.Count(); i++)
+                {
+                    <button style="background-color: #FFFFFF" type="button" data-bs-target="#carousel@(period.value)"
+                        data-bs-slide-to="@i" @if (i == 0)
+                    {
+                        <text>class="active" aria-current="true</text>
+                    } aria-label="Slide
+                    @i"></button>
+                }
             </div>
-            <div class="row justify-content-between">
-                <div class="col">
-            <div class="mx-5" style="width: 92px; height: 51px; color: black; font-size: 40px;  font-weight: 700; word-wrap: break-word">@rep.T</div>
+            <div class="carousel-inner pb-5">
+
+                @foreach (var rep in period.Rep)
+                {
+                    switch (rep.W)
+                    {
+                        case "Not available":
+                            weatherIcon = "/images/unknown.png";
+                            break;
+                        case "Trace rain":
+                            weatherIcon = "/images/drizzle.png";
+                            break;
+                        case "Clear night":
+                            weatherIcon = "/images/clear-night.png";
+                            break;
+                        case "Sunny day":
+                            weatherIcon = "/images/clear.png";
+                            break;
+                        case "Partly cloudy (night)":
+                            weatherIcon = "/images/partly-cloudy-night.png";
+                            break;
+                        case "Partly cloudy (day)":
+                            weatherIcon = "/images/partly-cloudy.png";
+                            break;
+                        case "Mist":
+                            weatherIcon = "/images/fog.png";
+                            break;
+                        case "Fog":
+                            weatherIcon = "/images/fog.png";
+                            break;
+                        case "Cloudy":
+                            weatherIcon = "/images/cloudy.png";
+                            break;
+                        case "Overcast":
+                            weatherIcon = "/images/cloudy.png";
+                            break;
+                        case "Light rain shower (night)":
+                            weatherIcon = "/images/drizzle.png";
+                            break;
+                        case "Sunny dayClear night":
+                            weatherIcon = "/images/drizzle.png";
+                            break;
+                        case "Sunny daySunny day":
+                            weatherIcon = "/images/drizzle.png";
+                            break;
+                        case "Sunny dayPartly cloudy (night)":
+                            weatherIcon = "/images/rain.png";
+                            break;
+                        case "Sunny dayPartly cloudy (day)":
+                            weatherIcon = "/images/showers.png";
+                            break;
+                        case "Sunny day4":
+                            weatherIcon = "/images/showers.png";
+                            break;
+                        case "Sunny dayMist":
+                            weatherIcon = "/images/heavy-rain.png";
+                            break;
+                        case "Sunny dayFog":
+                            weatherIcon = "/images/heavy-rain.png";
+                            break;
+                        case "Sunny dayCloudy":
+                            weatherIcon = "/images/heavy-rain.png";
+                            break;
+                        case "Sunny dayOvercast":
+                            weatherIcon = "/images/snow.png";
+                            break;
+                        case "Sunny dayLight rain shower (night)":
+                            weatherIcon = "/images/hail.png";
+                            break;
+                        case "Partly cloudy (night)Clear night":
+                            weatherIcon = "/images/hail.png";
+                            break;
+                        case "Partly cloudy (night)Sunny day":
+                            weatherIcon = "/images/hail.png";
+                            break;
+                        case "Partly cloudy (night)Partly cloudy (night)":
+                            weatherIcon = "/images/snow-shower.png";
+                            break;
+                        case "Partly cloudy (night)Partly cloudy (day)":
+                            weatherIcon = "/images/snow-shower.png";
+                            break;
+                        case "Partly cloudy (night)4":
+                            weatherIcon = "/images/snow.png";
+                            break;
+                        case "Partly cloudy (night)Mist":
+                            weatherIcon = "/images/snow.png";
+                            break;
+                        case "Partly cloudy (night)Fog":
+                            weatherIcon = "/images/snow.png";
+                            break;
+                        case "Partly cloudy (night)Cloudy":
+                            weatherIcon = "/images/snow.png";
+                            break;
+                        case "Partly cloudy (night)Overcast":
+                            weatherIcon = "/images/thunder-night.png";
+                            break;
+                        case "Partly cloudy (night)Light rain shower (night)":
+                            weatherIcon = "/images/thunder-day.png";
+                            break;
+                        case "Partly cloudy (day)Clear night":
+                            weatherIcon = "/images/thunder.png";
+                            break;
+                        default:
+                            weatherIcon = "/images/unknown.png";
+                            break;
+                    }
+                    switch (rep.D)
+                    {
+                        case "N":
+                            rotation = 0;
+                            break;
+                        case "NNE":
+                            rotation = 22.5;
+                            break;
+                        case "NE":
+                            rotation = 45;
+                            break;
+                        case "ENE":
+                            rotation = 90 - 22.5;
+                            break;
+                        case "E":
+                            rotation = 90;
+                            break;
+                        case "ESE":
+                            rotation = 90 + 22.5;
+                            break;
+                        case "SE":
+                            rotation = 135;
+                            break;
+                        case "SSE":
+                            rotation = 180 - 22.5;
+                            break;
+                        case "S":
+                            rotation = 180;
+                            break;
+                        case "SSW":
+                            rotation = 180 + 22.5;
+                            break;
+                        case "SW":
+                            rotation = 225;
+                            break;
+                        case "WSW":
+                            rotation = 270 - 22.5;
+                            break;
+                        case "W":
+                            rotation = 270;
+                            break;
+                        case "WNW":
+                            rotation = 270 + 22.5;
+                            break;
+                        case "NW":
+                            rotation = 315;
+                            break;
+                        case "NNW":
+                            rotation = 360 - 22.5;
+                            break;
+                    }
+                    <div class="carousel-item@(rep == period.Rep.First() ? " active" : "" )">
+                        <div class="card border-0">
+                            <div
+                                style="width: 100%; height: 100%; flex-direction: column; justify-content: flex-start; align-items: center; display: inline-flex">
+
+                                <div
+                                    style="width: 352px; height: 183px; background: #D9D9D9; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 29px">
+                                    <div class="row">
+                                        <div
+                                            style=" width: 200px height: 25px; color: black; font-size: 20px;  font-weight: 700; word-wrap: break-word">
+                                            Beverly East Yorks</div>
+                                    </div>
+                                    <div class="row justify-content-between">
+                                        <div class="col">
+                                            <div class="mx-5"
+                                                style="width: 92px; height: 51px; color: black; font-size: 40px;  font-weight: 700; word-wrap: break-word">
+                                                @rep.T</div>
+                                        </div>
+                                        <div class="col">
+                                            <img style="width: 64px; height: 64px" src="@weatherIcon" />
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col ps-3 pe-0">
+                                            <div
+                                                style="width: 135px; height: 53px; color: black; font-size: 12px;  font-weight: 700; word-wrap: break-word">
+                                                Feels Like: @rep.F<br />Chance of Rain: @rep.Pp<br />Humidity:
+                                                @rep.H<br />Visibility:
+                                                @rep.V<br /></div>
+                                        </div>
+                                        <div class="col ps-0 pe-0">
+                                            <div
+                                                style="width: 86px; height: 53px; color: black; font-size: 12px;  font-weight: 700; word-wrap: break-word">
+                                                Wind: @rep.S<br />Gust: @rep.G<br />UV: @rep.U</div>
+                                        </div>
+                                        <div class="col ps-3 pe-0">
+                                            <div class="row mt-0 pt-0">
+                                                <img class="p-0 ms-2"
+                                                    style="width: 48px; height: 48px; transform: rotate(@(rotation.ToString()+"deg"))"
+                                                    src="~/images/arrow.png" />
+                                            </div>
+                                            <div class="row px-0 mt-2">
+                                                <div class="px-0"
+                                                    style="width: 64px; height: 16px; text-align: center; color: black; font-size: 12px;  font-weight: 700; word-wrap: break-word">
+                                                    @rep.D</div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                }
+
+                <button style="background-color: #FFFFFF; width: 48px" class="carousel-control-prev" type="button"
+                    data-bs-target="#carousel@(period.value)" data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Previous</span>
+                </button>
+                <button style="background-color: #FFFFFF; width: 48px" class="carousel-control-next" type="button"
+                    data-bs-target="#carousel@(period.value)" data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Next</span>
+                </button>
             </div>
-            <div class="col">
-            <img style="width: 64px; height: 64px" src="@weatherIcon" />
-            </div>
-            </div>
-            <div class="row">
-                <div class="col ps-3 pe-0">
-            <div style="width: 135px; height: 53px; color: black; font-size: 12px;  font-weight: 700; word-wrap: break-word">Feels Like: @rep.F<br/>Chance of Rain: @rep.Pp<br/>Humidity: @rep.H<br/>Visibility: @rep.V<br/></div>
-            </div>
-            <div class="col ps-0 pe-0">
-            <div style="width: 86px; height: 53px; color: black; font-size: 12px;  font-weight: 700; word-wrap: break-word">Wind: @rep.S<br/>Gust: @rep.G<br/>UV: @rep.U</div>
-            </div>
-            <div class="col ps-3 pe-0">
-                <div class="row mt-0 pt-0">
-                    <img class="p-0 ms-2" style="width: 48px; height: 48px; transform: rotate(@(rotation.ToString()+"deg"));" src="~/images/arrow.png" />
-                </div>
-            <div class="row px-0 mt-2"><div class="px-0" style="width: 64px; height: 16px; text-align: center; color: black; font-size: 12px;  font-weight: 700; word-wrap: break-word">@rep.D</div></div>
-            
-            </div></div>
         </div>
-        
-        <div class="carousel-caption">
-            @Html.DisplayFor(item => rep.time)
-            </div>
-    </div>
-    }
-        
-
-        <a class="carousel-control-prev" href="#carousel@(period.value)" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-  </a>
-  <a class="carousel-control-next" href="#carousel@(period.value)" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-  </a>
-            </div>
-        </div>
     }
 
-    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-  <ol class="carousel-indicators">
-    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-  </ol>
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img class="d-block w-100" src="~/images/unknown.png" alt="First slide">
-    </div>
-    <div class="carousel-item">
-      <img class="d-block w-100" src="~/images/clear.png" alt="Second slide">
-    </div>
-    <div class="carousel-item">
-      <img class="d-block w-100" src="~/images/rain.png" alt="Third slide">
-    </div>
-  </div>
-  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-  </a>
-  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-  </a>
-</div>
 
-    @foreach(var period in Model.periods)
+    @foreach (var period in Model.periods)
     {
         @Html.DisplayFor(item => period.value)
         <table class="table">
             <thead class="thead-dark">
-            <th>Time</th>
-            <th>Weather Type</th>
-            <th>Chance of Rain</th>
-            <th>Feels Like</th>
-            <th>Temperature</th>
-            <th>Humidity</th>
-            <th>Visibility</th>
-            <th>Wind Direction</th>
-            <th>Wind Speed</th>
-            <th>Wind Gust</th>
-            <th>UV Index</th>
+                <th>Time</th>
+                <th>Weather Type</th>
+                <th>Chance of Rain</th>
+                <th>Feels Like</th>
+                <th>Temperature</th>
+                <th>Humidity</th>
+                <th>Visibility</th>
+                <th>Wind Direction</th>
+                <th>Wind Speed</th>
+                <th>Wind Gust</th>
+                <th>UV Index</th>
             </thead>
             <tbody>
-                
-        @foreach (var rep in period.Rep)
-        {<tr>
-            <td>@rep.time</td>
-            <td>@rep.W</td>
-            <td>@rep.Pp</td>
-            <td>@rep.F</td>
-            <td>@rep.T</td>
-            <td>@rep.H</td>
-            <td>@rep.V</td>
-            <td>@rep.D</td>
-            <td>@rep.S</td>
-            <td>@rep.G</td>
-            <td>@rep.U</td>
 
-            </tr>
-        }
+                @foreach (var rep in period.Rep)
+                {
+                    <tr>
+                        <td>@rep.time</td>
+                        <td>@rep.W</td>
+                        <td>@rep.Pp</td>
+                        <td>@rep.F</td>
+                        <td>@rep.T</td>
+                        <td>@rep.H</td>
+                        <td>@rep.V</td>
+                        <td>@rep.D</td>
+                        <td>@rep.S</td>
+                        <td>@rep.G</td>
+                        <td>@rep.U</td>
+
+                    </tr>
+                }
             </tbody>
-        
+
         </table>
     }
 
-    
-    
+
+
 </div>
