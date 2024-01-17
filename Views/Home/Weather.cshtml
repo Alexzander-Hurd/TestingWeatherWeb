@@ -8,12 +8,18 @@
 <div class="text-center">
     <h1 class="display-4">Weather</h1>
 
+    <label for="Selection">Select Day</label>
+    <select class="form-control" id="Selection" onchange="Changed(event)">
+        @foreach (var period in Model.periods)
+        {
+            <option value="carousel@(period.value)">@period.value</option>
+        }
+    </select>
+
+<br>
     @foreach (var period in Model.periods)
     {
-        @Html.DisplayFor(item => period.value)
-
-        <br>
-        <div id="carousel@(period.value)" class="carousel slide">
+        <div id="carousel@(period.value)" class="carousel slide @(period == Model.periods.First() ? "" : "d-none" )">
             <div class="carousel-indicators">
                 @for (int i = 0; i < period.Rep.Count(); i++)
                 {
@@ -253,7 +259,7 @@
     }
 
 
-    @foreach (var period in Model.periods)
+    @* @foreach (var period in Model.periods)
     {
         @Html.DisplayFor(item => period.value)
         <table class="table">
@@ -292,8 +298,24 @@
             </tbody>
 
         </table>
-    }
+    } *@
 
 
 
 </div>
+
+<script>
+    let selected = document.getElementById('carousel@(Model.periods.First().value)');
+
+    const Changed = ({ target }) => {
+        // Check if there's a selected element and hide it
+        if (selected && selected !== target.value) 
+        {
+            selected.classList.add("d-none")
+        }
+        // Set selected to latest element
+        selected = document.getElementById(target.value);
+        // remove 'hidden' class from selected
+        selected.classList.remove("d-none")
+    }
+</script>
