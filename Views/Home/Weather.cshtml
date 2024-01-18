@@ -1,4 +1,4 @@
-﻿@model WeatherViewModel
+@model WeatherViewModel
 @{
     double rotation = 270;
     string weatherIcon = "~/images/unkown.png";
@@ -198,7 +198,8 @@
                                     <div class="row">
                                         <div
                                             style=" width: 200px height: 25px; color: black; font-size: 20px;  font-weight: 700; word-wrap: break-word">
-                                            Beverly East Yorks</div>
+                                            @Model.location
+                                        </div>
                                     </div>
                                     <div class="row justify-content-between">
                                         <div class="col">

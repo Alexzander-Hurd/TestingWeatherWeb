@@ -1,4 +1,4 @@
-﻿using System.Diagnostics;
+using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using WeatherWeb.Models;
 using WeatherWeb.Models.DataModels;
@@ -92,6 +92,7 @@ public class HomeController : Controller
 
             dynamic obj = JsonConvert.DeserializeObject(json);
             List<Period> periods = new List<Period>();
+            model.location = obj.SiteRep.DV.Location["name"].ToString();
             foreach (var rPeriod in obj.SiteRep.DV.Location["Period"])
             {
                 periods.Add(JsonConvert.DeserializeObject<Period>(rPeriod.ToString()));
