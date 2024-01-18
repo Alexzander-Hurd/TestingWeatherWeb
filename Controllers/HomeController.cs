@@ -1,4 +1,4 @@
-using System.Diagnostics;
+﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using WeatherWeb.Models;
 using WeatherWeb.Models.DataModels;
@@ -49,41 +49,6 @@ public class HomeController : Controller
             {"EX", "Excellent (>40k)m"}
         };
 
-        Dictionary<string, string> Weather = new Dictionary<string, string>()
-        {
-            {"NA", "Not available"},
-            {"-1", "Trace rain"},
-            {"0", "Clear night"},
-            {"1", "Sunny day"},
-            {"2", "Partly cloudy (night)"},
-            {"3", "Partly cloudy (day)"},
-            {"5", "Mist"},
-            {"6", "Fog"},
-            {"7", "Cloudy"},
-            {"8", "Overcast"},
-            {"9", "Light rain shower (night)"},
-            {"10", "Light rain shower (day)"},
-            {"11", "Drizzle"},
-            {"12", "Light rain"},
-            {"13", "Heavy rain shower (night)"},
-            {"14", "Heavy rain shower (day)"},
-            {"15", "Heavy rain"},
-            {"16", "Sleet rain shower (night)"},
-            {"17", "Sleet rain shower (day)"},
-            {"18", "Sleet"},
-            {"19", "Hail rain shower (night)"},
-            {"20", "Hail rain shower (day)"},
-            {"21", "Hail"},
-            {"22", "Light snow shower (night)"},
-            {"23", "Light snow shower (day)"},
-            {"24", "Light snow"},
-            {"25", "Heavy snow shower (night)"},
-            {"26", "Heavy snow shower (day)"},
-            {"27", "Heavy snow"},
-            {"28", "Thunder shower (night)"},
-            {"29", "Thunder shower (day)"},
-            {"30", "Thunder"}
-        };
 
         using (StreamReader r = new StreamReader("weather.json"))
         {
@@ -114,7 +79,6 @@ public class HomeController : Controller
                         rep.time += 0;
                     }
                     rep.V = Visibility[rep.V];
-                    rep.W = Weather[rep.W];
                 }
             }
             model.periods = periods;
