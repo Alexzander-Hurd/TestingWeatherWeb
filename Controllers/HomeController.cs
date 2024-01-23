@@ -1,9 +1,11 @@
-using System.Diagnostics;
+﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using WeatherWeb.Models;
 using WeatherWeb.Models.DataModels;
 using Newtonsoft.Json;
 using System.ComponentModel;
+using System.Net;
+using System.Text;
 
 namespace WeatherWeb.Controllers;
 
@@ -96,6 +98,34 @@ public class HomeController : Controller
                 }
             }
         }
+
+        string path = "weatherdata/" + closestID + ".json";
+
+
+
+        if (!System.IO.File.Exists(path) || System.IO.File.GetLastWriteTimeUtc(path)<= DateTime.UtcNow.Date)
+        {
+            _logger.LogInformation("Curling page");
+            string url = @"http://datapoint.metoffice.gov.uk/public/data/val/wxfcs/all/json/" + closestID + @"?res=3hourly&key=77f59cd6-511a-4558-a286-79641bacacf9";
+            _logger.LogInformation(url);
+            WebRequest request = WebRequest.Create(url);
+
+            WebResponse response = request.GetResponse();
+            Stream responseStream = response.GetResponseStream();
+            using (StreamReader sr = new StreamReader(responseStream, Encoding.UTF8))
+            {
+                string content = sr.ReadToEnd();
+
+                using (StreamWriter sw = new StreamWriter(path))
+                {
+                    sw.Write(content);
+                    sw.Flush();
+                    sw.Close();
+                }
+            }
+        }
+
+        using (StreamReader r = new StreamReader(path))
         {
             string json = r.ReadToEnd();
             json = json.Split("DV")[0].Replace("$", "desc") + "DV" + json.Split("DV")[1].Replace("$", "time");
@@ -132,8 +162,8 @@ public class HomeController : Controller
         }
     }
 
-    public IActionResult LatValid(string Lat){
-        _logger.LogInformation("Entered Validate Lat");
+    public IActionResult LatValid(string Lat)
+    {
         double dLat;
         double lowerLim = 49.96;
         double upperLim = 60.86;
@@ -146,15 +176,16 @@ public class HomeController : Controller
         {
             return Json($"Please enter coordinates within the UK");
         }
-        
+
         return Json(true);
     }
 
-        public IActionResult LongValid(string Long){
+    public IActionResult LongValid(string Long)
+    {
         _logger.LogInformation("Entered Validate Lat");
 
         double dLong;
-        
+
         double lowerLim = -8.2;
         double upperLim = 1.78;
 
@@ -162,7 +193,7 @@ public class HomeController : Controller
         {
             return Json($"Please enter a numerical value");
         }
-        
+
         if (dLong < lowerLim || dLong > upperLim)
         {
             return Json($"Please enter coordinates within the UK");

@@ -372,3 +372,5 @@ FodyWeavers.xsd
 # exclude python venv for scripts
 venv/
 __pycache__/
+
+weatherdata/
