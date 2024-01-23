@@ -86,4 +86,42 @@ public class HomeController : Controller
             return View(model);
         }
     }
+
+    public IActionResult LatValid(string Lat){
+        _logger.LogInformation("Entered Validate Lat");
+        double dLat;
+        double lowerLim = 49.96;
+        double upperLim = 60.86;
+        if (!double.TryParse(Lat, out dLat))
+        {
+            return Json($"Please enter a numerical value");
+        }
+
+        if (dLat < lowerLim || dLat > upperLim)
+        {
+            return Json($"Please enter coordinates within the UK");
+        }
+        
+        return Json(true);
+    }
+
+        public IActionResult LongValid(string Long){
+        _logger.LogInformation("Entered Validate Lat");
+
+        double dLong;
+        
+        double lowerLim = -8.2;
+        double upperLim = 1.78;
+
+        if (!double.TryParse(Long, out dLong))
+        {
+            return Json($"Please enter a numerical value");
+        }
+        
+        if (dLong < lowerLim || dLong > upperLim)
+        {
+            return Json($"Please enter coordinates within the UK");
+        }
+        return Json(true);
+    }
 }

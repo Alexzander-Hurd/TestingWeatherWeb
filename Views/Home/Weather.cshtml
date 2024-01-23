@@ -1,4 +1,4 @@
-@model WeatherViewModel
+﻿@model WeatherViewModel
 @{
     double rotation = 270;
     string weatherIcon = "~/images/unkown.png";
@@ -50,9 +50,11 @@
         <div class="row justify-content-around">
             <div class="col-3"></div>
             <div class="col-6 justify-content-around">
+                <span asp-validation-for="Lat" class="text-danger"></span>
                 Latitude: 
                 <input style="color-scheme:dark" asp-for="Lat" id="Lat" />
                 <br/><br/>
+                <span asp-validation-for="Long" class="text-danger"></span>
                 Longitude: 
                 <input style="color-scheme:dark" asp-for="Long" id="Long" /> 
             </div>
