@@ -1,4 +1,4 @@
-﻿using System.Diagnostics;
+using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using WeatherWeb.Models;
 using WeatherWeb.Models.DataModels;
@@ -35,9 +35,9 @@ public class HomeController : Controller
         return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
     }
 
-    public IActionResult Weather()
+    public IActionResult Weather(WeatherViewModel data)
     {
-        WeatherViewModel model = new WeatherViewModel();
+
         Dictionary<string, string> Visibility = new Dictionary<string, string>()
         {
             {"UN", "Unknown)"},
@@ -50,7 +50,52 @@ public class HomeController : Controller
         };
 
 
-        using (StreamReader r = new StreamReader("weather.json"))
+        WeatherViewModel model;
+        if (string.IsNullOrEmpty(data.Lat) || string.IsNullOrEmpty(data.Long))
+        {
+            model = new WeatherViewModel();
+            model.Lat = "53.8498";
+            model.Long = "-0.4576";
+        }
+        else
+        {
+            if (double.TryParse(data.Lat, out double trash) && double.TryParse(data.Long, out double trash2))
+            {
+                model = data;
+            }
+            else
+            {
+                model = new WeatherViewModel();
+                model.Lat = "53.8498";
+                model.Long = "-0.4576";
+
+            }
+        }
+
+
+        string closestID = "NA";
+        double closest = double.MaxValue;
+
+        using (StreamReader r = new StreamReader("sitelist.json"))
+        {
+            string json = r.ReadToEnd();
+            dynamic obj = JsonConvert.DeserializeObject(json);
+
+            foreach (var site in obj.Locations["Location"])
+            {
+                double tempLat = site["latitude"];
+                double tempLong = site["longitude"];
+                double latDiff = Math.Abs(double.Parse(model.Lat) - tempLat);
+                double longDiff = Math.Abs(double.Parse(model.Long) - tempLong);
+                double distance = Math.Abs(Math.Sqrt((latDiff * latDiff) + (longDiff * longDiff)));
+
+                if (distance < closest)
+                {
+                    closest = distance;
+                    closestID = site["id"];
+                }
+            }
+        }
         {
             string json = r.ReadToEnd();
             json = json.Split("DV")[0].Replace("$", "desc") + "DV" + json.Split("DV")[1].Replace("$", "time");
