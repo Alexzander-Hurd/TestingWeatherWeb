@@ -1,4 +1,4 @@
-﻿@model WeatherViewModel
+@model WeatherViewModel
 @{
     double rotation = 270;
     string weatherIcon = "~/images/unkown.png";
@@ -44,8 +44,20 @@
 }
 
 <div class="text-center">
-    <h1 class="display-4">Weather</h1>
+    <h1 class="display-4">Weather</h1><br/>
 
+    <form asp-action="Weather" method="get" id="form">
+        <div class="row justify-content-around">
+            <div class="col-3"></div>
+            <div class="col-6 justify-content-around">
+                Latitude: 
+                <input style="color-scheme:dark" asp-for="Lat" id="Lat" />
+                <br/><br/>
+                Longitude: 
+                <input style="color-scheme:dark" asp-for="Long" id="Long" /> 
+            </div>
+            <div class="col-3"></div>
+    </form>
     <label for="Selection">Select Day</label>
     <select class="form-control" id="Selection" onchange="Changed(event)">
         @foreach (var period in Model.periods)
